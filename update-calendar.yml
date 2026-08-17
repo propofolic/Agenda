@@ -1,0 +1,35 @@
+name: Update concert calendar
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # tous les jours a 6h00 UTC (7h/8h en France selon la saison)
+  workflow_dispatch:        # permet de lancer le workflow manuellement depuis GitHub
+
+permissions:
+  contents: write            # necessaire pour que le workflow puisse commit/push
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit updated events.ics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add events.ics
+          git diff --quiet && git diff --staged --quiet || git commit -m "Mise a jour automatique des evenements"
+          git push
