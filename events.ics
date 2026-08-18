@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Agenda Concerts Romandie//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Fontaines D.C.+ Leftovers17.08.2026 - Complet — Docks
-DTSTART;VALUE=DATE:20260817
-UID:543eaecf-f266-5fcb-b842-63aecc7f0cdd
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20260817/fontaines-d-c
- -2/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fontaines D.C.+ Leftovers18.08.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20260818
 UID:95c95662-0e4d-5d50-a14e-8be63542efc0
@@ -870,10 +862,10 @@ DESCRIPTION:https://dclub.ch/agenda/20260912/kiff-one#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MEOW Kiff One Dj Sticky — D! Club
+SUMMARY:LABEL SUISSE LUM Fauste — D! Club
 DTSTART;VALUE=DATE:20260918
-UID:5f9c7bf4-cabb-5766-8d93-c1fd77e34fde
-DESCRIPTION:https://dclub.ch/agenda/20260918/kiff-one#abc
+UID:94dacd07-8b3b-5c9d-9d2e-60468780f9df
+DESCRIPTION:https://dclub.ch/agenda/20260918/lum#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
