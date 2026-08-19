@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Agenda Concerts Romandie//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Fontaines D.C.+ Leftovers18.08.2026 - Complet — Docks
-DTSTART;VALUE=DATE:20260818
-UID:95c95662-0e4d-5d50-a14e-8be63542efc0
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20260818/fontaines-d-c
- -3/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RAVYN LENAE25.08.2026 - AnnuléUnique date suisse — Docks
 DTSTART;VALUE=DATE:20260825
 UID:29f7ae41-8e73-555e-ba2f-6e2cc04e8c36
@@ -267,6 +259,13 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261204/lebanon-hanov
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paris Paloma05.12.2026 — Docks
+DTSTART;VALUE=DATE:20261205
+UID:6b42cdf0-a347-5e6a-9296-eab9401f5b94
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20261205/paris-paloma/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CORY WONG& SPECIAL GUESTS08.12.2026The Fretboard Odyssey — Docks
 DTSTART;VALUE=DATE:20261208
 UID:6d7d5549-d72e-572d-bf6a-08bd20cec47f
@@ -471,6 +470,13 @@ SUMMARY:ETRAN DE L'AÏR (NG) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20261119
 UID:e3b1135b-ebe4-5f74-8a19-77db033f2dd8
 DESCRIPTION:https://www.leromandie.ch/event/etran-de-lair-ng-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAKNA (CH) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20261120
+UID:b2cb1ccc-502e-5b02-be1a-6d33b3dfb14e
+DESCRIPTION:https://www.leromandie.ch/event/lakna-ch-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -951,9 +957,9 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/14-09-26-atomic-aggressor-
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA RUMEUR — Le Rez-Usine
+SUMMARY:LA RUMEUR + COSTA — Le Rez-Usine
 DTSTART;VALUE=DATE:20260918
-UID:bfb0df37-f0a1-5b51-a2e5-4af11d65650c
+UID:ba1ac2d9-c2ad-56f9-9cc2-dbface5dab6f
 DESCRIPTION:https://rez-usine.ch/portfolio-item/18-09-26-la-rumeur/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
@@ -1165,6 +1171,14 @@ DESCRIPTION:https://www.la-breche.fun/events/27-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:samedi 10 . 31  Le gros Chaudron magique de la terrifiante soirée
+  d'Halloween (déguisé) Saeko Killy Dany Henry Kiko Ono — La Brèche
+DTSTART;VALUE=DATE:20261031
+UID:62bf1498-dfb5-5baa-866f-4bbf01e34739
+DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
 DTSTART;VALUE=DATE:20260820
 UID:7ce00493-3e8c-5f96-9e72-e53f1c62c5f3
@@ -1197,6 +1211,13 @@ SUMMARY:VERNISSAGE LIVE! — La Gravière
 DTSTART;VALUE=DATE:20260903
 UID:b14cbf07-8552-5f8d-bc57-5ffc20c485ab
 DESCRIPTION:https://lagraviere.ch/evenement/vernissage-live-12/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIP HOP LIVE! — La Gravière
+DTSTART;VALUE=DATE:20261003
+UID:8eeec0ca-138a-5750-a62f-ba4e7a069243
+DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-22/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1308,6 +1329,15 @@ SUMMARY:DIRTY THREE [AUS] Indie rock Antigel Extra — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261028
 UID:4d820d91-cbcb-5bf3-b8bf-e3de58707744
 DESCRIPTION:https://ptrnet.ch/evenement/dirty-three/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheer Ter­ror (US)\, Tear Up (UK) & more Sheer Terror [US] punk 
+ hardcore Tear Up [UK] street punk oï Panik Ltdc [FR] punk The Rots [CH] p
+ unk — Post Tenebras Rock
+DTSTART;VALUE=DATE:20261029
+UID:67f5cd52-1fdc-5aea-a44d-77ee7a6324ff
+DESCRIPTION:https://ptrnet.ch/evenement/sheer-terror-us-tear-up-uk-more/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
