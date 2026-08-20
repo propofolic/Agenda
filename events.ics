@@ -9,9 +9,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20260825/ravyn-lenae/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wolfmother26.08.2026 — Docks
+SUMMARY:Wolfmother+ Hey Satan26.08.2026 — Docks
 DTSTART;VALUE=DATE:20260826
-UID:7fade1b1-fe81-5bf2-8ab1-19312706af02
+UID:f34461e0-94a3-57ce-9b93-2d137fe78df6
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20260826/wolfmother-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -854,9 +854,9 @@ DESCRIPTION:https://dclub.ch/agenda/20260905/dj-klash#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SUBET Wilkinson (UK) Mara (CH) Rosa Pagano Ruffy — D! Club
+SUMMARY:SUBSET Wilkinson (UK) Mara (CH) Rosa Pagano — D! Club
 DTSTART;VALUE=DATE:20260911
-UID:15cf46ee-8b09-5508-aa48-bff4a5a64cce
+UID:d1e10b06-aa78-5374-9516-9f3fb3532124
 DESCRIPTION:https://dclub.ch/agenda/20260911/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
