@@ -948,6 +948,20 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/soiree-mamans/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Graille — Le Bout du Monde
+DTSTART;VALUE=DATE:20260830
+UID:3c9ac2dc-8360-545f-aff6-0a3c4d1c24a8
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-17/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drink&Draw — Le Bout du Monde
+DTSTART;VALUE=DATE:20260901
+UID:33648ca2-8aef-5d0d-9ed0-6f063f3acdf2
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-10/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ATOMIC AGGRESSOR + ECTOVOID : ANCIENT UNREALITY TOUR — Le Rez-Us
  ine
 DTSTART;VALUE=DATE:20260914
@@ -1177,13 +1191,6 @@ DTSTART;VALUE=DATE:20261031
 UID:62bf1498-dfb5-5baa-866f-4bbf01e34739
 DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20260820
-UID:7ce00493-3e8c-5f96-9e72-e53f1c62c5f3
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-85/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BLACK RAVE CULTURE — La Gravière
