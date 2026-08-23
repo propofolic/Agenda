@@ -647,13 +647,6 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trigones Plus/Crazy Sweeper Rock n' Hard — Les Citrons Masqués
-DTSTART;VALUE=DATE:20260821
-UID:b53fb1de-2588-52c5-941f-8ac2dcb6934a
-DESCRIPTION:https://citronsmasques.ch/events/trigones-plus-crazy-sweeper/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GINSENGBONBONS (D)/The Boogie Van Ska/Rock/Métal — Les Citrons 
  Masqués
 DTSTART;VALUE=DATE:20260829
@@ -800,13 +793,6 @@ DTSTART;VALUE=DATE:20261128
 UID:aa2aee34-9ebb-5291-bebe-7b5ea5723ec3
 DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLAY HARD Mad Dog (IT) FLKN REKKT Rōse (CH) — D! Club
-DTSTART;VALUE=DATE:20260821
-UID:aab3e479-1d95-503c-a33d-849ba5d78313
-DESCRIPTION:https://dclub.ch/agenda/20260821/mad-dog#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DOWNTOWN BOOGIE Kiff One Dj Rafal DJ Luciano Jiggy Jones — D! Cl
@@ -1080,14 +1066,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:samedi 08 . 22  Hors-programme : Helvetiarockt music lab Home reco
- rding weekender — La Brèche
-DTSTART;VALUE=DATE:20260822
-UID:2d0036c7-681c-5e75-88f8-c71f354c5601
-DESCRIPTION:https://www.la-breche.fun/events/22-08-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:dimanche 08 . 23  Hors-programme : Helvetiarockt music lab Home re
  cording weekender — La Brèche
 DTSTART;VALUE=DATE:20260823
@@ -1191,13 +1169,6 @@ DTSTART;VALUE=DATE:20261031
 UID:62bf1498-dfb5-5baa-866f-4bbf01e34739
 DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLACK RAVE CULTURE — La Gravière
-DTSTART;VALUE=DATE:20260821
-UID:c4e97fa1-4add-5767-8de4-4ddb2e1b3a06
-DESCRIPTION:https://lagraviere.ch/evenement/black-rave-culture/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RITMO x SERIOUS BUSINESS — La Gravière
