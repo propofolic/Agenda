@@ -605,20 +605,6 @@ DESCRIPTION:https://www.leromandie.ch/event/triple-b-par-les-olympiens
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:That’s All Folks — Folklor
-DTSTART;VALUE=DATE:20260821
-UID:0d665207-a56d-5b34-8650-ef6871f2d7ff
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Affair — Folklor
-DTSTART;VALUE=DATE:20260822
-UID:428c8a79-278a-5ba5-8b3f-3d861f73efee
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gates Of Paradise — Folklor
 DTSTART;VALUE=DATE:20260827
 UID:8346ef22-b0db-5740-a31e-a9160e8600ef
@@ -795,14 +781,6 @@ DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DOWNTOWN BOOGIE Kiff One Dj Rafal DJ Luciano Jiggy Jones — D! Cl
- ub
-DTSTART;VALUE=DATE:20260822
-UID:a565d9b6-c52f-5b61-a07d-bfc3ddec6f5e
-DESCRIPTION:https://dclub.ch/agenda/20260822/kiff-one#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PLAYHARD Luca Agnelli (IT) Djerry C Ricciø Deb McCormick (CH) —
   D! Club
 DTSTART;VALUE=DATE:20260828
@@ -840,10 +818,11 @@ DESCRIPTION:https://dclub.ch/agenda/20260911/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DOWNTOWN BOOGIE Kiff One Dj Rafal Jiggy Jones — D! Club
+SUMMARY:DOWNTOWN BOOGIE Vincz Lee Kiff One Dj Rafal Jiggy Jones — D! Clu
+ b
 DTSTART;VALUE=DATE:20260912
-UID:6b50ce77-3e9a-5be6-8e1e-73a7cb5b1b95
-DESCRIPTION:https://dclub.ch/agenda/20260912/kiff-one#d-club
+UID:4f167804-4841-5026-84ec-bb38f05db4e3
+DESCRIPTION:https://dclub.ch/agenda/20260912/vincz-lee#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1066,14 +1045,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:dimanche 08 . 23  Hors-programme : Helvetiarockt music lab Home re
- cording weekender — La Brèche
-DTSTART;VALUE=DATE:20260823
-UID:46a1081f-fe61-54a9-8f8b-9b2dfc66a603
-DESCRIPTION:https://www.la-breche.fun/events/23-08-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:vendredi 09 . 04  Hors-Programme : Les afters du Tourne-Films Fest
  ival Karaoké — La Brèche
 DTSTART;VALUE=DATE:20260904
@@ -1169,13 +1140,6 @@ DTSTART;VALUE=DATE:20261031
 UID:62bf1498-dfb5-5baa-866f-4bbf01e34739
 DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RITMO x SERIOUS BUSINESS — La Gravière
-DTSTART;VALUE=DATE:20260822
-UID:fb77660f-51bc-51ee-b835-f5a46be2f333
-DESCRIPTION:https://lagraviere.ch/evenement/ritmo-x-serious-business/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
