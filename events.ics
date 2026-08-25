@@ -811,18 +811,19 @@ DESCRIPTION:https://dclub.ch/agenda/20260905/dj-klash#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SUBSET Wilkinson (UK) Mara (CH) Rosa Pagano — D! Club
+SUMMARY:SUBSET Wilkinson (UK) Mara (CH) Rosa Pagano Gaussian b2b Ostral 
+ — D! Club
 DTSTART;VALUE=DATE:20260911
-UID:d1e10b06-aa78-5374-9516-9f3fb3532124
+UID:39a793b8-35fb-5d33-b6a2-3a4891bff0b8
 DESCRIPTION:https://dclub.ch/agenda/20260911/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DOWNTOWN BOOGIE Vincz Lee Kiff One Dj Rafal Jiggy Jones — D! Clu
- b
+SUMMARY:DOWNTOWN BOOGIE Viga Vincz Lee Kiff One Dj Rafal Jiggy Jones — D
+ ! Club
 DTSTART;VALUE=DATE:20260912
-UID:4f167804-4841-5026-84ec-bb38f05db4e3
-DESCRIPTION:https://dclub.ch/agenda/20260912/vincz-lee#d-club
+UID:c12de600-75ba-5b5b-8239-32f282d72525
+DESCRIPTION:https://dclub.ch/agenda/20260912/viga#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1124,6 +1125,14 @@ SUMMARY:mercredi 10 . 21  Team Work Leo Hermitt — La Brèche
 DTSTART;VALUE=DATE:20261021
 UID:7475f1d3-d3d3-5ecb-8c99-66b50acf10c6
 DESCRIPTION:https://www.la-breche.fun/events/21-10-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vendredi 10 . 23  Hors-Programme : Vibrations Forward Aïda Gabrie
+ lle Diop & guest Vibrations Forward — La Brèche
+DTSTART;VALUE=DATE:20261023
+UID:627c1dc4-4588-5ac0-94d5-cb8be41d1ea4
+DESCRIPTION:https://www.la-breche.fun/events/23-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
