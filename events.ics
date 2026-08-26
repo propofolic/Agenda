@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Agenda Concerts Romandie//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:RAVYN LENAE25.08.2026 - AnnuléUnique date suisse — Docks
-DTSTART;VALUE=DATE:20260825
-UID:29f7ae41-8e73-555e-ba2f-6e2cc04e8c36
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20260825/ravyn-lenae/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wolfmother+ Hey Satan26.08.2026 — Docks
 DTSTART;VALUE=DATE:20260826
 UID:f34461e0-94a3-57ce-9b93-2d137fe78df6
@@ -137,10 +130,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261030/so-la-lune-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Walk off the Earth+ special guests: Luminati Suns01.11.2026Unique 
- date suisse — Docks
+SUMMARY:Walk off the Earth+ Crash Adams01.11.2026Unique date suisse — Do
+ cks
 DTSTART;VALUE=DATE:20261101
-UID:e5dad4e4-e8ab-57f3-833b-b094a056d762
+UID:6700fc4f-4d2f-5bfd-8ef7-28357e04b5f3
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261101/walk-off-the-
  earth-2/
 LOCATION:Docks\, Lausanne
@@ -841,9 +834,9 @@ DESCRIPTION:https://dclub.ch/agenda/20260918/lum#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:urban tropical Mathematic — D! Club
+SUMMARY:URBAN TROPICAL Mathematic — D! Club
 DTSTART;VALUE=DATE:20260919
-UID:733e4640-86ec-5531-8b92-2318576f3b28
+UID:83c9cf35-ecb8-5205-94f4-ef8b1b24b81e
 DESCRIPTION:https://dclub.ch/agenda/20260919/mathematic#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1176,6 +1169,13 @@ SUMMARY:VERNISSAGE LIVE! — La Gravière
 DTSTART;VALUE=DATE:20260903
 UID:b14cbf07-8552-5f8d-bc57-5ffc20c485ab
 DESCRIPTION:https://lagraviere.ch/evenement/vernissage-live-12/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RITMO — La Gravière
+DTSTART;VALUE=DATE:20260905
+UID:68bc3a0f-c5fc-5ad8-af79-c29bf4b1d602
+DESCRIPTION:https://lagraviere.ch/evenement/ritmo-41/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
