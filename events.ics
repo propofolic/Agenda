@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Agenda Concerts Romandie//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Wolfmother+ Hey Satan26.08.2026 — Docks
-DTSTART;VALUE=DATE:20260826
-UID:f34461e0-94a3-57ce-9b93-2d137fe78df6
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20260826/wolfmother-2/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EXPOSITION : La Dolce\, deux regards09.09.2026 - 01.11.2026VERNISS
  AGE LE MERCREDI 9 SEPTEMBRE À 18H30 — Docks
 DTSTART;VALUE=DATE:20260909
@@ -18,9 +11,9 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TR/ST11.09.2026Unique date suisse — Docks
+SUMMARY:TR/ST+ Torba11.09.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20260911
-UID:c57c874a-9ec9-5eec-bb5d-5191565fb56d
+UID:6a92004a-03c7-573e-9c33-ccbb667495a3
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20260911/tr-st/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -78,9 +71,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261016/yard-act/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Valentino Vivace Experience17.10.2026 — Docks
+SUMMARY:The Valentino Vivace Experience+ Corine (DJ SET)17.10.2026 — Doc
+ ks
 DTSTART;VALUE=DATE:20261017
-UID:583c7e0f-a42d-54d2-b7d5-933bc2bc1475
+UID:5beaffe6-5efc-507e-8e41-a3caca125928
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261017/the-valentino
  -vivace-experience/
 LOCATION:Docks\, Lausanne
@@ -193,11 +187,12 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261117/portugal-the-
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boy Harsher18.11.2026Unique date suisse — Docks
+SUMMARY:Boy Harsher+ Choir Boy + Kontravoid18.11.2026Unique date suisse 
+ — Docks
 DTSTART;VALUE=DATE:20261118
-UID:e72c91b3-11fe-5b99-ad61-95b3a18302c7
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261118/boy-harsher-2
- /
+UID:d8418bd2-e760-5fc5-88c8-15dfa3cf1dfb
+DESCRIPTION:https://www.docks.ch/evenement/evenements/20261118/boy-harsher
+ -2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -505,6 +500,13 @@ DESCRIPTION:https://www.leromandie.ch/event/coilguns-vernissage-ch-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TÄRA (IT/PS) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20261217
+UID:12dedea5-c316-5572-8bea-d4e524863919
+DESCRIPTION:https://www.leromandie.ch/event/tara-itps-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AFTER PARY : LAUSANNE PRIDE #SAMEDI — Le Romandie
 DTSTART;VALUE=DATE:20260627
 UID:b639c44c-6859-5efd-9eff-9c4af5864aa8
@@ -598,13 +600,6 @@ DESCRIPTION:https://www.leromandie.ch/event/triple-b-par-les-olympiens
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gates Of Paradise — Folklor
-DTSTART;VALUE=DATE:20260827
-UID:8346ef22-b0db-5740-a31e-a9160e8600ef
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Folklor Nation — Folklor
 DTSTART;VALUE=DATE:20260828
 UID:6e1bbd05-567c-5d10-9ca7-a27a86f98a6f
@@ -619,9 +614,37 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Studio — Folklor
+DTSTART;VALUE=DATE:20260903
+UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evermas — Folklor
+DTSTART;VALUE=DATE:20260904
+UID:a5a48362-966a-5f64-a806-9db6a1fe5744
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Querelle — Folklor
 DTSTART;VALUE=DATE:20260905
 UID:5cce3d1f-b442-5f65-b288-b747f198ee5b
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nocturna — Folklor
+DTSTART;VALUE=DATE:20260911
+UID:9d839a48-487f-5851-9b7d-86ac8eb88a80
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That’s All Folks — Folklor
+DTSTART;VALUE=DATE:20260912
+UID:0d665207-a56d-5b34-8650-ef6871f2d7ff
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -634,9 +657,10 @@ DESCRIPTION:https://citronsmasques.ch/events/ginsengbonbons-d-bougie-van/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:After Braderie ALL STYLE — Les Citrons Masqués
+SUMMARY:After Braderie Techno/industriel\, uptempo\, acidcore et autres 
+ — Les Citrons Masqués
 DTSTART;VALUE=DATE:20260904
-UID:f135d888-2727-558a-9316-023946bcc9d2
+UID:598a9bbe-fabd-570a-a182-39d6efd83543
 DESCRIPTION:https://citronsmasques.ch/events/after-braderie/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
@@ -812,10 +836,10 @@ DESCRIPTION:https://dclub.ch/agenda/20260911/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DOWNTOWN BOOGIE Viga Vincz Lee Kiff One Dj Rafal Jiggy Jones — D
+SUMMARY:DOWNTOWN BOOGIE Viga Kiff One Vincz Lee Dj Rafal Jiggy Jones — D
  ! Club
 DTSTART;VALUE=DATE:20260912
-UID:c12de600-75ba-5b5b-8239-32f282d72525
+UID:633f98ba-ae36-5200-9b15-7dfecb2af213
 DESCRIPTION:https://dclub.ch/agenda/20260912/viga#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -862,6 +886,14 @@ DESCRIPTION:https://dclub.ch/agenda/20260926/wild-pich#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Space Odyssey Worakls (FR) Rodriguez Jr live Birrd Djerry C — D!
+  Club
+DTSTART;VALUE=DATE:20261002
+UID:62496ecc-8716-5ac3-b0ce-4f0897645460
+DESCRIPTION:https://dclub.ch/agenda/20261002/worakls#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:D! Club 30 th Anniversary : Benjamin Decosterd Le monde va mal (sp
  ectacle d’humour) Benjamin Decosterd — D! Club
 DTSTART;VALUE=DATE:20261006
@@ -883,6 +915,14 @@ SUMMARY:NINJA WARRIORS Indira Paganotto Marhu (BE) Sanem — D! Club
 DTSTART;VALUE=DATE:20261016
 UID:92651fce-9cef-5a7d-98e3-a57477a545e1
 DESCRIPTION:https://dclub.ch/agenda/20261016/indira-paganotto#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D! Club 30 th Anniversary : THE GARD!EN Holy Priest Kistenbrügger
+  Nhū (CH) Rōse (CH) — D! Club
+DTSTART;VALUE=DATE:20261018
+UID:c81ac598-e770-5b28-8a23-89ea1926ac3d
+DESCRIPTION:https://dclub.ch/agenda/20261018/holy-priest#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -918,6 +958,15 @@ SUMMARY:Drink&Draw — Le Bout du Monde
 DTSTART;VALUE=DATE:20260901
 UID:33648ca2-8aef-5d0d-9ed0-6f063f3acdf2
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-10/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Un espace entre-deux: cartographie d’un retour — Le Bout du Mo
+ nde
+DTSTART;VALUE=DATE:20260910
+UID:28a6e1ae-f795-5acf-9398-9f5e0f5964eb
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/un-espace-entre-deux-c
+ artographie-dun-retour/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
@@ -1144,13 +1193,6 @@ DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20260827
-UID:5ecf2b45-46a8-58f0-97fd-ef81b3bcee24
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-86/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYEGE NYEGE DAY 1 — La Gravière
 DTSTART;VALUE=DATE:20260828
 UID:f25abc36-6d92-5d89-87d8-57d5d55447a0
@@ -1165,10 +1207,24 @@ DESCRIPTION:https://lagraviere.ch/evenement/nyege-nyege-day-2/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20260903
+UID:0f316277-6bdc-517c-9795-0daf648e9ed1
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-87/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VERNISSAGE LIVE! — La Gravière
 DTSTART;VALUE=DATE:20260903
 UID:b14cbf07-8552-5f8d-bc57-5ffc20c485ab
 DESCRIPTION:https://lagraviere.ch/evenement/vernissage-live-12/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QLUB QIMERAS — La Gravière
+DTSTART;VALUE=DATE:20260904
+UID:f63db373-7176-54e8-acb1-229b9be78f11
+DESCRIPTION:https://lagraviere.ch/evenement/qlub-qimeras/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1179,9 +1235,37 @@ DESCRIPTION:https://lagraviere.ch/evenement/ritmo-41/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIP HOP LIVE! — La Gravière
+SUMMARY:OH MY GOD FLOWERZ — La Gravière
+DTSTART;VALUE=DATE:20260909
+UID:1d859a90-3544-5adb-8140-8d7647b6c950
+DESCRIPTION:https://lagraviere.ch/evenement/oh-my-god-flowerz/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXTRA LOOP PARTY x LA BÂTIE — La Gravière
+DTSTART;VALUE=DATE:20260911
+UID:06a24a35-1867-518d-910d-06b962b87815
+DESCRIPTION:https://lagraviere.ch/evenement/extra-loop-party-x-la-batie/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20260917
+UID:59d30dcf-791d-5fff-95c9-19173a0290e0
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-88/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20260924
+UID:06acffc5-15fe-5d92-a81f-0b46f83d5a82
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-89/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMPLET // HIP HOP LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261003
-UID:8eeec0ca-138a-5750-a62f-ba4e7a069243
+UID:0657ce29-7044-5318-8377-7cfe93efab45
 DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-22/
 LOCATION:La Gravière\, Genève
 END:VEVENT
@@ -1304,6 +1388,14 @@ SUMMARY:Sheer Ter­ror (US)\, Tear Up (UK) & more Sheer Terror [US] punk
 DTSTART;VALUE=DATE:20261029
 UID:67f5cd52-1fdc-5aea-a44d-77ee7a6324ff
 DESCRIPTION:https://ptrnet.ch/evenement/sheer-terror-us-tear-up-uk-more/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hal­lo­ween Par­ty by Liquid Dimensions Psytrance — Post Tene
+ bras Rock
+DTSTART;VALUE=DATE:20261031
+UID:84879c60-c386-59fe-bcb8-18b026331c25
+DESCRIPTION:https://ptrnet.ch/evenement/halloween-by-liquid-dimensions/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
