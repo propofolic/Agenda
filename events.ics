@@ -364,242 +364,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270429/rodrigo-y-gab
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LABEL SUISSE - VENDREDI : Louise Knobil 6tet + Ladunna + Yalla Mik
- u + La Collective — Le Romandie
-DTSTART;VALUE=DATE:20260918
-UID:970f2eb5-1b7d-502b-bacd-4944cd392fd5
-DESCRIPTION:https://www.leromandie.ch/event/label-suisse-vendredi
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LABEL SUISSE - SAMEDI : Trio Heinz Herbert + 3yooni + Manic pixxie
- s + Solar Velcro — Le Romandie
-DTSTART;VALUE=DATE:20260919
-UID:f765b7e8-2c9a-5140-8225-7324c7c28328
-DESCRIPTION:https://www.leromandie.ch/event/label-suisse-samedi
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LABEL SUISSE - DIMANCHE : Personne + Mel D + Distorted Orchestra b
- 2b Rebelca — Le Romandie
-DTSTART;VALUE=DATE:20260920
-UID:feb50d6f-6d16-51fd-972d-4737ffdf282f
-DESCRIPTION:https://www.leromandie.ch/event/label-suisse-dimanche
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RINSE FM PRÉSENTE : TEKI LATEX (FR) + LE BEAU BIZARRE B2B MUGABO 
- (CH) + MAYUNGOS (CH) — Le Romandie
-DTSTART;VALUE=DATE:20260926
-UID:b2c6f096-00ac-5043-9287-8f8566716828
-DESCRIPTION:https://www.leromandie.ch/event/rinse-fm-presente-teki-latex-f
- r-le-beau-bizarre-b2b-mugabo-ch-mayungos-ch
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MARIA JOSÉ LLERGO (ES) + LÉA MARTINEZ (CH) — Le Romandie
-DTSTART;VALUE=DATE:20261001
-UID:1865fdb5-6a62-56ac-b9a7-24e95ad30181
-DESCRIPTION:https://www.leromandie.ch/event/maria-jose-llergo-es-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DESERTGIRLZ (FR) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261003
-UID:d11759de-79c3-5a31-b312-a85d1c749993
-DESCRIPTION:https://www.leromandie.ch/event/desertgirlz-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE LEMON TWIGS (US) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261007
-UID:f372ddda-cf06-5772-a1a4-58f4e187c211
-DESCRIPTION:https://www.leromandie.ch/event/the-lemon-twigs-us-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEANNETO (FR) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261022
-UID:0c35493a-5494-5345-beb3-3844e60aa405
-DESCRIPTION:https://www.leromandie.ch/event/jeanneto-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BILLIE BIRD (VERNISSAGE\, CH) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261023
-UID:527d7b54-0e83-5bf6-85be-5767cfc7d006
-DESCRIPTION:https://www.leromandie.ch/event/billie-bird-vernissage-ch-supp
- ort
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STANISLAS (FR) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261029
-UID:68334dc1-8316-53aa-825d-b1793357ff10
-DESCRIPTION:https://www.leromandie.ch/event/stanislas-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VULVES ASSASSINES (FR) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261112
-UID:e263ab9c-677d-5fab-acaa-bab4067a7087
-DESCRIPTION:https://www.leromandie.ch/event/vulves-assassines-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KALIKA (FR) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261114
-UID:493374e7-91ff-58d9-b51a-3c087c2be981
-DESCRIPTION:https://www.leromandie.ch/event/kalika-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ETRAN DE L'AÏR (NG) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261119
-UID:e3b1135b-ebe4-5f74-8a19-77db033f2dd8
-DESCRIPTION:https://www.leromandie.ch/event/etran-de-lair-ng-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAKNA (CH) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261120
-UID:b2cb1ccc-502e-5b02-be1a-6d33b3dfb14e
-DESCRIPTION:https://www.leromandie.ch/event/lakna-ch-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUPERPOZE (FR) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261125
-UID:1cf800af-0802-5177-bee8-d518dc28b51b
-DESCRIPTION:https://www.leromandie.ch/event/superpoze-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASHEN (FR) + ALCHEMISTS (VERNISSAGE\, CH) + FALLEN SKIES (CH) — 
- Le Romandie
-DTSTART;VALUE=DATE:20261127
-UID:c10bf824-39fe-552a-9ae0-1a799897a0f2
-DESCRIPTION:https://www.leromandie.ch/event/ashen-fr-alchemists-vernissage
- -ch-fallen-skies-ch
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THÉO JUICE AND THE SEXY MUSIC LIVE BAND (FR) + SUPPORT — Le Rom
- andie
-DTSTART;VALUE=DATE:20261203
-UID:6a089545-35f4-5da1-b038-2c229ee3449d
-DESCRIPTION:https://www.leromandie.ch/event/theo-juice-and-the-sexy-music-
- live-band-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COILGUNS (VERNISSAGE\, CH) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261212
-UID:9010f12d-299f-597a-9a85-04a97c2062c5
-DESCRIPTION:https://www.leromandie.ch/event/coilguns-vernissage-ch-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TÄRA (IT/PS) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261217
-UID:12dedea5-c316-5572-8bea-d4e524863919
-DESCRIPTION:https://www.leromandie.ch/event/tara-itps-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFTER PARY : LAUSANNE PRIDE #SAMEDI — Le Romandie
-DTSTART;VALUE=DATE:20260627
-UID:b639c44c-6859-5efd-9eff-9c4af5864aa8
-DESCRIPTION:https://www.leromandie.ch/event/after-pary-lausanne-pride-same
- di
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFTER PARY : LAUSANNE PRIDE #VENDREDI — Le Romandie
-DTSTART;VALUE=DATE:20260626
-UID:74d948e2-b900-5cd9-829d-388cde1ed01e
-DESCRIPTION:https://www.leromandie.ch/event/after-pary-lausanne-pride-vend
- redi
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOUSE OF PROTECTION (US) + SCALPEL (CH) — Le Romandie
-DTSTART;VALUE=DATE:20260622
-UID:1fbfed41-38e3-5f3a-9212-18ad1fadc3b0
-DESCRIPTION:https://www.leromandie.ch/event/house-of-protection-us-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FÊTE DE LA MUSIQUE 2026 : Nejma (CH) + 7ème ciel (CH) + YNK (CH)
-  — Le Romandie
-DTSTART;VALUE=DATE:20260621
-UID:e1369f14-2e01-5339-9073-457ef24149c5
-DESCRIPTION:https://www.leromandie.ch/event/fete-de-la-musique-2026-nejma-
- ch-7eme-ciel-ch-ynk-ch
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA GLOBALE VOL.1 — Le Romandie
-DTSTART;VALUE=DATE:20260605
-UID:9fe93bfb-7c14-5da7-9419-62cc46162c3c
-DESCRIPTION:https://www.leromandie.ch/event/la-globale-vol1
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MODEL/ACTRIZ (US) + FUTURE FACES (CH) — Le Romandie
-DTSTART;VALUE=DATE:20260531
-UID:656e7f8d-93c9-5a2a-a23c-5bb40ae07eb2
-DESCRIPTION:https://www.leromandie.ch/event/modelactriz-us-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MARIE JAY (CH) + FAUSTINE (CH) + AFTERSHOW: K-TEE (CH) + QIN-QIN (
- CH) — Le Romandie
-DTSTART;VALUE=DATE:20260529
-UID:0c79d86a-d268-5fb9-b341-c5f4b4647849
-DESCRIPTION:https://www.leromandie.ch/event/marie-jay-vernissage-ch-suppor
- t
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Main Mise invite Hassan Abou Alam — Le Romandie
-DTSTART;VALUE=DATE:20260523
-UID:3b12d6d6-cbe1-5564-99f6-da1b2699c8a6
-DESCRIPTION:https://www.leromandie.ch/event/la-main-mise-invite-hassan-abo
- u-alam
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROYALE CATTIN PRESENTE - CIAO AMORE CIAO — Le Romandie
-DTSTART;VALUE=DATE:20260522
-UID:8494611a-e0d7-536d-932c-a317351f7333
-DESCRIPTION:https://www.leromandie.ch/event/royale-cattin-presente-ciao-am
- ore-ciao
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NNAVY TRIO (CH) + NAYANA (CH) — Le Romandie
-DTSTART;VALUE=DATE:20260520
-UID:956ce80f-6f79-5177-b00e-ebb942422412
-DESCRIPTION:https://www.leromandie.ch/event/nnavy-trio-ch-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wacken Metal Battle Switzerland : La Finale — Le Romandie
-DTSTART;VALUE=DATE:20260516
-UID:d08aeb53-f4f6-5037-afcf-7907256b329c
-DESCRIPTION:https://www.leromandie.ch/event/wacken-metal-battle-switzerlan
- d-la-finale
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Triple B par les Olympiens — Le Romandie
-DTSTART;VALUE=DATE:20260508
-UID:dd7bbc5f-5841-5281-b3b2-79cb7d9910d8
-DESCRIPTION:https://www.leromandie.ch/event/triple-b-par-les-olympiens
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Folklor Nation — Folklor
 DTSTART;VALUE=DATE:20260828
 UID:6e1bbd05-567c-5d10-9ca7-a27a86f98a6f
@@ -798,22 +562,6 @@ DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PLAYHARD Luca Agnelli (IT) Djerry C Ricciø Deb McCormick (CH) —
-  D! Club
-DTSTART;VALUE=DATE:20260828
-UID:b15c873c-362a-5ec4-ab7d-7ec7dced9e39
-DESCRIPTION:https://dclub.ch/agenda/20260828/luca-agnelli#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PULL UP! XXL Wild Pich Lil Kev Dj Rafal The Jocker Dj Vidy Em-ty 
- — D! Club
-DTSTART;VALUE=DATE:20260829
-UID:e89b32e9-6c03-5a91-8d31-27d058da3de1
-DESCRIPTION:https://dclub.ch/agenda/20260829/wild-pich#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HARD COEUR Creeds (FR) D-Frek Rōse (CH) — D! Club
 DTSTART;VALUE=DATE:20260904
 UID:aaa3483b-ba9f-5570-94d3-2b54a01d944f
@@ -938,13 +686,6 @@ DTSTART;VALUE=DATE:20261120
 UID:07f5a064-0e61-566c-9cab-08148ea0c826
 DESCRIPTION:https://dclub.ch/agenda/20261120/nto#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Soirée Mamans — Le Bout du Monde
-DTSTART;VALUE=DATE:20260829
-UID:01657216-6172-5f82-b7a2-a0ce1c51d9b9
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/soiree-mamans/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Graille — Le Bout du Monde
@@ -1193,13 +934,6 @@ DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NYEGE NYEGE DAY 1 — La Gravière
-DTSTART;VALUE=DATE:20260828
-UID:f25abc36-6d92-5d89-87d8-57d5d55447a0
-DESCRIPTION:https://lagraviere.ch/evenement/nyege-nyege-day-1/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYEGE NYEGE DAY 2 — La Gravière
 DTSTART;VALUE=DATE:20260829
 UID:c8ac6285-0c87-5006-b2e1-65f9cf8e23ef
@@ -1289,15 +1023,6 @@ DTSTART;VALUE=DATE:20261113
 UID:feddbae3-7cdb-5388-b633-22132b0bc177
 DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-20/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RAVE PARTY REVIVAL – La Bâtie (Sirāt after-show) Experimental 
- electronic / Techno — Post Tenebras Rock
-DTSTART;VALUE=DATE:20260828
-UID:cda66843-506c-5cf1-a212-7c4777e32abc
-DESCRIPTION:https://ptrnet.ch/evenement/rave-party-revival-la-batie-sirat-
- after-show/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EDELBASS #6 Drum'n'bass — Post Tenebras Rock
