@@ -225,9 +225,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261126/kid-francesco
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sauvage+ Paolo.27.11.2026 — Docks
+SUMMARY:Sam Sauvage+ Paolo.27.11.2026 - Derniers billets — Docks
 DTSTART;VALUE=DATE:20261127
-UID:5fb3e5dc-3a04-5072-9249-75e6d1524b7b
+UID:e695dfde-e559-5a5b-9a4d-5cfdc1a9c5da
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261127/sam-sauvage/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -275,9 +275,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261211/ibeyi-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eluveitie+ PAIN + Wolfheart12.12.2026 — Docks
+SUMMARY:Eluveitie+ PAIN + Wolfheart12.12.2026 - Derniers billets — Docks
 DTSTART;VALUE=DATE:20261212
-UID:31ee2d04-afb2-5434-a084-8c0b09e79cd1
+UID:e368d850-5f7c-5062-8ddb-a6d19043f3a7
 DESCRIPTION:https://www.docks.ch/evenement/evenements/20261212/eluveitie-4
  /
 LOCATION:Docks\, Lausanne
@@ -500,13 +500,6 @@ DESCRIPTION:https://www.leromandie.ch/event/coilguns-vernissage-ch-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TÄRA (IT/PS) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261217
-UID:12dedea5-c316-5572-8bea-d4e524863919
-DESCRIPTION:https://www.leromandie.ch/event/tara-itps-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AFTER PARY : LAUSANNE PRIDE #SAMEDI — Le Romandie
 DTSTART;VALUE=DATE:20260627
 UID:b639c44c-6859-5efd-9eff-9c4af5864aa8
@@ -600,20 +593,6 @@ DESCRIPTION:https://www.leromandie.ch/event/triple-b-par-les-olympiens
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Folklor Nation — Folklor
-DTSTART;VALUE=DATE:20260828
-UID:6e1bbd05-567c-5d10-9ca7-a27a86f98a6f
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tree House x Collectif 52 — Folklor
-DTSTART;VALUE=DATE:20260829
-UID:e464b762-9dad-5b97-ba38-b52fb0c850a8
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Studio — Folklor
 DTSTART;VALUE=DATE:20260903
 UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
@@ -645,6 +624,27 @@ BEGIN:VEVENT
 SUMMARY:That’s All Folks — Folklor
 DTSTART;VALUE=DATE:20260912
 UID:0d665207-a56d-5b34-8650-ef6871f2d7ff
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bal De La Rentrée — Folklor
+DTSTART;VALUE=DATE:20260924
+UID:3729e8ac-c4d9-59cc-a926-a657a33f4da7
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afterlokal — Folklor
+DTSTART;VALUE=DATE:20260925
+UID:c27646a1-fe5c-5a2a-9eaf-5a421016aa56
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folklor Nation x Blind Colors — Folklor
+DTSTART;VALUE=DATE:20260926
+UID:41206495-b7fb-57c1-855e-3faadf5531a5
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -841,9 +841,10 @@ DESCRIPTION:https://dclub.ch/agenda/20260919/mathematic#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA TEMPERATURA Shad Hottaboy (RE) Maximarcus — D! Club
+SUMMARY:LA TEMPERATURA Shad Hottaboy (RE) Maximarcus Kemuel Icean — D! C
+ lub
 DTSTART;VALUE=DATE:20260920
-UID:95f93200-94ac-50fd-821a-55849524713a
+UID:6f371732-0fb6-59d8-92d7-13e43fc30cbd
 DESCRIPTION:https://dclub.ch/agenda/20260920/shad-hottaboy#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1194,6 +1195,13 @@ SUMMARY:EXTRA LOOP PARTY x LA BÂTIE — La Gravière
 DTSTART;VALUE=DATE:20260911
 UID:06a24a35-1867-518d-910d-06b962b87815
 DESCRIPTION:https://lagraviere.ch/evenement/extra-loop-party-x-la-batie/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RITMO — La Gravière
+DTSTART;VALUE=DATE:20260912
+UID:1d39c94f-f001-5f44-a2be-1bfe0e0d5b8b
+DESCRIPTION:https://lagraviere.ch/evenement/ritmo-42/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
