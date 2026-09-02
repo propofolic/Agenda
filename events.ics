@@ -418,9 +418,9 @@ DESCRIPTION:https://www.leromandie.ch/event/the-lemon-twigs-us-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JEANNETO (FR) + SUPPORT — Le Romandie
+SUMMARY:JEANNETO (FR) + EGGS AND TIARAS (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261022
-UID:0c35493a-5494-5345-beb3-3844e60aa405
+UID:5861e2e1-8f7a-5912-b3d0-f4323ea5e634
 DESCRIPTION:https://www.leromandie.ch/event/jeanneto-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
@@ -614,6 +614,13 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Le b2b de Vintage Franky — Folklor
+DTSTART;VALUE=DATE:20260910
+UID:f0a8e66d-1cfc-52fb-baf6-3b992b2f2136
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nocturna — Folklor
 DTSTART;VALUE=DATE:20260911
 UID:9d839a48-487f-5851-9b7d-86ac8eb88a80
@@ -624,6 +631,34 @@ BEGIN:VEVENT
 SUMMARY:That’s All Folks — Folklor
 DTSTART;VALUE=DATE:20260912
 UID:0d665207-a56d-5b34-8650-ef6871f2d7ff
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cosmic Fever — Folklor
+DTSTART;VALUE=DATE:20260917
+UID:67d5426e-e79b-5fc3-8669-3c694e4e7ef9
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Liquid Dimensions — Folklor
+DTSTART;VALUE=DATE:20260918
+UID:b2996ef1-b988-501c-b5d7-33a8495b6e29
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smoke Fred × Folklor — 10 YEARS — Folklor
+DTSTART;VALUE=DATE:20260919
+UID:e456e375-87b3-5a12-a096-ce985ba45088
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PPL x VOIID — Folklor
+DTSTART;VALUE=DATE:20260920
+UID:45c5ad79-f4e3-5cae-bd34-6855732f6d90
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -917,19 +952,20 @@ DESCRIPTION:https://dclub.ch/agenda/20261120/nto#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drink&Draw — Le Bout du Monde
-DTSTART;VALUE=DATE:20260901
-UID:33648ca2-8aef-5d0d-9ed0-6f063f3acdf2
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-10/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Un espace entre-deux: cartographie d’un retour — Le Bout du Mo
  nde
 DTSTART;VALUE=DATE:20260910
 UID:28a6e1ae-f795-5acf-9398-9f5e0f5964eb
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/un-espace-entre-deux-c
  artographie-dun-retour/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le BoutZouk Présente Mark Kelly — Le Bout du Monde
+DTSTART;VALUE=DATE:20260911
+UID:7148b062-ec44-5695-aad7-9d0545c6fc5b
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/le-boutzouk-presente-m
+ ark-kelly/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
@@ -1212,10 +1248,24 @@ DESCRIPTION:https://lagraviere.ch/evenement/noctambar-88/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LAKESIDE BASEMENT — La Gravière
+DTSTART;VALUE=DATE:20260918
+UID:1f00d80d-dc68-5c33-9cf1-e2d97318bbb0
+DESCRIPTION:https://lagraviere.ch/evenement/lakeside-basement-6/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
 DTSTART;VALUE=DATE:20260924
 UID:06acffc5-15fe-5d92-a81f-0b46f83d5a82
 DESCRIPTION:https://lagraviere.ch/evenement/noctambar-89/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRIFT — La Gravière
+DTSTART;VALUE=DATE:20260925
+UID:74da3f66-864f-51a8-98d3-b236c5139623
+DESCRIPTION:https://lagraviere.ch/evenement/drift-10/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
