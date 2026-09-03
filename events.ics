@@ -500,6 +500,13 @@ DESCRIPTION:https://www.leromandie.ch/event/coilguns-vernissage-ch-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TÄRA (IT/PS) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20261217
+UID:12dedea5-c316-5572-8bea-d4e524863919
+DESCRIPTION:https://www.leromandie.ch/event/tara-itps-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AFTER PARY : LAUSANNE PRIDE #SAMEDI — Le Romandie
 DTSTART;VALUE=DATE:20260627
 UID:b639c44c-6859-5efd-9eff-9c4af5864aa8
