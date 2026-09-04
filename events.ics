@@ -307,6 +307,15 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270116/marguerite/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cult of Luna+ Bruit ≤ + Youth Code26.02.2027Unique date suisse 
+ — Docks
+DTSTART;VALUE=DATE:20270226
+UID:fea2d021-c3bc-530d-ba8d-6cc02f91089a
+DESCRIPTION:https://www.docks.ch/evenement/evenements/20270226/cult-of-lun
+ a-2/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Acid ArabLive27.02.2027Unique date suisse — Docks
 DTSTART;VALUE=DATE:20270227
 UID:6a64675e-be51-5c6c-9a2d-90b867c2e8ef
@@ -411,9 +420,9 @@ DESCRIPTION:https://www.leromandie.ch/event/desertgirlz-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:THE LEMON TWIGS (US) + SUPPORT — Le Romandie
+SUMMARY:THE LEMON TWIGS (US) + COUP DUR (FR) — Le Romandie
 DTSTART;VALUE=DATE:20261007
-UID:f372ddda-cf06-5772-a1a4-58f4e187c211
+UID:7d0ef197-5c28-5fb8-96e8-2c69a2559410
 DESCRIPTION:https://www.leromandie.ch/event/the-lemon-twigs-us-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
@@ -504,6 +513,15 @@ SUMMARY:TÄRA (IT/PS) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20261217
 UID:12dedea5-c316-5572-8bea-d4e524863919
 DESCRIPTION:https://www.leromandie.ch/event/tara-itps-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE TEUF DE PIOTR ET LA RUSE (CH\, VERNISSAGE) + GLAASCATS (CH) + A
+ FTERSHOW : TRQER B2B REBELCA + GARANCINA + YANNECK — Le Romandie
+DTSTART;VALUE=DATE:20261218
+UID:d74ebbbb-79fb-5790-9e4b-63096a138336
+DESCRIPTION:https://www.leromandie.ch/event/le-teuf-de-piotr-et-la-ruse-ch
+ -vernissage-glaascats-ch-aftershow-trqer-b2b-rebelca-garancina-yanneck
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1199,17 +1217,17 @@ DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20260903
-UID:0f316277-6bdc-517c-9795-0daf648e9ed1
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-87/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VERNISSAGE LIVE! — La Gravière
 DTSTART;VALUE=DATE:20260903
 UID:b14cbf07-8552-5f8d-bc57-5ffc20c485ab
 DESCRIPTION:https://lagraviere.ch/evenement/vernissage-live-12/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20260903
+UID:0f316277-6bdc-517c-9795-0daf648e9ed1
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-87/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1355,10 +1373,26 @@ DESCRIPTION:https://ptrnet.ch/evenement/63og/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Syn­drome 81 x No Fil­ter x Revanche [FR] punk / oi! / hardcore 
+ — Post Tenebras Rock
+DTSTART;VALUE=DATE:20261021
+UID:f608b4c3-abf3-5282-a2af-bf7c6fdaaf8d
+DESCRIPTION:https://ptrnet.ch/evenement/syndrome-81-x-no-filter-x-revanche
+ /
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sara Hebe [AR] Latin rap / Electro — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261022
 UID:382c71f9-3ae5-5f1f-9f23-94c40f0ab248
 DESCRIPTION:https://ptrnet.ch/evenement/sara-hebe/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jet­Lag Gang reggaeton y perreo — Post Tenebras Rock
+DTSTART;VALUE=DATE:20261024
+UID:2a6b703f-8b1c-5e63-a65d-04382b776466
+DESCRIPTION:https://ptrnet.ch/evenement/jetlag-gang/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1403,10 +1437,10 @@ DESCRIPTION:https://ptrnet.ch/evenement/halloween-by-liquid-dimensions/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunday\,June [CH / ES] Solar Psych Glasscats — Post Tenebras Roc
- k
+SUMMARY:Sunday\,June [CH / ES] Solar Psych Glaasscats [CH] rock alternatif
+  — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261107
-UID:4e0122a5-5721-5a9a-bfe1-b254e6f5250e
+UID:739ad972-1437-5379-a852-19e9c0d6d1a8
 DESCRIPTION:https://ptrnet.ch/evenement/sundayjune/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
