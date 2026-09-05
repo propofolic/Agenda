@@ -948,6 +948,14 @@ DESCRIPTION:https://dclub.ch/agenda/20261007/donel-jacksman#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SUBSET Delta Heavy Subsonic Tantrum Desire Koma Dub Sili — D! Cl
+ ub
+DTSTART;VALUE=DATE:20261009
+UID:714a6966-c269-5909-8469-181f7bbb9768
+DESCRIPTION:https://dclub.ch/agenda/20261009/delta-heavy#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NINJA WARRIORS Indira Paganotto Marhu (BE) Sanem — D! Club
 DTSTART;VALUE=DATE:20261016
 UID:92651fce-9cef-5a7d-98e3-a57477a545e1
@@ -960,6 +968,14 @@ SUMMARY:D! Club 30 th Anniversary : THE GARD!EN Holy Priest Kistenbrügger
 DTSTART;VALUE=DATE:20261018
 UID:c81ac598-e770-5b28-8a23-89ea1926ac3d
 DESCRIPTION:https://dclub.ch/agenda/20261018/holy-priest#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D! Club 30 th Anniversary : The D! Day Grandmaster Flash Stress Al
+  Walid Vincz Lee — D! Club
+DTSTART;VALUE=DATE:20261019
+UID:6983f37d-c7c9-5b54-9c30-12a9f08c204d
+DESCRIPTION:https://dclub.ch/agenda/20261019/grandmaster-flash#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1112,14 +1128,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vendredi 09 . 04  Hors-Programme : Les afters du Tourne-Films Fest
- ival Karaoké — La Brèche
-DTSTART;VALUE=DATE:20260904
-UID:a6c7efb6-1323-547f-a120-c88352cd41c8
-DESCRIPTION:https://www.la-breche.fun/events/04-09-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:samedi 09 . 05  Hors-Programme : Les afters du Tourne-Films Festiv
  al Dj sets — La Brèche
 DTSTART;VALUE=DATE:20260905
@@ -1215,20 +1223,6 @@ DTSTART;VALUE=DATE:20261031
 UID:62bf1498-dfb5-5baa-866f-4bbf01e34739
 DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERNISSAGE LIVE! — La Gravière
-DTSTART;VALUE=DATE:20260903
-UID:b14cbf07-8552-5f8d-bc57-5ffc20c485ab
-DESCRIPTION:https://lagraviere.ch/evenement/vernissage-live-12/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20260903
-UID:0f316277-6bdc-517c-9795-0daf648e9ed1
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-87/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QLUB QIMERAS — La Gravière
