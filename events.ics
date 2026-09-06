@@ -709,14 +709,6 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:After Braderie Techno/industriel\, uptempo\, acidcore et autres 
- — Les Citrons Masqués
-DTSTART;VALUE=DATE:20260904
-UID:598a9bbe-fabd-570a-a182-39d6efd83543
-DESCRIPTION:https://citronsmasques.ch/events/after-braderie/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:After Braderie ALL STYLE — Les Citrons Masqués
 DTSTART;VALUE=DATE:20260905
 UID:91632390-83ab-52bc-8e7e-0e622649332f
@@ -765,6 +757,13 @@ SUMMARY:DeltaR Blues — Les Citrons Masqués
 DTSTART;VALUE=DATE:20260926
 UID:031fb41c-9227-5012-a85d-6cc9a4ba292a
 DESCRIPTION:https://citronsmasques.ch/events/deltar/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZOUK & KOMPA La mensuelle — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261003
+UID:46f86d3e-3dc5-5937-bb3b-a129c67fe472
+DESCRIPTION:https://citronsmasques.ch/events/zouk-kompa/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -848,13 +847,6 @@ DTSTART;VALUE=DATE:20261128
 UID:aa2aee34-9ebb-5291-bebe-7b5ea5723ec3
 DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HARD COEUR Creeds (FR) D-Frek Rōse (CH) — D! Club
-DTSTART;VALUE=DATE:20260904
-UID:aaa3483b-ba9f-5570-94d3-2b54a01d944f
-DESCRIPTION:https://dclub.ch/agenda/20260904/creeds#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OUPS! Dj Klash The Jocker Dj Vidy — D! Club
@@ -1128,14 +1120,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:samedi 09 . 05  Hors-Programme : Les afters du Tourne-Films Festiv
- al Dj sets — La Brèche
-DTSTART;VALUE=DATE:20260905
-UID:9559867f-309e-5512-94af-bf933fccfbd9
-DESCRIPTION:https://www.la-breche.fun/events/05-09-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:mardi 09 . 08  Yu-Ching 黃雨晴 Leonore Brunner — La Brèche
 DTSTART;VALUE=DATE:20260908
 UID:2741ffcc-f3d8-550d-b396-2891f6448402
@@ -1223,13 +1207,6 @@ DTSTART;VALUE=DATE:20261031
 UID:62bf1498-dfb5-5baa-866f-4bbf01e34739
 DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QLUB QIMERAS — La Gravière
-DTSTART;VALUE=DATE:20260904
-UID:f63db373-7176-54e8-acb1-229b9be78f11
-DESCRIPTION:https://lagraviere.ch/evenement/qlub-qimeras/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RITMO — La Gravière
