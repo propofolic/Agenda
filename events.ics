@@ -618,27 +618,6 @@ DESCRIPTION:https://www.leromandie.ch/event/triple-b-par-les-olympiens
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Studio — Folklor
-DTSTART;VALUE=DATE:20260903
-UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evermas — Folklor
-DTSTART;VALUE=DATE:20260904
-UID:a5a48362-966a-5f64-a806-9db6a1fe5744
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Querelle — Folklor
-DTSTART;VALUE=DATE:20260905
-UID:5cce3d1f-b442-5f65-b288-b747f198ee5b
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le b2b de Vintage Franky — Folklor
 DTSTART;VALUE=DATE:20260910
 UID:f0a8e66d-1cfc-52fb-baf6-3b992b2f2136
@@ -707,13 +686,6 @@ DTSTART;VALUE=DATE:20260926
 UID:41206495-b7fb-57c1-855e-3faadf5531a5
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:After Braderie ALL STYLE — Les Citrons Masqués
-DTSTART;VALUE=DATE:20260905
-UID:91632390-83ab-52bc-8e7e-0e622649332f
-DESCRIPTION:https://citronsmasques.ch/events/after-braderie-2/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MadMondays/Ourselves Pop Rock — Les Citrons Masqués
@@ -847,13 +819,6 @@ DTSTART;VALUE=DATE:20261128
 UID:aa2aee34-9ebb-5291-bebe-7b5ea5723ec3
 DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OUPS! Dj Klash The Jocker Dj Vidy — D! Club
-DTSTART;VALUE=DATE:20260905
-UID:b469dc04-47e4-57ac-a811-33e6ebfbba01
-DESCRIPTION:https://dclub.ch/agenda/20260905/dj-klash#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SUBSET Wilkinson (UK) Mara (CH) Rosa Pagano Gaussian b2b Ostral 
@@ -1209,13 +1174,6 @@ DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RITMO — La Gravière
-DTSTART;VALUE=DATE:20260905
-UID:68bc3a0f-c5fc-5ad8-af79-c29bf4b1d602
-DESCRIPTION:https://lagraviere.ch/evenement/ritmo-41/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OH MY GOD FLOWERZ — La Gravière
 DTSTART;VALUE=DATE:20260909
 UID:1d859a90-3544-5adb-8140-8d7647b6c950
@@ -1291,13 +1249,6 @@ DTSTART;VALUE=DATE:20261113
 UID:feddbae3-7cdb-5388-b633-22132b0bc177
 DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-20/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EDELBASS #6 Drum'n'bass — Post Tenebras Rock
-DTSTART;VALUE=DATE:20260905
-UID:93cae6a2-d88c-5d71-b2bc-89fa7b3d97de
-DESCRIPTION:https://ptrnet.ch/evenement/edelbass-6/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lord Finesse [US] Hip-hop Musa & Chief Biko [CH] — Post Tenebras
