@@ -261,9 +261,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261208/cory-wong/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEN plg10.12.2026 - Derniers billets — Docks
+SUMMARY:BEN plg10.12.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20261210
-UID:f6eb2bdc-2c3f-5201-b8d4-d39570730693
+UID:556b9e30-b7f2-5a43-bede-f81e476b3142
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261210/ben-plg/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -307,6 +307,14 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270116/marguerite/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cage the Elephant18.02.2027Unique date suisse — Docks
+DTSTART;VALUE=DATE:20270218
+UID:b04cb6cd-7f27-50ba-adec-09d9f887d2fe
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270218/cage-the-elep
+ hant/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cult of Luna+ Bruit ≤ + Youth Code26.02.2027Unique date suisse 
  — Docks
 DTSTART;VALUE=DATE:20270226
@@ -341,6 +349,13 @@ SUMMARY:KMFDM+ I Ya Toyah18.03.2027 — Docks
 DTSTART;VALUE=DATE:20270318
 UID:88442099-051c-5885-9a4d-fd3116d64091
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270318/kmfdm/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:aupinard25.03.2027 — Docks
+DTSTART;VALUE=DATE:20270325
+UID:e67a03e2-b004-5b99-b1c1-a78619656931
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270325/aupinard/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -394,6 +409,14 @@ SUMMARY:LABEL SUISSE - DIMANCHE : Personne + Mel D + Distorted Orchestra b
 DTSTART;VALUE=DATE:20260920
 UID:feb50d6f-6d16-51fd-972d-4737ffdf282f
 DESCRIPTION:https://www.leromandie.ch/event/label-suisse-dimanche
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 + 10\, C’EST LA CRISE DE LA QUARANTAINE ! — Le Romandie
+DTSTART;VALUE=DATE:20260925
+UID:22f060d5-734b-5a0c-84f1-a93432caf919
+DESCRIPTION:https://www.leromandie.ch/event/30-10-cest-la-crise-de-la-quar
+ antaine
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -499,6 +522,15 @@ DTSTART;VALUE=DATE:20261203
 UID:6a089545-35f4-5da1-b038-2c229ee3449d
 DESCRIPTION:https://www.leromandie.ch/event/theo-juice-and-the-sexy-music-
  live-band-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HUMUS & WINE : FÖLLAKZOID (CL) + SUPPORT + DEGUSTATION : CATHERIN
+ E CRUCHON (CH) — Le Romandie
+DTSTART;VALUE=DATE:20261210
+UID:692be587-822a-58c4-acf9-3ca494f5b133
+DESCRIPTION:https://www.leromandie.ch/event/humus-wine-follakzoid-cl-suppo
+ rt-degustation-catherine-cruchon-ch
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -821,11 +853,11 @@ DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SUBSET Wilkinson (UK) Mara (CH) Rosa Pagano Gaussian b2b Ostral 
+SUMMARY:SUBSET Friction Mara (CH) Rosa Pagano K-tee Gaussian b2b Ostral 
  — D! Club
 DTSTART;VALUE=DATE:20260911
-UID:39a793b8-35fb-5d33-b6a2-3a4891bff0b8
-DESCRIPTION:https://dclub.ch/agenda/20260911/wilkinson#d-club
+UID:dfa56bd1-caa1-558f-bbbb-15cb6385ee93
+DESCRIPTION:https://dclub.ch/agenda/20260911/friction#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -851,10 +883,10 @@ DESCRIPTION:https://dclub.ch/agenda/20260918/lum#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:URBAN TROPICAL Mathematic — D! Club
+SUMMARY:URBAN TROPICAL Game On Clyde DJ Kill (CH) Mathematic — D! Club
 DTSTART;VALUE=DATE:20260919
-UID:83c9cf35-ecb8-5205-94f4-ef8b1b24b81e
-DESCRIPTION:https://dclub.ch/agenda/20260919/mathematic#d-club
+UID:39626120-0cd9-52bc-974c-019aa1a3dfc2
+DESCRIPTION:https://dclub.ch/agenda/20260919/game-on#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1206,6 +1238,13 @@ SUMMARY:LAKESIDE BASEMENT — La Gravière
 DTSTART;VALUE=DATE:20260918
 UID:1f00d80d-dc68-5c33-9cf1-e2d97318bbb0
 DESCRIPTION:https://lagraviere.ch/evenement/lakeside-basement-6/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA GRAVERIE — La Gravière
+DTSTART;VALUE=DATE:20260919
+UID:b36800d3-4855-5d74-8cde-8c1865e69156
+DESCRIPTION:https://lagraviere.ch/evenement/la-graverie-13/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
