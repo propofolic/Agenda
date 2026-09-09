@@ -42,9 +42,9 @@ DESCRIPTION:https://www.docks.ch/evenement/evenements/20260920/label-suiss
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Courtney Barnett02.10.2026Unique date suisse — Docks
+SUMMARY:Courtney Barnett+ Huarinami02.10.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261002
-UID:87eae448-cfec-56ab-90ee-99f78f1397d1
+UID:20995d8b-67a0-571d-af36-659597e9422a
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261002/courtney-barn
  ett-2/
 LOCATION:Docks\, Lausanne
@@ -315,6 +315,14 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270218/cage-the-elep
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Bitchos & friends24.02.2027Unique date suisse — Docks
+DTSTART;VALUE=DATE:20270224
+UID:3be2bf27-8251-5246-ad7d-9622f66d3ac6
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270224/los-bitchos-f
+ riends/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cult of Luna+ Bruit ≤ + Youth Code26.02.2027Unique date suisse 
  — Docks
 DTSTART;VALUE=DATE:20270226
@@ -342,6 +350,14 @@ SUMMARY:Kemmler12.03.2027Unique date suisse — Docks
 DTSTART;VALUE=DATE:20270312
 UID:d427c69f-b98a-54f3-a504-689f38c878a3
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270312/kemmler/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Isaac Delusion17.03.2027Unique date suisse — Docks
+DTSTART;VALUE=DATE:20270317
+UID:81df3541-ce41-56aa-b94b-71946b49f674
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270317/isaac-delusio
+ n-3/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -554,6 +570,13 @@ DTSTART;VALUE=DATE:20261218
 UID:d74ebbbb-79fb-5790-9e4b-63096a138336
 DESCRIPTION:https://www.leromandie.ch/event/le-teuf-de-piotr-et-la-ruse-ch
  -vernissage-glaascats-ch-aftershow-trqer-b2b-rebelca-garancina-yanneck
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DITTER (FR) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20270211
+UID:02968a78-76b6-5ce9-afe3-d05eae48ed47
+DESCRIPTION:https://www.leromandie.ch/event/ditter-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -823,6 +846,20 @@ DESCRIPTION:https://citronsmasques.ch/events/patrik-jansson-band-sw-guest/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cookie The Herbalist & Bugum Reggae/Roots — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261106
+UID:a1e36d2f-c8ce-5b42-9fd0-ef826ed54d9d
+DESCRIPTION:https://citronsmasques.ch/events/cookie-the-herbalist-bugum/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:l’Alchimie du Rire Comedy club Stand up — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261113
+UID:4512fe1e-98b7-58b5-a6cf-c6fb418721e3
+DESCRIPTION:https://citronsmasques.ch/events/lalchimie-du-rire/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MELROSE « Le rock rencontre le flamenco » — Les Citrons Masqu
  és
 DTSTART;VALUE=DATE:20261114
@@ -850,6 +887,13 @@ SUMMARY:Feel Floyd Tribute Pink Floyd — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261128
 UID:aa2aee34-9ebb-5291-bebe-7b5ea5723ec3
 DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JEWLY & Guest Heavy Rock blues — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261212
+UID:e3762bde-56cb-5584-94b7-ddc6cd9d2edb
+DESCRIPTION:https://citronsmasques.ch/events/jewly-f/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -909,6 +953,13 @@ SUMMARY:PULL UP! Wild Pich Lil Kev — D! Club
 DTSTART;VALUE=DATE:20260926
 UID:6e142830-5fa7-566a-9c06-12d82ddbb379
 DESCRIPTION:https://dclub.ch/agenda/20260926/wild-pich#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MCM TOP Collectif 52 Dj’s — D! Club
+DTSTART;VALUE=DATE:20261001
+UID:a7a36070-cdaf-55bb-bbdf-aceab561025d
+DESCRIPTION:https://dclub.ch/agenda/20261001/collectif-52-djs#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -982,6 +1033,13 @@ DESCRIPTION:https://dclub.ch/agenda/20261120/nto#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SUBSET Wilkinson (UK) — D! Club
+DTSTART;VALUE=DATE:20270115
+UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
+DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Un espace entre-deux: cartographie d’un retour — Le Bout du Mo
  nde
 DTSTART;VALUE=DATE:20260910
@@ -991,11 +1049,35 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/un-espace-entre-deux-c
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le BoutZouk Présente Mark Kelly — Le Bout du Monde
+SUMMARY:Le Bout’Zouk Présente Mark Kelly — Le Bout du Monde
 DTSTART;VALUE=DATE:20260911
-UID:7148b062-ec44-5695-aad7-9d0545c6fc5b
+UID:31d58b8d-ebed-57af-8d9d-d283fd98983b
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/le-boutzouk-presente-m
  ark-kelly/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bout’Zouk présente: Tuna Helvetica — Le Bout du Monde
+DTSTART;VALUE=DATE:20260913
+UID:eb995ac8-9dc5-5d47-8d72-0ff6e0026e49
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/boutzouk-presente-tuna
+ -helvetica/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bout’Zouk Présente Roda da união\, — Le Bout du Monde
+DTSTART;VALUE=DATE:20260917
+UID:3b6311ef-82b3-5e56-a752-d44e88ab1d98
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/boutzouk-presente-roda
+ -da-uniao/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bout’Zouk présente: Jam Skate — Le Bout du Monde
+DTSTART;VALUE=DATE:20260919
+UID:d187f908-0a94-5f7c-96af-7301eb0c35da
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/boutzouk-presente-jam-
+ skate/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
@@ -1024,9 +1106,10 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/25-09-26-chaud-label-felic
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA COLONIE DE VACANCES – TOURNÉE D’ADIEUX — Le Rez-Usine
+SUMMARY:LA COLONIE DE VACANCES [TOURNÉE D’ADIEUX] + RÉBECCA BONTÉ —
+  Le Rez-Usine
 DTSTART;VALUE=DATE:20261003
-UID:abe32105-d4e7-5ea2-a693-5677716266be
+UID:64194e6f-5557-5259-8add-255125bcbb94
 DESCRIPTION:https://rez-usine.ch/portfolio-item/03-10-26-la-colonie-de-vac
  ances/
 LOCATION:Le Rez-Usine\, Genève
@@ -1117,13 +1200,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:mardi 09 . 08  Yu-Ching 黃雨晴 Leonore Brunner — La Brèche
-DTSTART;VALUE=DATE:20260908
-UID:2741ffcc-f3d8-550d-b396-2891f6448402
-DESCRIPTION:https://www.la-breche.fun/events/08-09-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:mardi 09 . 15  Hors-programme : impro Afterwork — La Brèche
 DTSTART;VALUE=DATE:20260915
 UID:e9219e87-0808-507a-b37b-1934d52f4192
@@ -1173,6 +1249,14 @@ SUMMARY:mercredi 10 . 07  Colombey Curbside Lambsear — La Brèche
 DTSTART;VALUE=DATE:20261007
 UID:ba6c6341-23b1-582f-90e6-d546691e565a
 DESCRIPTION:https://www.la-breche.fun/events/07-10-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:vendredi 10 . 09  Hors-Programme : FOL Festival Lily Gasc NYANGOMB
+ E Sainte Catherine — La Brèche
+DTSTART;VALUE=DATE:20261009
+UID:672935b9-f3e1-5a97-94f0-4f2c378c40be
+DESCRIPTION:https://www.la-breche.fun/events/09-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1259,6 +1343,13 @@ SUMMARY:DRIFT — La Gravière
 DTSTART;VALUE=DATE:20260925
 UID:74da3f66-864f-51a8-98d3-b236c5139623
 DESCRIPTION:https://lagraviere.ch/evenement/drift-10/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RITMO — La Gravière
+DTSTART;VALUE=DATE:20260926
+UID:cc972d9c-c52e-599e-b6a8-8deda2e97988
+DESCRIPTION:https://lagraviere.ch/evenement/ritmo-43/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1398,10 +1489,10 @@ DESCRIPTION:https://ptrnet.ch/evenement/halloween-by-liquid-dimensions/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunday\,June [CH / ES] Solar Psych Glaasscats [CH] rock alternatif
-  — Post Tenebras Rock
+SUMMARY:Sunday\,June [CH / ES] Solar Psych Glaascats [CH] rock alternatif 
+ — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261107
-UID:739ad972-1437-5379-a852-19e9c0d6d1a8
+UID:cc831ff1-229d-58ca-b293-771e630fc8bc
 DESCRIPTION:https://ptrnet.ch/evenement/sundayjune/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
@@ -1436,6 +1527,13 @@ SUMMARY:OBSCURA // Shred Fest 2027 [DE] Metal progressif Pestilence [NL]
 DTSTART;VALUE=DATE:20270130
 UID:ddf552ec-27d9-5576-b212-72f8a171e1a6
 DESCRIPTION:https://ptrnet.ch/evenement/obscura/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chat Pile [US] Noise rock — Post Tenebras Rock
+DTSTART;VALUE=DATE:20270218
+UID:ec5d7e5a-d734-5093-aaa6-852c7a73ce91
+DESCRIPTION:https://ptrnet.ch/evenement/chat-pile/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
