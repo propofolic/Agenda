@@ -307,6 +307,13 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270116/marguerite/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Laibach13.02.2027 — Docks
+DTSTART;VALUE=DATE:20270213
+UID:36e82742-e4d5-59f4-a0b9-950a1bad3bc2
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270213/laibach-4/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cage the Elephant18.02.2027Unique date suisse — Docks
 DTSTART;VALUE=DATE:20270218
 UID:b04cb6cd-7f27-50ba-adec-09d9f887d2fe
@@ -401,6 +408,14 @@ DTSTART;VALUE=DATE:20270429
 UID:9751c1d8-ae85-54b6-80a1-8d317b610a8d
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270429/rodrigo-y-gab
  riela-3/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lottery Winners30.10.2027 — Docks
+DTSTART;VALUE=DATE:20271030
+UID:9226d52b-6df9-5883-b916-9cf74c6ec810
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
+ inners/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1411,9 +1426,10 @@ DESCRIPTION:https://ptrnet.ch/evenement/autechre/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Sla­ckers [US] Ska — Post Tenebras Rock
+SUMMARY:The Sla­ckers [US] Ska Comsic Shuffling [CH] Rocksteady / Ska —
+  Post Tenebras Rock
 DTSTART;VALUE=DATE:20261013
-UID:4aeaeebb-78d5-544a-8f17-1bf5513fddcd
+UID:0d256d10-e48b-5150-968b-35432ed52cad
 DESCRIPTION:https://ptrnet.ch/evenement/the-slackers/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
