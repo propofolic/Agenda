@@ -467,6 +467,13 @@ DESCRIPTION:https://www.leromandie.ch/event/maria-jose-llergo-es-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:L O V E  P O P  L A T E X — Le Romandie
+DTSTART;VALUE=DATE:20261002
+UID:04c97885-0f69-5403-9fa5-15e3fc11e774
+DESCRIPTION:https://www.leromandie.ch/event/l-o-v-e-p-o-p-l-a-t-e-x
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DESERTGIRLZ (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20261003
 UID:d11759de-79c3-5a31-b312-a85d1c749993
@@ -772,10 +779,10 @@ DESCRIPTION:https://citronsmasques.ch/events/techno-to-hard-techno/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pressure Points(Fin)/Backslain(F)&Guest Melodic Death Metal — Le
- s Citrons Masqués
+SUMMARY:Pressure Points(Fin)//Backslain(F)//Path Of Desolation Melodic Dea
+ th Metal — Les Citrons Masqués
 DTSTART;VALUE=DATE:20260917
-UID:bc1e60c4-9f31-5c73-9e6b-ab60ec017dde
+UID:1a7db74f-5057-504d-8777-f8596ba725fb
 DESCRIPTION:https://citronsmasques.ch/events/pressure-points-fin-backslain
  -f/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
@@ -935,10 +942,10 @@ DESCRIPTION:https://dclub.ch/agenda/20260916/mont-rouge#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LABEL SUISSE LUM Fauste — D! Club
+SUMMARY:POUR LE PEUPLE Rislo Lockserie Spice & Curls MS IVS — D! Club
 DTSTART;VALUE=DATE:20260918
-UID:94dacd07-8b3b-5c9d-9d2e-60468780f9df
-DESCRIPTION:https://dclub.ch/agenda/20260918/lum#d-club-live
+UID:4b34de8f-dff5-517e-8a92-7ce3d7ae5386
+DESCRIPTION:https://dclub.ch/agenda/20260918/rislo#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -971,10 +978,11 @@ DESCRIPTION:https://dclub.ch/agenda/20260926/wild-pich#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MCM TOP Collectif 52 Dj’s — D! Club
+SUMMARY:PODIUM vs MCM TOP 2Unlimited Technotronic Grooveshake Collectif 52
+  Dj’s — D! Club
 DTSTART;VALUE=DATE:20261001
-UID:a7a36070-cdaf-55bb-bbdf-aceab561025d
-DESCRIPTION:https://dclub.ch/agenda/20261001/collectif-52-djs#d-club
+UID:7e057a2f-9db3-55a7-962f-5cdbc714f630
+DESCRIPTION:https://dclub.ch/agenda/20261001/2unlimited#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1305,11 +1313,12 @@ DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OH MY GOD FLOWERZ — La Gravière
-DTSTART;VALUE=DATE:20260909
-UID:1d859a90-3544-5adb-8140-8d7647b6c950
-DESCRIPTION:https://lagraviere.ch/evenement/oh-my-god-flowerz/
-LOCATION:La Gravière\, Genève
+SUMMARY:mercredi 11 . 11  Radwan Ghazi Moumneh & Frédéric D. Oberland Bo
+ cca Lupa — La Brèche
+DTSTART;VALUE=DATE:20261111
+UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
+DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
+LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EXTRA LOOP PARTY x LA BÂTIE — La Gravière
