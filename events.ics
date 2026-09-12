@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TR/ST+ Torba11.09.2026Unique date suisse — Docks
-DTSTART;VALUE=DATE:20260911
-UID:6a92004a-03c7-573e-9c33-ccbb667495a3
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20260911/tr-st/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Label Suisse #118.09.2026 — Docks
 DTSTART;VALUE=DATE:20260918
 UID:2ee88ffd-e1ef-5a9b-91bb-1fdbff48ad92
@@ -919,6 +912,13 @@ DESCRIPTION:https://citronsmasques.ch/events/jewly-f/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lord Bishop Rocks Hendrixian Motör Funk — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261219
+UID:4e42b7e0-961c-5711-a2da-bdbf18d5281f
+DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SUBSET Friction Mara (CH) Rosa Pagano K-tee Gaussian b2b Ostral 
  — D! Club
 DTSTART;VALUE=DATE:20260911
@@ -978,10 +978,9 @@ DESCRIPTION:https://dclub.ch/agenda/20260926/wild-pich#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PODIUM vs MCM TOP 2Unlimited Technotronic Grooveshake Collectif 52
-  Dj’s — D! Club
+SUMMARY:PODIUM vs MCM TOP 2Unlimited Technotronic Grooveshake — D! Club
 DTSTART;VALUE=DATE:20261001
-UID:7e057a2f-9db3-55a7-962f-5cdbc714f630
+UID:51f72c17-5e0e-596b-8cef-4612bd7cd63e
 DESCRIPTION:https://dclub.ch/agenda/20261001/2unlimited#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1016,6 +1015,13 @@ SUMMARY:SUBSET Delta Heavy Subsonic Tantrum Desire Koma Dub Sili — D! Cl
 DTSTART;VALUE=DATE:20261009
 UID:714a6966-c269-5909-8469-181f7bbb9768
 DESCRIPTION:https://dclub.ch/agenda/20261009/delta-heavy#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marco Smacchia – Spectacle de magie Marco Smacchia — D! Club
+DTSTART;VALUE=DATE:20261014
+UID:b7971b42-2421-5f0b-b6f0-25a972eb8bf3
+DESCRIPTION:https://dclub.ch/agenda/20261014/marco-smacchia#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1063,15 +1069,6 @@ DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Un espace entre-deux: cartographie d’un retour — Le Bout du Mo
- nde
-DTSTART;VALUE=DATE:20260910
-UID:28a6e1ae-f795-5acf-9398-9f5e0f5964eb
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/un-espace-entre-deux-c
- artographie-dun-retour/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le Bout’Zouk Présente Mark Kelly — Le Bout du Monde
 DTSTART;VALUE=DATE:20260911
 UID:31d58b8d-ebed-57af-8d9d-d283fd98983b
@@ -1101,6 +1098,49 @@ DTSTART;VALUE=DATE:20260919
 UID:d187f908-0a94-5f7c-96af-7301eb0c35da
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/boutzouk-presente-jam-
  skate/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Whisky & jazz — Le Bout du Monde
+DTSTART;VALUE=DATE:20260919
+UID:a97b01ee-711b-509b-adce-9153a09b7772
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/whisky-jazz-5/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Graille — Le Bout du Monde
+DTSTART;VALUE=DATE:20260927
+UID:68552a1f-09f2-57cd-938f-a132c38114f8
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-18/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:drink&draw — Le Bout du Monde
+DTSTART;VALUE=DATE:20260929
+UID:32961bb2-c7ae-5fff-839c-7e6167459d9b
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-11/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session folk avec les Embarcadeuses — Le Bout du Monde
+DTSTART;VALUE=DATE:20261001
+UID:168293cc-2e9f-50d2-8b34-53fb798f3333
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/session-folk-avec-les-
+ embarcadeuses-3/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bad gyal night — Le Bout du Monde
+DTSTART;VALUE=DATE:20261002
+UID:50f7eb58-fd43-581e-bfba-072c02f05879
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/bad-gyal-night-2/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L’Empire du rire — Le Bout du Monde
+DTSTART;VALUE=DATE:20261005
+UID:2ab3b435-d33a-5459-8555-02000379e331
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/lempire-du-rire/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
