@@ -758,13 +758,6 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Techno to Hard-Techno by doc-events.ch — Les Citrons Masqués
-DTSTART;VALUE=DATE:20260912
-UID:78df0ea4-6dc3-5d9c-aa01-fde419885509
-DESCRIPTION:https://citronsmasques.ch/events/techno-to-hard-techno/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pressure Points(Fin)//Backslain(F)//Path Of Desolation Melodic Dea
  th Metal — Les Citrons Masqués
 DTSTART;VALUE=DATE:20260917
@@ -912,14 +905,6 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DOWNTOWN BOOGIE Viga Kiff One Vincz Lee Dj Rafal Jiggy Jones — D
- ! Club
-DTSTART;VALUE=DATE:20260912
-UID:633f98ba-ae36-5200-9b15-7dfecb2af213
-DESCRIPTION:https://dclub.ch/agenda/20260912/viga#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MADAAM x BABYLON Mont Rouge (CH) — D! Club
 DTSTART;VALUE=DATE:20260916
 UID:b492dd0d-fa93-5d7a-ba8e-252e9cfbfe95
@@ -1052,14 +1037,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bout’Zouk présente: Tuna Helvetica — Le Bout du Monde
-DTSTART;VALUE=DATE:20260913
-UID:eb995ac8-9dc5-5d47-8d72-0ff6e0026e49
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/boutzouk-presente-tuna
- -helvetica/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bout’Zouk Présente Roda da união\, — Le Bout du Monde
@@ -1336,13 +1313,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RITMO — La Gravière
-DTSTART;VALUE=DATE:20260912
-UID:1d39c94f-f001-5f44-a2be-1bfe0e0d5b8b
-DESCRIPTION:https://lagraviere.ch/evenement/ritmo-42/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
