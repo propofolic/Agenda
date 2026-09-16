@@ -404,6 +404,14 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270429/rodrigo-y-gab
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lambrini Girls22.05.2027Unique date suisse — Docks
+DTSTART;VALUE=DATE:20270522
+UID:73ab9532-5a90-5774-865c-758c07516555
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270522/lambrini-girl
+ s/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Lottery Winners30.10.2027 — Docks
 DTSTART;VALUE=DATE:20271030
 UID:9226d52b-6df9-5883-b916-9cf74c6ec810
@@ -1187,13 +1195,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:mardi 09 . 15  Hors-programme : impro Afterwork — La Brèche
-DTSTART;VALUE=DATE:20260915
-UID:e9219e87-0808-507a-b37b-1934d52f4192
-DESCRIPTION:https://www.la-breche.fun/events/15-09-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:vendredi 09 . 18  Hors-Programme : Label Suisse _78 Tam Bor — La
   Brèche
 DTSTART;VALUE=DATE:20260918
@@ -1342,6 +1343,14 @@ DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-22/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FESTIVAL EVERYBODY'S PERFECT - OPENING PARTY — La Gravière
+DTSTART;VALUE=DATE:20261010
+UID:f0edf5cb-b743-53c7-ac65-52dc3cb290fb
+DESCRIPTION:https://lagraviere.ch/evenement/festival-everybodys-perfect-op
+ ening-party-2/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIP HOP LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261024
 UID:517dc046-e4cb-513d-baf2-c506c0a7a293
@@ -1368,13 +1377,6 @@ SUMMARY:Lord Finesse [US] Hip-hop Musa & Chief Biko [CH] — Post Tenebras
 DTSTART;VALUE=DATE:20260916
 UID:9d2b1d6b-702f-5979-a0d0-f213948ddfd9
 DESCRIPTION:https://ptrnet.ch/evenement/lord-finesse/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Him­ra [CI] Rap ivoirien ANNULÉ — Post Tenebras Rock
-DTSTART;VALUE=DATE:20260924
-UID:59406a4c-d200-5a62-ab2e-00b052bc2160
-DESCRIPTION:https://ptrnet.ch/evenement/himra/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
