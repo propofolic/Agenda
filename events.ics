@@ -43,9 +43,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261002/courtney-barn
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Astéréotypie03.10.2026 — Docks
+SUMMARY:Astéréotypie+ Chaufau03.10.2026 — Docks
 DTSTART;VALUE=DATE:20261003
-UID:60fe1ebe-3e25-5f69-983e-4557b38affab
+UID:fece070f-94cd-5e92-aa7e-2cba6f8ed333
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261003/astereotypie/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -892,13 +892,6 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MADAAM x BABYLON Mont Rouge (CH) — D! Club
-DTSTART;VALUE=DATE:20260916
-UID:b492dd0d-fa93-5d7a-ba8e-252e9cfbfe95
-DESCRIPTION:https://dclub.ch/agenda/20260916/mont-rouge#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:POUR LE PEUPLE Rislo Lockserie Spice & Curls MS IVS — D! Club
 DTSTART;VALUE=DATE:20260918
 UID:4b34de8f-dff5-517e-8a92-7ce3d7ae5386
@@ -921,6 +914,13 @@ DESCRIPTION:https://dclub.ch/agenda/20260920/shad-hottaboy#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BAL DE LA RENTREE Lucky G — D! Club
+DTSTART;VALUE=DATE:20260924
+UID:7daba8a7-c171-5ef4-a05e-b489806810b0
+DESCRIPTION:https://dclub.ch/agenda/20260924/lucky-g#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HARD BOUNCE Trym (FR) Row1 Nhū (CH) — D! Club
 DTSTART;VALUE=DATE:20260925
 UID:b7708d65-fcf1-5deb-b180-d89a20926eb1
@@ -928,9 +928,9 @@ DESCRIPTION:https://dclub.ch/agenda/20260925/trym#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PULL UP! Wild Pich Lil Kev — D! Club
+SUMMARY:PULL UP! Wild Pich Lil Kev Donaki Dj Rafal EMTY — D! Club
 DTSTART;VALUE=DATE:20260926
-UID:6e142830-5fa7-566a-9c06-12d82ddbb379
+UID:665daeff-e459-53ba-a5fa-cb96986099de
 DESCRIPTION:https://dclub.ch/agenda/20260926/wild-pich#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -975,10 +975,11 @@ DESCRIPTION:https://dclub.ch/agenda/20261009/delta-heavy#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marco Smacchia – Spectacle de magie Marco Smacchia — D! Club
+SUMMARY:PULSE IT! +16 ans : Halloween Wild Pich Danoki (CH) Flor — D! Cl
+ ub
 DTSTART;VALUE=DATE:20261014
-UID:b7971b42-2421-5f0b-b6f0-25a972eb8bf3
-DESCRIPTION:https://dclub.ch/agenda/20261014/marco-smacchia#d-club-live
+UID:8d672319-e607-5718-a58e-66e945e6c6cf
+DESCRIPTION:https://dclub.ch/agenda/20261014/wild-pich#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1372,14 +1373,6 @@ DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-20/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lord Finesse [US] Hip-hop Musa & Chief Biko [CH] — Post Tenebras
-  Rock
-DTSTART;VALUE=DATE:20260916
-UID:9d2b1d6b-702f-5979-a0d0-f213948ddfd9
-DESCRIPTION:https://ptrnet.ch/evenement/lord-finesse/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Young­blood Brass Band [US] Riot jazz/hip-hop La Revuelta Orques
  ta [CH] Latin brass music — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261001
@@ -1395,10 +1388,10 @@ DESCRIPTION:https://ptrnet.ch/evenement/autechre/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Sla­ckers [US] Ska Comsic Shuffling [CH] Rocksteady / Ska —
+SUMMARY:The Sla­ckers [US] Ska Cosmic Shuffling [CH] Rocksteady / Ska —
   Post Tenebras Rock
 DTSTART;VALUE=DATE:20261013
-UID:0d256d10-e48b-5150-968b-35432ed52cad
+UID:2f6d40ff-0cd7-5fdb-a31e-bd9725e7f1ab
 DESCRIPTION:https://ptrnet.ch/evenement/the-slackers/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
@@ -1419,9 +1412,10 @@ DESCRIPTION:https://ptrnet.ch/evenement/syndrome-81-x-no-filter-x-revanche
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sara Hebe [AR] Latin rap / Electro — Post Tenebras Rock
+SUMMARY:Sara Hebe [AR] Latin rap / Electro Los Mapas y Cachita [(CH\, AR\,
+  GT) ] Pop / Tropical — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261022
-UID:382c71f9-3ae5-5f1f-9f23-94c40f0ab248
+UID:850ed91a-893d-5cf1-89d0-2ff9e678ad8d
 DESCRIPTION:https://ptrnet.ch/evenement/sara-hebe/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
@@ -1430,14 +1424,6 @@ SUMMARY:Jet­Lag Gang reggaeton y perreo — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261024
 UID:2a6b703f-8b1c-5e63-a65d-04382b776466
 DESCRIPTION:https://ptrnet.ch/evenement/jetlag-gang/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pic­ture This @ L’Alhambra [IRL] Pop-rock Dreamboys The Band [D
- E] Indie-pop Marc Atlas [DE] Pop — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261026
-UID:8421ef74-c619-5173-8d43-1f52f136b5e4
-DESCRIPTION:https://ptrnet.ch/evenement/picture-this-lalhambra/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1512,6 +1498,14 @@ SUMMARY:OBSCURA // Shred Fest 2027 [DE] Metal progressif Pestilence [NL]
 DTSTART;VALUE=DATE:20270130
 UID:ddf552ec-27d9-5576-b212-72f8a171e1a6
 DESCRIPTION:https://ptrnet.ch/evenement/obscura/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Legen­da­ry Pink Dots [UK] Experimental rock — Post Teneb
+ ras Rock
+DTSTART;VALUE=DATE:20270202
+UID:7f8f5e25-7bb9-5541-8426-72fa7d7de6e8
+DESCRIPTION:https://ptrnet.ch/evenement/the-legendary-pink-dots/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
