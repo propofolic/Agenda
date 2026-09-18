@@ -148,9 +148,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261107/alela-diane-2
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MICHAEL SCHENKER GROUP12.11.2026Unique date suisse — Docks
+SUMMARY:MICHAEL SCHENKER GROUP+ Grey Attack + Keops12.11.2026Unique date s
+ uisse — Docks
 DTSTART;VALUE=DATE:20261112
-UID:516eddb9-6773-5c9d-a630-d9253641b608
+UID:f3f24beb-cf27-53dc-9f7a-b86d01b3bc95
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261112/michael-schen
  ker-group/
 LOCATION:Docks\, Lausanne
@@ -1013,6 +1014,13 @@ DESCRIPTION:https://dclub.ch/agenda/20261022/thylacine#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Technoween Ben Klock Kink Live Djerry C Ricciø — D! Club
+DTSTART;VALUE=DATE:20261030
+UID:82aff2d2-9212-5870-ae08-0dcb33a3340c
+DESCRIPTION:https://dclub.ch/agenda/20261030/ben-klock#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SPACE ODYSSEY NTO (FR) Joachim Pastor (FR) Djerry C — D! Club
 DTSTART;VALUE=DATE:20261120
 UID:07f5a064-0e61-566c-9cab-08148ea0c826
@@ -1025,14 +1033,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bout’Zouk Présente Roda da união\, — Le Bout du Monde
-DTSTART;VALUE=DATE:20260917
-UID:3b6311ef-82b3-5e56-a752-d44e88ab1d98
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/boutzouk-presente-roda
- -da-uniao/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bout’Zouk présente: Jam Skate — Le Bout du Monde
@@ -1122,6 +1122,15 @@ SUMMARY:ROSHÂNI [VERNISSAGE] + ERIN KIMBERLY X C.SUGVR — Le Rez-Usine
 DTSTART;VALUE=DATE:20261015
 UID:00cd9f03-9211-52df-a328-2672c7438e7b
 DESCRIPTION:https://rez-usine.ch/portfolio-item/15-10-26-roshani-guest/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REZ x THE SPOT: BENJAMIN EPPS + SEBB BASH + DJ STRESH — Le Rez-U
+ sine
+DTSTART;VALUE=DATE:20261023
+UID:6988ab31-eefe-5dee-9b67-f89d46b22ffe
+DESCRIPTION:https://rez-usine.ch/portfolio-item/23-10-26-rez-x-the-spot-be
+ njamin-epps-sebb-bash-dj-stresh/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1293,13 +1302,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20260917
-UID:59d30dcf-791d-5fff-95c9-19173a0290e0
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-88/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LAKESIDE BASEMENT — La Gravière
