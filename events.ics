@@ -11,14 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Label Suisse #118.09.2026 — Docks
-DTSTART;VALUE=DATE:20260918
-UID:2ee88ffd-e1ef-5a9b-91bb-1fdbff48ad92
-DESCRIPTION:https://www.docks.ch/evenement/evenements/20260918/label-suiss
- e-1-3/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Label Suisse #219.09.2026 — Docks
 DTSTART;VALUE=DATE:20260919
 UID:ce2b0efd-9d7e-5902-900e-0ce96d420275
@@ -421,14 +413,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LABEL SUISSE - VENDREDI : Louise Knobil 6tet + Ladunna + Yalla Mik
- u + La Collective — Le Romandie
-DTSTART;VALUE=DATE:20260918
-UID:970f2eb5-1b7d-502b-bacd-4944cd392fd5
-DESCRIPTION:https://www.leromandie.ch/event/label-suisse-vendredi
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LABEL SUISSE - SAMEDI : Trio Heinz Herbert + 3yooni + Manic pixxie
  s + Solar Velcro — Le Romandie
 DTSTART;VALUE=DATE:20260919
@@ -604,6 +588,14 @@ DESCRIPTION:https://www.leromandie.ch/event/ditter-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LABEL SUISSE - VENDREDI : Louise Knobil 6tet + Ladunna + Yalla Mik
+ u + La Collective — Le Romandie
+DTSTART;VALUE=DATE:20260918
+UID:970f2eb5-1b7d-502b-bacd-4944cd392fd5
+DESCRIPTION:https://www.leromandie.ch/event/label-suisse-vendredi
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AFTER PARY : LAUSANNE PRIDE #SAMEDI — Le Romandie
 DTSTART;VALUE=DATE:20260627
 UID:b639c44c-6859-5efd-9eff-9c4af5864aa8
@@ -690,27 +682,6 @@ DESCRIPTION:https://www.leromandie.ch/event/wacken-metal-battle-switzerlan
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Triple B par les Olympiens — Le Romandie
-DTSTART;VALUE=DATE:20260508
-UID:dd7bbc5f-5841-5281-b3b2-79cb7d9910d8
-DESCRIPTION:https://www.leromandie.ch/event/triple-b-par-les-olympiens
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cosmic Fever — Folklor
-DTSTART;VALUE=DATE:20260917
-UID:67d5426e-e79b-5fc3-8669-3c694e4e7ef9
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liquid Dimensions — Folklor
-DTSTART;VALUE=DATE:20260918
-UID:b2996ef1-b988-501c-b5d7-33a8495b6e29
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Smoke Fred × Folklor — 10 YEARS — Folklor
 DTSTART;VALUE=DATE:20260919
 UID:e456e375-87b3-5a12-a096-ce985ba45088
@@ -744,15 +715,6 @@ DTSTART;VALUE=DATE:20260926
 UID:41206495-b7fb-57c1-855e-3faadf5531a5
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pressure Points(Fin)//Backslain(F)//Path Of Desolation Melodic Dea
- th Metal — Les Citrons Masqués
-DTSTART;VALUE=DATE:20260917
-UID:1a7db74f-5057-504d-8777-f8596ba725fb
-DESCRIPTION:https://citronsmasques.ch/events/pressure-points-fin-backslain
- -f/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SysmiQ/Bad Heidi ROCK — Les Citrons Masqués
@@ -893,13 +855,6 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POUR LE PEUPLE Rislo Lockserie Spice & Curls MS IVS — D! Club
-DTSTART;VALUE=DATE:20260918
-UID:4b34de8f-dff5-517e-8a92-7ce3d7ae5386
-DESCRIPTION:https://dclub.ch/agenda/20260918/rislo#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:URBAN TROPICAL Game On Clyde DJ Kill (CH) Mathematic — D! Club
 DTSTART;VALUE=DATE:20260919
 UID:39626120-0cd9-52bc-974c-019aa1a3dfc2
@@ -988,6 +943,14 @@ SUMMARY:NINJA WARRIORS Indira Paganotto Marhu (BE) Sanem — D! Club
 DTSTART;VALUE=DATE:20261016
 UID:92651fce-9cef-5a7d-98e3-a57477a545e1
 DESCRIPTION:https://dclub.ch/agenda/20261016/indira-paganotto#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D! Club 30 th Anniversary : DOWNTOWN BOOGIE Kiff One Vincz Lee Dj 
+ Rafal Jiggy Jones — D! Club
+DTSTART;VALUE=DATE:20261017
+UID:db629c3e-45de-5ae7-b61c-df9d87ecd335
+DESCRIPTION:https://dclub.ch/agenda/20261017/kiff-one#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1086,11 +1049,46 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/lempire-du-rire/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA RUMEUR + COSTA — Le Rez-Usine
-DTSTART;VALUE=DATE:20260918
-UID:ba1ac2d9-c2ad-56f9-9cc2-dbface5dab6f
-DESCRIPTION:https://rez-usine.ch/portfolio-item/18-09-26-la-rumeur/
-LOCATION:Le Rez-Usine\, Genève
+SUMMARY:Elliott Quiz — Le Bout du Monde
+DTSTART;VALUE=DATE:20261009
+UID:12e30cd6-e760-536b-aecd-f1386ee8e08d
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/elliott-quiz-5/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:drink&draw — Le Bout du Monde
+DTSTART;VALUE=DATE:20261013
+UID:2b0c83b7-d1d7-5385-8616-746de3b90179
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-12/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Munnelly — Le Bout du Monde
+DTSTART;VALUE=DATE:20261014
+UID:a6ed5417-295e-5a3f-9484-c910a0dca140
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/david-munnelly-3/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Au Chapeau! — Le Bout du Monde
+DTSTART;VALUE=DATE:20261015
+UID:167d5f83-9534-59c9-a2de-45ec5dba665e
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/au-chapeau/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:le feu et les oiseaux — Le Bout du Monde
+DTSTART;VALUE=DATE:20261021
+UID:6b684d3d-145b-5740-af45-af79bf0104e8
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/le-feu-et-les-oiseaux/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:minijack — Le Bout du Monde
+DTSTART;VALUE=DATE:20261023
+UID:9db8c78c-e17a-517b-9d50-3e6dda7ee586
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/2595/
+LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CHAUD LABEL] FÉLICIEN LIA + ORLANDO BRIKOLO + COCHON DOUBLE — 
@@ -1205,14 +1203,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vendredi 09 . 18  Hors-Programme : Label Suisse _78 Tam Bor — La
-  Brèche
-DTSTART;VALUE=DATE:20260918
-UID:da87bd9e-a6c9-522d-bbc4-9a7aef2a3d65
-DESCRIPTION:https://www.la-breche.fun/events/18-09-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:samedi 09 . 19  Hors-Programme : Label Suisse Laure Betris & Yann 
  Hunziker Ondanaconda — La Brèche
 DTSTART;VALUE=DATE:20260919
@@ -1302,13 +1292,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAKESIDE BASEMENT — La Gravière
-DTSTART;VALUE=DATE:20260918
-UID:1f00d80d-dc68-5c33-9cf1-e2d97318bbb0
-DESCRIPTION:https://lagraviere.ch/evenement/lakeside-basement-6/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA GRAVERIE — La Gravière
