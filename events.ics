@@ -11,14 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Label Suisse #219.09.2026 — Docks
-DTSTART;VALUE=DATE:20260919
-UID:ce2b0efd-9d7e-5902-900e-0ce96d420275
-DESCRIPTION:https://www.docks.ch/evenement/evenements/20260919/label-suiss
- e-2-4/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Label Suisse #320.09.2026 — Docks
 DTSTART;VALUE=DATE:20260920
 UID:13109aec-8d33-5db6-8ad3-83a814be9b34
@@ -413,14 +405,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LABEL SUISSE - SAMEDI : Trio Heinz Herbert + 3yooni + Manic pixxie
- s + Solar Velcro — Le Romandie
-DTSTART;VALUE=DATE:20260919
-UID:f765b7e8-2c9a-5140-8225-7324c7c28328
-DESCRIPTION:https://www.leromandie.ch/event/label-suisse-samedi
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LABEL SUISSE - DIMANCHE : Personne + Mel D + Distorted Orchestra b
  2b Rebelca — Le Romandie
 DTSTART;VALUE=DATE:20260920
@@ -588,6 +572,14 @@ DESCRIPTION:https://www.leromandie.ch/event/ditter-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LABEL SUISSE - SAMEDI : Trio Heinz Herbert + 3yooni + Manic pixxie
+ s + Solar Velcro — Le Romandie
+DTSTART;VALUE=DATE:20260919
+UID:f765b7e8-2c9a-5140-8225-7324c7c28328
+DESCRIPTION:https://www.leromandie.ch/event/label-suisse-samedi
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LABEL SUISSE - VENDREDI : Louise Knobil 6tet + Ladunna + Yalla Mik
  u + La Collective — Le Romandie
 DTSTART;VALUE=DATE:20260918
@@ -674,14 +666,6 @@ DESCRIPTION:https://www.leromandie.ch/event/nnavy-trio-ch-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wacken Metal Battle Switzerland : La Finale — Le Romandie
-DTSTART;VALUE=DATE:20260516
-UID:d08aeb53-f4f6-5037-afcf-7907256b329c
-DESCRIPTION:https://www.leromandie.ch/event/wacken-metal-battle-switzerlan
- d-la-finale
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Smoke Fred × Folklor — 10 YEARS — Folklor
 DTSTART;VALUE=DATE:20260919
 UID:e456e375-87b3-5a12-a096-ce985ba45088
@@ -715,13 +699,6 @@ DTSTART;VALUE=DATE:20260926
 UID:41206495-b7fb-57c1-855e-3faadf5531a5
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SysmiQ/Bad Heidi ROCK — Les Citrons Masqués
-DTSTART;VALUE=DATE:20260918
-UID:ff96bc91-b499-5a31-a578-593dad354b7b
-DESCRIPTION:https://citronsmasques.ch/events/sysmiq-bad-heidi/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bily Acci + After Urbain\, Hip Hop\, Afro — Les Citrons Masqués
@@ -906,6 +883,22 @@ DESCRIPTION:https://dclub.ch/agenda/20261002/worakls#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:D! Club 30 th Anniversary : LA TEMPERATURA Maximarcus Kemuel Rosan
+ ova Rodriguez — D! Club
+DTSTART;VALUE=DATE:20261003
+UID:b36b822b-d35c-5756-80b8-e5e072f9c35a
+DESCRIPTION:https://dclub.ch/agenda/20261003/maximarcus#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D! Club 30 th Anniversary : THE GARD!EN Francis Mercier (HT) Sparr
+ ow Chelina Manuhutu — D! Club
+DTSTART;VALUE=DATE:20261004
+UID:eb76a0d8-1d9b-5ce9-90a9-565c86feb9e3
+DESCRIPTION:https://dclub.ch/agenda/20261004/francis-mercier#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:D! Club 30 th Anniversary : Benjamin Decosterd Le monde va mal (sp
  ectacle d’humour) Benjamin Decosterd — D! Club
 DTSTART;VALUE=DATE:20261006
@@ -923,6 +916,13 @@ DESCRIPTION:https://dclub.ch/agenda/20261007/donel-jacksman#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HEC URBAN NIGHT Kemuel — D! Club
+DTSTART;VALUE=DATE:20261008
+UID:5f592b3e-2a57-5b2a-8ab2-d3a1fe7dc54c
+DESCRIPTION:https://dclub.ch/agenda/20261008/kemuel#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SUBSET Delta Heavy Subsonic Tantrum Desire Koma Dub Sili — D! Cl
  ub
 DTSTART;VALUE=DATE:20261009
@@ -931,11 +931,26 @@ DESCRIPTION:https://dclub.ch/agenda/20261009/delta-heavy#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:D! Club 30 th Anniversary : PULL OUPS! Dj Klash Wild Pich The Jock
+ er Dj Vidy Lil Kev — D! Club
+DTSTART;VALUE=DATE:20261010
+UID:8be0d0b6-f249-5f01-bac9-896bb12aca0c
+DESCRIPTION:https://dclub.ch/agenda/20261010/dj-klash#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PULSE IT! +16 ans : Halloween Wild Pich Danoki (CH) Flor — D! Cl
  ub
 DTSTART;VALUE=DATE:20261014
 UID:8d672319-e607-5718-a58e-66e945e6c6cf
 DESCRIPTION:https://dclub.ch/agenda/20261014/wild-pich#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRAW ON ME by AEML & AEDL Lucky G — D! Club
+DTSTART;VALUE=DATE:20261015
+UID:af9db4dc-5004-5a4d-a7d6-239017e99092
+DESCRIPTION:https://dclub.ch/agenda/20261015/lucky-g#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -977,6 +992,20 @@ DESCRIPTION:https://dclub.ch/agenda/20261022/thylacine#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SUPERNOVA VTSS (USA) Pawlowski (FR) Nhū (CH) — D! Club
+DTSTART;VALUE=DATE:20261023
+UID:7c717c0f-7da5-5cff-ade7-5bb42f6374c9
+DESCRIPTION:https://dclub.ch/agenda/20261023/vtss#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HEC HALLOWEEN Lucky G — D! Club
+DTSTART;VALUE=DATE:20261029
+UID:3056aa20-5204-5ce3-8328-f0ff49ce372a
+DESCRIPTION:https://dclub.ch/agenda/20261029/lucky-g#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Technoween Ben Klock Kink Live Djerry C Ricciø — D! Club
 DTSTART;VALUE=DATE:20261030
 UID:82aff2d2-9212-5870-ae08-0dcb33a3340c
@@ -996,21 +1025,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bout’Zouk présente: Jam Skate — Le Bout du Monde
-DTSTART;VALUE=DATE:20260919
-UID:d187f908-0a94-5f7c-96af-7301eb0c35da
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/boutzouk-presente-jam-
- skate/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Whisky & jazz — Le Bout du Monde
-DTSTART;VALUE=DATE:20260919
-UID:a97b01ee-711b-509b-adce-9153a09b7772
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/whisky-jazz-5/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Graille — Le Bout du Monde
@@ -1084,10 +1098,45 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/le-feu-et-les-oiseaux/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:minijack — Le Bout du Monde
-DTSTART;VALUE=DATE:20261023
-UID:9db8c78c-e17a-517b-9d50-3e6dda7ee586
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/2595/
+SUMMARY:Slane — Le Bout du Monde
+DTSTART;VALUE=DATE:20261024
+UID:ef7abeba-e066-5913-a187-76e0d21ed898
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/slane/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Graille — Le Bout du Monde
+DTSTART;VALUE=DATE:20261025
+UID:49c56a1a-4fe5-53b3-8150-895c878f5ded
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-19/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:the telescopes — Le Bout du Monde
+DTSTART;VALUE=DATE:20261025
+UID:e6003789-9925-5e10-b1d2-d40fe75a636f
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/the-telescopes/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drink&Draw — Le Bout du Monde
+DTSTART;VALUE=DATE:20261027
+UID:f6bd49fe-e44b-591e-b72c-a60dbae59a4a
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-13/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ludd Lewis — Le Bout du Monde
+DTSTART;VALUE=DATE:20261029
+UID:f3f1c87e-77f7-556c-85f1-8620e5c365d7
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/ludd-lewis/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basic Partner — Le Bout du Monde
+DTSTART;VALUE=DATE:20261030
+UID:c30f9ac2-0a35-532d-b128-0fea1c8d73db
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/basic-partner/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
@@ -1203,14 +1252,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:samedi 09 . 19  Hors-Programme : Label Suisse Laure Betris & Yann 
- Hunziker Ondanaconda — La Brèche
-DTSTART;VALUE=DATE:20260919
-UID:8ab7a4b7-dea6-5450-b2f1-de67a598d51e
-DESCRIPTION:https://www.la-breche.fun/events/19-09-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:dimanche 09 . 20  Hors-Programme : Label Suisse Léa Martinez Loui
  s Schild – Le recueil des miracles — La Brèche
 DTSTART;VALUE=DATE:20260920
@@ -1292,13 +1333,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA GRAVERIE — La Gravière
-DTSTART;VALUE=DATE:20260919
-UID:b36800d3-4855-5d74-8cde-8c1865e69156
-DESCRIPTION:https://lagraviere.ch/evenement/la-graverie-13/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
