@@ -11,14 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Label Suisse #320.09.2026 — Docks
-DTSTART;VALUE=DATE:20260920
-UID:13109aec-8d33-5db6-8ad3-83a814be9b34
-DESCRIPTION:https://www.docks.ch/evenement/evenements/20260920/label-suiss
- e-3-4/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Courtney Barnett+ Huarinami02.10.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261002
 UID:20995d8b-67a0-571d-af36-659597e9422a
@@ -405,14 +397,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LABEL SUISSE - DIMANCHE : Personne + Mel D + Distorted Orchestra b
- 2b Rebelca — Le Romandie
-DTSTART;VALUE=DATE:20260920
-UID:feb50d6f-6d16-51fd-972d-4737ffdf282f
-DESCRIPTION:https://www.leromandie.ch/event/label-suisse-dimanche
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:30 + 10\, C’EST LA CRISE DE LA QUARANTAINE ! — Le Romandie
 DTSTART;VALUE=DATE:20260925
 UID:22f060d5-734b-5a0c-84f1-a93432caf919
@@ -572,6 +556,14 @@ DESCRIPTION:https://www.leromandie.ch/event/ditter-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LABEL SUISSE - DIMANCHE : Personne + Mel D + Distorted Orchestra b
+ 2b Rebelca — Le Romandie
+DTSTART;VALUE=DATE:20260920
+UID:feb50d6f-6d16-51fd-972d-4737ffdf282f
+DESCRIPTION:https://www.leromandie.ch/event/label-suisse-dimanche
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LABEL SUISSE - SAMEDI : Trio Heinz Herbert + 3yooni + Manic pixxie
  s + Solar Velcro — Le Romandie
 DTSTART;VALUE=DATE:20260919
@@ -659,20 +651,6 @@ DESCRIPTION:https://www.leromandie.ch/event/royale-cattin-presente-ciao-am
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NNAVY TRIO (CH) + NAYANA (CH) — Le Romandie
-DTSTART;VALUE=DATE:20260520
-UID:956ce80f-6f79-5177-b00e-ebb942422412
-DESCRIPTION:https://www.leromandie.ch/event/nnavy-trio-ch-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smoke Fred × Folklor — 10 YEARS — Folklor
-DTSTART;VALUE=DATE:20260919
-UID:e456e375-87b3-5a12-a096-ce985ba45088
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PPL x VOIID — Folklor
 DTSTART;VALUE=DATE:20260920
 UID:45c5ad79-f4e3-5cae-bd34-6855732f6d90
@@ -697,6 +675,27 @@ BEGIN:VEVENT
 SUMMARY:Folklor Nation x Blind Colors — Folklor
 DTSTART;VALUE=DATE:20260926
 UID:41206495-b7fb-57c1-855e-3faadf5531a5
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Studio — Folklor
+DTSTART;VALUE=DATE:20261001
+UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fantastic Friends — Folklor
+DTSTART;VALUE=DATE:20261002
+UID:928e7ccd-9e68-56e1-9372-1aed4b387c98
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bliss — Folklor
+DTSTART;VALUE=DATE:20261003
+UID:6daf02ce-5990-5e52-8939-b11b45cc6882
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -830,21 +829,6 @@ DTSTART;VALUE=DATE:20261219
 UID:4e42b7e0-961c-5711-a2da-bdbf18d5281f
 DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:URBAN TROPICAL Game On Clyde DJ Kill (CH) Mathematic — D! Club
-DTSTART;VALUE=DATE:20260919
-UID:39626120-0cd9-52bc-974c-019aa1a3dfc2
-DESCRIPTION:https://dclub.ch/agenda/20260919/game-on#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA TEMPERATURA Shad Hottaboy (RE) Maximarcus Kemuel Icean — D! C
- lub
-DTSTART;VALUE=DATE:20260920
-UID:6f371732-0fb6-59d8-92d7-13e43fc30cbd
-DESCRIPTION:https://dclub.ch/agenda/20260920/shad-hottaboy#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BAL DE LA RENTREE Lucky G — D! Club
@@ -1252,14 +1236,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:dimanche 09 . 20  Hors-Programme : Label Suisse Léa Martinez Loui
- s Schild – Le recueil des miracles — La Brèche
-DTSTART;VALUE=DATE:20260920
-UID:90990967-0f17-5089-b123-b4095060b025
-DESCRIPTION:https://www.la-breche.fun/events/20-09-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:mercredi 09 . 23  GORZ Violeta García & Hora Lunga — La Brèche
 DTSTART;VALUE=DATE:20260923
 UID:6d53f9ce-eb9c-58a2-b8c5-e9127d10aa32
@@ -1305,9 +1281,9 @@ LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vendredi 10 . 23  Hors-Programme : Vibrations Forward Aïda Gabrie
- lle Diop & guest Vibrations Forward — La Brèche
+ lle Diop & Guest : Mark Kelly Vibrations Forward — La Brèche
 DTSTART;VALUE=DATE:20261023
-UID:627c1dc4-4588-5ac0-94d5-cb8be41d1ea4
+UID:1a92c5bc-dd66-50a3-9ba3-b5dc7de5008d
 DESCRIPTION:https://www.la-breche.fun/events/23-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
