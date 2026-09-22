@@ -330,6 +330,13 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270312/kemmler/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pomme13.03.2027 — Docks
+DTSTART;VALUE=DATE:20270313
+UID:0c78acde-a16a-5ab4-a107-76ccdb7ba863
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270313/pomme-3/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Isaac Delusion17.03.2027Unique date suisse — Docks
 DTSTART;VALUE=DATE:20270317
 UID:81df3541-ce41-56aa-b94b-71946b49f674
@@ -449,14 +456,6 @@ DESCRIPTION:https://www.leromandie.ch/event/jeanneto-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BILLIE BIRD (VERNISSAGE\, CH) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261023
-UID:527d7b54-0e83-5bf6-85be-5767cfc7d006
-DESCRIPTION:https://www.leromandie.ch/event/billie-bird-vernissage-ch-supp
- ort
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:STANISLAS (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20261029
 UID:68334dc1-8316-53aa-825d-b1793357ff10
@@ -478,9 +477,9 @@ DESCRIPTION:https://www.leromandie.ch/event/kalika-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ETRAN DE L'AÏR (NG) + SUPPORT — Le Romandie
+SUMMARY:ETRAN DE L'AÏR (NG) + YALISCO (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261119
-UID:e3b1135b-ebe4-5f74-8a19-77db033f2dd8
+UID:69eff8df-c323-5b1a-b63a-929acd861787
 DESCRIPTION:https://www.leromandie.ch/event/etran-de-lair-ng-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
@@ -852,9 +851,10 @@ DESCRIPTION:https://dclub.ch/agenda/20260926/wild-pich#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PODIUM vs MCM TOP 2Unlimited Technotronic Grooveshake — D! Club
+SUMMARY:D! Club 30 th Anniversary : PODIUM vs MCM TOP 2Unlimited Technotro
+ nic Grooveshake — D! Club
 DTSTART;VALUE=DATE:20261001
-UID:51f72c17-5e0e-596b-8cef-4612bd7cd63e
+UID:c368f862-95a5-5f31-9b2b-0d2603f9dd2d
 DESCRIPTION:https://dclub.ch/agenda/20261001/2unlimited#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -867,10 +867,9 @@ DESCRIPTION:https://dclub.ch/agenda/20261002/worakls#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : LA TEMPERATURA Maximarcus Kemuel Rosan
- ova Rodriguez — D! Club
+SUMMARY:LA TEMPERATURA Maximarcus Kemuel Rosanova Rodriguez — D! Club
 DTSTART;VALUE=DATE:20261003
-UID:b36b822b-d35c-5756-80b8-e5e072f9c35a
+UID:cd3e9e80-a6de-55a5-b4cb-f3dc2f2f6c7a
 DESCRIPTION:https://dclub.ch/agenda/20261003/maximarcus#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1376,9 +1375,10 @@ DESCRIPTION:https://ptrnet.ch/evenement/youngblood-brass-band/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AUTECHRE [UK] IDM x Electron — Post Tenebras Rock
+SUMMARY:AUTECHRE [UK] Electronic / IDM / Ambient Konx-om-Pax [UK] Electron
+ ic / IDM / Ambient x Electron — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261012
-UID:a5b1df50-872e-530a-8085-10b7e29cdf8e
+UID:f66b6f0c-aa73-5325-be75-6fdb2c865baa
 DESCRIPTION:https://ptrnet.ch/evenement/autechre/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
