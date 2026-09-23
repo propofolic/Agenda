@@ -71,9 +71,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261025/sleaford-mods
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghinzu28.10.2026 - CompletUnique date suisse — Docks
+SUMMARY:Ghinzu28.10.2026 - Completsans première partie — Docks
 DTSTART;VALUE=DATE:20261028
-UID:2f3b1bcd-f752-5b29-82d5-7274b9668ac2
+UID:0c1ce4b5-dbbe-51dc-b592-d85208abef3b
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261028/ghinzu/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -195,9 +195,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261126/kid-francesco
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sauvage+ Paolo.27.11.2026 - Derniers billets — Docks
+SUMMARY:Sam Sauvage+ Paolo.27.11.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20261127
-UID:e695dfde-e559-5a5b-9a4d-5cfdc1a9c5da
+UID:3fbd65e3-7c67-5378-a893-a1221d01ead8
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261127/sam-sauvage/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -245,9 +245,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261211/ibeyi-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eluveitie+ PAIN + Wolfheart12.12.2026 - Derniers billets — Docks
+SUMMARY:Eluveitie+ PAIN + Wolfheart12.12.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20261212
-UID:e368d850-5f7c-5062-8ddb-a6d19043f3a7
+UID:19874303-8918-5791-83a7-8c956bc6a611
 DESCRIPTION:https://www.docks.ch/evenement/evenements/20261212/eluveitie-4
  /
 LOCATION:Docks\, Lausanne
@@ -456,6 +456,13 @@ DESCRIPTION:https://www.leromandie.ch/event/jeanneto-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROMANDUB #2 — Le Romandie
+DTSTART;VALUE=DATE:20261024
+UID:379a37cf-04a8-56c4-bec3-8cad8616ea00
+DESCRIPTION:https://www.leromandie.ch/event/romandub-2
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:STANISLAS (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20261029
 UID:68334dc1-8316-53aa-825d-b1793357ff10
@@ -650,13 +657,6 @@ DESCRIPTION:https://www.leromandie.ch/event/royale-cattin-presente-ciao-am
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PPL x VOIID — Folklor
-DTSTART;VALUE=DATE:20260920
-UID:45c5ad79-f4e3-5cae-bd34-6855732f6d90
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bal De La Rentrée — Folklor
 DTSTART;VALUE=DATE:20260924
 UID:3729e8ac-c4d9-59cc-a926-a657a33f4da7
@@ -695,6 +695,20 @@ BEGIN:VEVENT
 SUMMARY:Bliss — Folklor
 DTSTART;VALUE=DATE:20261003
 UID:6daf02ce-5990-5e52-8939-b11b45cc6882
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afterlokal — Folklor
+DTSTART;VALUE=DATE:20261008
+UID:c27646a1-fe5c-5a2a-9eaf-5a421016aa56
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:303 Sessions — Folklor
+DTSTART;VALUE=DATE:20261009
+UID:05b3636e-db74-51ea-8b52-4e589cf4938e
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -1123,118 +1137,6 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/basic-partner/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[CHAUD LABEL] FÉLICIEN LIA + ORLANDO BRIKOLO + COCHON DOUBLE — 
- Le Rez-Usine
-DTSTART;VALUE=DATE:20260925
-UID:87fe3351-4ee9-547a-8497-ec22099935e5
-DESCRIPTION:https://rez-usine.ch/portfolio-item/25-09-26-chaud-label-felic
- ien-lia-orlando-brikolo-cochon-double/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA COLONIE DE VACANCES [TOURNÉE D’ADIEUX] + RÉBECCA BONTÉ —
-  Le Rez-Usine
-DTSTART;VALUE=DATE:20261003
-UID:64194e6f-5557-5259-8add-255125bcbb94
-DESCRIPTION:https://rez-usine.ch/portfolio-item/03-10-26-la-colonie-de-vac
- ances/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DANYL — Le Rez-Usine
-DTSTART;VALUE=DATE:20261008
-UID:4906b6e1-637a-5127-ad45-cb9f50e4d943
-DESCRIPTION:https://rez-usine.ch/portfolio-item/08-10-26-danyl/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROSHÂNI [VERNISSAGE] + ERIN KIMBERLY X C.SUGVR — Le Rez-Usine
-DTSTART;VALUE=DATE:20261015
-UID:00cd9f03-9211-52df-a328-2672c7438e7b
-DESCRIPTION:https://rez-usine.ch/portfolio-item/15-10-26-roshani-guest/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REZ x THE SPOT: BENJAMIN EPPS + SEBB BASH + DJ STRESH — Le Rez-U
- sine
-DTSTART;VALUE=DATE:20261023
-UID:6988ab31-eefe-5dee-9b67-f89d46b22ffe
-DESCRIPTION:https://rez-usine.ch/portfolio-item/23-10-26-rez-x-the-spot-be
- njamin-epps-sebb-bash-dj-stresh/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ANNULÉ] KABAKA PYRAMID — Le Rez-Usine
-DTSTART;VALUE=DATE:20261023
-UID:107b8e02-4e25-5418-994d-cb607eac8e31
-DESCRIPTION:https://rez-usine.ch/portfolio-item/23-10-26-kabaka-pyramid/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA P’TITE FUMÉE — Le Rez-Usine
-DTSTART;VALUE=DATE:20261105
-UID:49f87ef3-2fbe-53c2-a5de-92d3f7c3b484
-DESCRIPTION:https://rez-usine.ch/portfolio-item/05-11-26-la-ptite-fumee/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SYD MATTERS + BLUMI — Le Rez-Usine
-DTSTART;VALUE=DATE:20261119
-UID:9649d3d9-d64a-5b71-85e9-250e92e90d3f
-DESCRIPTION:https://rez-usine.ch/portfolio-item/19-11-26-syd-matters/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[ANNULÉ] CŒUR DE PIRATE — Le Rez-Usine
-DTSTART;VALUE=DATE:20261121
-UID:6ad2ab4d-7253-53c2-8ef6-d8f1423ea750
-DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-coeur-de-pirate/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’UZINE — Le Rez-Usine
-DTSTART;VALUE=DATE:20261121
-UID:b6e2561a-d726-5413-8225-078231323570
-DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-luzine/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHARLÉLIE COUTURE — Le Rez-Usine
-DTSTART;VALUE=DATE:20261205
-UID:c98b9959-97ed-52f8-b35d-514aa3d4799f
-DESCRIPTION:https://rez-usine.ch/portfolio-item/05-12-26-charlelie-couture
- /
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZED — Le Rez-Usine
-DTSTART;VALUE=DATE:20270205
-UID:88cd97b3-af42-5d64-a377-11031d04c3fb
-DESCRIPTION:https://rez-usine.ch/portfolio-item/05-02-27-zed/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JOHNNY JANE — Le Rez-Usine
-DTSTART;VALUE=DATE:20270305
-UID:126df6fa-503d-5fb7-92ca-3e6cfaffe41d
-DESCRIPTION:https://rez-usine.ch/portfolio-item/05-03-27-johnny-jane/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[REPORTÉ] JAZZY BAZZ — Le Rez-Usine
-DTSTART;VALUE=DATE:20270408
-UID:fcfa59f9-f57f-5e11-9a3f-2d84e5cc9806
-DESCRIPTION:https://rez-usine.ch/portfolio-item/17-10-26-jazzy-bazz/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LUIZA — Le Rez-Usine
-DTSTART;VALUE=DATE:20270416
-UID:f0b5a368-d11d-5402-9f04-d4ba1035cf22
-DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:mercredi 09 . 23  GORZ Violeta García & Hora Lunga — La Brèche
 DTSTART;VALUE=DATE:20260923
 UID:6d53f9ce-eb9c-58a2-b8c5-e9127d10aa32
@@ -1460,6 +1362,14 @@ SUMMARY:Sunday\,June [CH / ES] Solar Psych Glaascats [CH] rock alternatif
 DTSTART;VALUE=DATE:20261107
 UID:cc831ff1-229d-58ca-b293-771e630fc8bc
 DESCRIPTION:https://ptrnet.ch/evenement/sundayjune/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mur­phy’s Law [US] Hardcore Clobber [UK] Hardcore Punk Violenc
+ e Grise [CH] DIY Punk Rock — Post Tenebras Rock
+DTSTART;VALUE=DATE:20261109
+UID:7fc2f9ce-84c2-5471-8de0-9f2122fe5f7b
+DESCRIPTION:https://ptrnet.ch/evenement/murphys-law/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
