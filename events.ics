@@ -449,6 +449,20 @@ DESCRIPTION:https://www.leromandie.ch/event/the-lemon-twigs-us-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Espectro Oculto Night — Le Romandie
+DTSTART;VALUE=DATE:20261009
+UID:781ef662-7d9f-55f6-b0bf-92771e40be9d
+DESCRIPTION:https://www.leromandie.ch/event/espectro-oculto-night
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club François — Le Romandie
+DTSTART;VALUE=DATE:20261017
+UID:40700025-b0be-52bb-b0f0-f6c8e086b56e
+DESCRIPTION:https://www.leromandie.ch/event/club-francois-3
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JEANNETO (FR) + EGGS AND TIARAS (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261022
 UID:5861e2e1-8f7a-5912-b3d0-f4323ea5e634
@@ -881,9 +895,10 @@ DESCRIPTION:https://dclub.ch/agenda/20261002/worakls#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA TEMPERATURA Maximarcus Kemuel Rosanova Rodriguez — D! Club
+SUMMARY:LA TEMPERATURA Maximarcus Kemuel Rosanova Rodriguez MC Dimsko (FR)
+  — D! Club
 DTSTART;VALUE=DATE:20261003
-UID:cd3e9e80-a6de-55a5-b4cb-f3dc2f2f6c7a
+UID:5bd87f87-4ad2-5f3e-a795-0df155ea321a
 DESCRIPTION:https://dclub.ch/agenda/20261003/maximarcus#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1137,16 +1152,130 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/basic-partner/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:mercredi 09 . 23  GORZ Violeta García & Hora Lunga — La Brèche
-DTSTART;VALUE=DATE:20260923
-UID:6d53f9ce-eb9c-58a2-b8c5-e9127d10aa32
-DESCRIPTION:https://www.la-breche.fun/events/23-09-2026
-LOCATION:La Brèche\, Lausanne
+SUMMARY:[CHAUD LABEL] FÉLICIEN LIA + ORLANDO BRIKOLO + COCHON DOUBLE — 
+ Le Rez-Usine
+DTSTART;VALUE=DATE:20260925
+UID:87fe3351-4ee9-547a-8497-ec22099935e5
+DESCRIPTION:https://rez-usine.ch/portfolio-item/25-09-26-chaud-label-felic
+ ien-lia-orlando-brikolo-cochon-double/
+LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:jeudi 09 . 24  Devon Rexi Onion Badger — La Brèche
+SUMMARY:LA COLONIE DE VACANCES [TOURNÉE D’ADIEUX] + RÉBECCA BONTÉ —
+  Le Rez-Usine
+DTSTART;VALUE=DATE:20261003
+UID:64194e6f-5557-5259-8add-255125bcbb94
+DESCRIPTION:https://rez-usine.ch/portfolio-item/03-10-26-la-colonie-de-vac
+ ances/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DANYL — Le Rez-Usine
+DTSTART;VALUE=DATE:20261008
+UID:4906b6e1-637a-5127-ad45-cb9f50e4d943
+DESCRIPTION:https://rez-usine.ch/portfolio-item/08-10-26-danyl/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROSHÂNI [VERNISSAGE] + ERIN KIMBERLY X C.SUGVR — Le Rez-Usine
+DTSTART;VALUE=DATE:20261015
+UID:00cd9f03-9211-52df-a328-2672c7438e7b
+DESCRIPTION:https://rez-usine.ch/portfolio-item/15-10-26-roshani-guest/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REZ x THE SPOT: BENJAMIN EPPS + SEBB BASH + DJ STRESH — Le Rez-U
+ sine
+DTSTART;VALUE=DATE:20261023
+UID:6988ab31-eefe-5dee-9b67-f89d46b22ffe
+DESCRIPTION:https://rez-usine.ch/portfolio-item/23-10-26-rez-x-the-spot-be
+ njamin-epps-sebb-bash-dj-stresh/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ANNULÉ] KABAKA PYRAMID — Le Rez-Usine
+DTSTART;VALUE=DATE:20261023
+UID:107b8e02-4e25-5418-994d-cb607eac8e31
+DESCRIPTION:https://rez-usine.ch/portfolio-item/23-10-26-kabaka-pyramid/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA P’TITE FUMÉE — Le Rez-Usine
+DTSTART;VALUE=DATE:20261105
+UID:49f87ef3-2fbe-53c2-a5de-92d3f7c3b484
+DESCRIPTION:https://rez-usine.ch/portfolio-item/05-11-26-la-ptite-fumee/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SYD MATTERS + BLUMI — Le Rez-Usine
+DTSTART;VALUE=DATE:20261119
+UID:9649d3d9-d64a-5b71-85e9-250e92e90d3f
+DESCRIPTION:https://rez-usine.ch/portfolio-item/19-11-26-syd-matters/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[ANNULÉ] CŒUR DE PIRATE — Le Rez-Usine
+DTSTART;VALUE=DATE:20261121
+UID:6ad2ab4d-7253-53c2-8ef6-d8f1423ea750
+DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-coeur-de-pirate/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L’UZINE — Le Rez-Usine
+DTSTART;VALUE=DATE:20261121
+UID:b6e2561a-d726-5413-8225-078231323570
+DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-luzine/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHARLÉLIE COUTURE — Le Rez-Usine
+DTSTART;VALUE=DATE:20261205
+UID:c98b9959-97ed-52f8-b35d-514aa3d4799f
+DESCRIPTION:https://rez-usine.ch/portfolio-item/05-12-26-charlelie-couture
+ /
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GOULAMAS’K + 8°6 CREW + SKARFACE + SIXYKA — Le Rez-Usine
+DTSTART;VALUE=DATE:20270129
+UID:eee4ac25-c7f2-52bc-a726-594af4f98b4f
+DESCRIPTION:https://rez-usine.ch/portfolio-item/29-01-26-goulamask-86-crew
+ -skarface-sixyka/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZED — Le Rez-Usine
+DTSTART;VALUE=DATE:20270205
+UID:88cd97b3-af42-5d64-a377-11031d04c3fb
+DESCRIPTION:https://rez-usine.ch/portfolio-item/05-02-27-zed/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOHNNY JANE — Le Rez-Usine
+DTSTART;VALUE=DATE:20270305
+UID:126df6fa-503d-5fb7-92ca-3e6cfaffe41d
+DESCRIPTION:https://rez-usine.ch/portfolio-item/05-03-27-johnny-jane/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[REPORTÉ] JAZZY BAZZ — Le Rez-Usine
+DTSTART;VALUE=DATE:20270408
+UID:fcfa59f9-f57f-5e11-9a3f-2d84e5cc9806
+DESCRIPTION:https://rez-usine.ch/portfolio-item/17-10-26-jazzy-bazz/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUIZA — Le Rez-Usine
+DTSTART;VALUE=DATE:20270416
+UID:f0b5a368-d11d-5402-9f04-d4ba1035cf22
+DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:jeudi 09 . 24  COMPLET ! Aucun billet ne sera vendu aux portes Dev
+ on Rexi Onion Badger — La Brèche
 DTSTART;VALUE=DATE:20260924
-UID:8575a131-853f-560e-a043-5982585f0159
+UID:90977011-3626-5978-8dd7-26c0bf1ae9f0
 DESCRIPTION:https://www.la-breche.fun/events/24-09-26
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
@@ -1233,10 +1362,25 @@ DESCRIPTION:https://lagraviere.ch/evenement/ritmo-43/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DERESTRICT 5 YEARS ANNIVERSARY — La Gravière
+DTSTART;VALUE=DATE:20261002
+UID:de229501-87cf-56f0-8506-f8e3e6986ea9
+DESCRIPTION:https://lagraviere.ch/evenement/derestrict-5-years-anniversary
+ /
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:COMPLET // HIP HOP LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261003
 UID:0657ce29-7044-5318-8377-7cfe93efab45
 DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-22/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TATAKI WAVE PARTY — La Gravière
+DTSTART;VALUE=DATE:20261003
+UID:d81bc63e-468d-5447-ab22-9d53c98c4bee
+DESCRIPTION:https://lagraviere.ch/evenement/tataki-wave-party-4/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
