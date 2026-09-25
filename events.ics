@@ -388,6 +388,15 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270429/rodrigo-y-gab
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DragonForce+ Visions of Atlantis + Wings of Steel04.05.2027 — Do
+ cks
+DTSTART;VALUE=DATE:20270504
+UID:d0df918e-f28c-5320-9ab5-72dfd8baf84f
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270504/dragonforce-2
+ /
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lambrini Girls22.05.2027Unique date suisse — Docks
 DTSTART;VALUE=DATE:20270522
 UID:73ab9532-5a90-5774-865c-758c07516555
@@ -807,6 +816,13 @@ DESCRIPTION:https://citronsmasques.ch/events/cookie-the-herbalist-bugum/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Begin Techno Party Techno — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261107
+UID:311de2ca-6177-5052-b611-ef16dff71cd2
+DESCRIPTION:https://citronsmasques.ch/events/the-begin-techno-party/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:l’Alchimie du Rire Comedy club Stand up — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261113
 UID:4512fe1e-98b7-58b5-a6cf-c6fb418721e3
@@ -819,6 +835,13 @@ SUMMARY:MELROSE « Le rock rencontre le flamenco » — Les Citrons Masqu
 DTSTART;VALUE=DATE:20261114
 UID:ed2c9398-371c-5356-9751-0678c39625a3
 DESCRIPTION:https://citronsmasques.ch/events/melrose/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOVAJAM Jazz standars — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261120
+UID:5b19a35a-07db-56af-ba37-26d0fee35ca3
+DESCRIPTION:https://citronsmasques.ch/events/novajam/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -851,18 +874,18 @@ DESCRIPTION:https://citronsmasques.ch/events/jewly-f/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NOVAJAM Jazz standars — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261218
+UID:f1626690-5b56-529e-869e-18cbe11e4b0d
+DESCRIPTION:https://citronsmasques.ch/events/novajam-2/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lord Bishop Rocks Hendrixian Motör Funk — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261219
 UID:4e42b7e0-961c-5711-a2da-bdbf18d5281f
 DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAL DE LA RENTREE Lucky G — D! Club
-DTSTART;VALUE=DATE:20260924
-UID:7daba8a7-c171-5ef4-a05e-b489806810b0
-DESCRIPTION:https://dclub.ch/agenda/20260924/lucky-g#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HARD BOUNCE Trym (FR) Row1 Nhū (CH) — D! Club
@@ -1272,14 +1295,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:jeudi 09 . 24  COMPLET ! Aucun billet ne sera vendu aux portes Dev
- on Rexi Onion Badger — La Brèche
-DTSTART;VALUE=DATE:20260924
-UID:90977011-3626-5978-8dd7-26c0bf1ae9f0
-DESCRIPTION:https://www.la-breche.fun/events/24-09-26
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:samedi 10 . 03  session d'écoute\, moment de partage Billie Bird 
  — La Brèche
 DTSTART;VALUE=DATE:20261003
@@ -1339,13 +1354,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20260924
-UID:06acffc5-15fe-5d92-a81f-0b46f83d5a82
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-89/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DRIFT — La Gravière
@@ -1552,7 +1560,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Legen­da­ry Pink Dots [UK] Experimental rock — Post Teneb
  ras Rock
-DTSTART;VALUE=DATE:20270202
+DTSTART;VALUE=DATE:20270203
 UID:7f8f5e25-7bb9-5541-8426-72fa7d7de6e8
 DESCRIPTION:https://ptrnet.ch/evenement/the-legendary-pink-dots/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
