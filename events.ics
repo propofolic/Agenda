@@ -63,9 +63,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261023/cat-power-3/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sleaford Mods25.10.2026Unique date suisse — Docks
+SUMMARY:Sleaford Mods+ Alt_R25.10.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261025
-UID:4e9b1090-9e2c-53c2-b6dc-7b6b8b2bcc67
+UID:563d072f-cf62-53e6-b0d7-e13cea68198b
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261025/sleaford-mods
  /
 LOCATION:Docks\, Lausanne
@@ -413,14 +413,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:30 + 10\, C’EST LA CRISE DE LA QUARANTAINE ! — Le Romandie
-DTSTART;VALUE=DATE:20260925
-UID:22f060d5-734b-5a0c-84f1-a93432caf919
-DESCRIPTION:https://www.leromandie.ch/event/30-10-cest-la-crise-de-la-quar
- antaine
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RINSE FM PRÉSENTE : TEKI LATEX (FR) + LE BEAU BIZARRE B2B MUGABO 
  (CH) + MAYUNGOS (CH) — Le Romandie
 DTSTART;VALUE=DATE:20260926
@@ -585,6 +577,14 @@ DESCRIPTION:https://www.leromandie.ch/event/ditter-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:30 + 10\, C’EST LA CRISE DE LA QUARANTAINE ! — Le Romandie
+DTSTART;VALUE=DATE:20260925
+UID:22f060d5-734b-5a0c-84f1-a93432caf919
+DESCRIPTION:https://www.leromandie.ch/event/30-10-cest-la-crise-de-la-quar
+ antaine
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LABEL SUISSE - DIMANCHE : Personne + Mel D + Distorted Orchestra b
  2b Rebelca — Le Romandie
 DTSTART;VALUE=DATE:20260920
@@ -669,14 +669,6 @@ DTSTART;VALUE=DATE:20260523
 UID:3b12d6d6-cbe1-5564-99f6-da1b2699c8a6
 DESCRIPTION:https://www.leromandie.ch/event/la-main-mise-invite-hassan-abo
  u-alam
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROYALE CATTIN PRESENTE - CIAO AMORE CIAO — Le Romandie
-DTSTART;VALUE=DATE:20260522
-UID:8494611a-e0d7-536d-932c-a317351f7333
-DESCRIPTION:https://www.leromandie.ch/event/royale-cattin-presente-ciao-am
- ore-ciao
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -888,13 +880,6 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HARD BOUNCE Trym (FR) Row1 Nhū (CH) — D! Club
-DTSTART;VALUE=DATE:20260925
-UID:b7708d65-fcf1-5deb-b180-d89a20926eb1
-DESCRIPTION:https://dclub.ch/agenda/20260925/trym#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PULL UP! Wild Pich Lil Kev Donaki Dj Rafal EMTY — D! Club
 DTSTART;VALUE=DATE:20260926
 UID:665daeff-e459-53ba-a5fa-cb96986099de
@@ -926,10 +911,10 @@ DESCRIPTION:https://dclub.ch/agenda/20261003/maximarcus#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : THE GARD!EN Francis Mercier (HT) Sparr
- ow Chelina Manuhutu — D! Club
+SUMMARY:GARDEN SUND!AY Francis Mercier (HT) Sparrow Chelina Manuhutu — D
+ ! Club
 DTSTART;VALUE=DATE:20261004
-UID:eb76a0d8-1d9b-5ce9-90a9-565c86feb9e3
+UID:cfbebcfc-8ed4-5bb0-b369-464e1ce56453
 DESCRIPTION:https://dclub.ch/agenda/20261004/francis-mercier#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1356,17 +1341,17 @@ DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DRIFT — La Gravière
-DTSTART;VALUE=DATE:20260925
-UID:74da3f66-864f-51a8-98d3-b236c5139623
-DESCRIPTION:https://lagraviere.ch/evenement/drift-10/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RITMO — La Gravière
 DTSTART;VALUE=DATE:20260926
 UID:cc972d9c-c52e-599e-b6a8-8deda2e97988
 DESCRIPTION:https://lagraviere.ch/evenement/ritmo-43/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20261001
+UID:cedc21bd-1c80-55ed-99c1-449ebcf9e8c6
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-90/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1392,6 +1377,13 @@ DESCRIPTION:https://lagraviere.ch/evenement/tataki-wave-party-4/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NOCTAMBAR x LES CRÉATIVES — La Gravière
+DTSTART;VALUE=DATE:20261008
+UID:b9a070bb-2f77-5e7b-af2b-892fd4b7f64e
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-x-les-creatives/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FESTIVAL EVERYBODY'S PERFECT - OPENING PARTY — La Gravière
 DTSTART;VALUE=DATE:20261010
 UID:f0edf5cb-b743-53c7-ac65-52dc3cb290fb
@@ -1400,10 +1392,31 @@ DESCRIPTION:https://lagraviere.ch/evenement/festival-everybodys-perfect-op
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20261015
+UID:e397a524-c3cb-5163-a41c-27526f2a324a
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-91/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20261022
+UID:dbd8badf-dc4d-5d4e-ba52-e66daf0d1d07
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-92/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIP HOP LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261024
 UID:517dc046-e4cb-513d-baf2-c506c0a7a293
 DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-21/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20261029
+UID:acf1c64a-4441-5206-8aa5-03de1409d7d4
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-93/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
