@@ -180,9 +180,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261121/kneecap/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tori Kelly24.11.2026Unique date suisse — Docks
+SUMMARY:Tori Kelly+ HILLARI24.11.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261124
-UID:dff3d3bc-319c-5e5f-bd57-94971960a2ca
+UID:6308a8a3-6221-5a4e-b95e-12d56eee8103
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261124/tori-kelly/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -720,13 +720,6 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DeltaR Blues — Les Citrons Masqués
-DTSTART;VALUE=DATE:20260926
-UID:031fb41c-9227-5012-a85d-6cc9a4ba292a
-DESCRIPTION:https://citronsmasques.ch/events/deltar/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ZOUK & KOMPA La mensuelle — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261003
 UID:46f86d3e-3dc5-5937-bb3b-a129c67fe472
@@ -764,10 +757,11 @@ DESCRIPTION:https://citronsmasques.ch/events/the-tatas-chili/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miss Kryptonite & Guest Rock alternatif — Les Citrons Masqués
+SUMMARY:La Scène est à vous ! jam session/scène ouverte — Les Citrons
+  Masqués
 DTSTART;VALUE=DATE:20261023
-UID:dc919c1f-a6ec-5f73-84ad-e6597def51e5
-DESCRIPTION:https://citronsmasques.ch/events/miss-kryptonite-guest/
+UID:d8f130d8-5747-563f-a1cd-b7d8572da478
+DESCRIPTION:https://citronsmasques.ch/events/la-scene-est-a-vous-7/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -1023,13 +1017,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Graille — Le Bout du Monde
-DTSTART;VALUE=DATE:20260927
-UID:68552a1f-09f2-57cd-938f-a132c38114f8
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-18/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:drink&draw — Le Bout du Monde
