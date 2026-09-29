@@ -141,9 +141,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261113/psychedelic-p
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wallace Cleaver14.11.2026Unique date suisse — Docks
+SUMMARY:Wallace Cleaver+ Henri Bleu14.11.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261114
-UID:bf5b96f9-865d-5b98-8c18-b6090237219d
+UID:953c0f1d-f6f6-5ff8-9256-c481a521679a
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261114/wallace-cleav
  er/
 LOCATION:Docks\, Lausanne
@@ -735,10 +735,11 @@ DESCRIPTION:https://citronsmasques.ch/events/lalchimie-du-rire-comedy-club
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Drifting Souls Cover rock pop — Les Citrons Masqués
+SUMMARY:La Scène est à vous ! jam session/scène ouverte — Les Citrons
+  Masqués
 DTSTART;VALUE=DATE:20261009
-UID:d89c81f8-d729-5af7-b22a-0a34d72ce27a
-DESCRIPTION:https://citronsmasques.ch/events/the-drifting-souls/
+UID:d8f130d8-5747-563f-a1cd-b7d8572da478
+DESCRIPTION:https://citronsmasques.ch/events/la-scene-est-a-vous-7/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -750,18 +751,17 @@ DESCRIPTION:https://citronsmasques.ch/events/karaoke-3/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Tatas (Chili) Garage punk — Les Citrons Masqués
+SUMMARY:The Tatas (Chili) & Hot To Go Garage punk — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261021
-UID:5db712ff-0c07-5535-9fcd-0440f35c8855
+UID:9fc35093-8d8b-5b10-90a3-4778f6293bb5
 DESCRIPTION:https://citronsmasques.ch/events/the-tatas-chili/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Scène est à vous ! jam session/scène ouverte — Les Citrons
-  Masqués
+SUMMARY:Miss Kryptonite & Guest Rock alternatif — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261023
-UID:d8f130d8-5747-563f-a1cd-b7d8572da478
-DESCRIPTION:https://citronsmasques.ch/events/la-scene-est-a-vous-7/
+UID:dc919c1f-a6ec-5f73-84ad-e6597def51e5
+DESCRIPTION:https://citronsmasques.ch/events/miss-kryptonite-guest/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -859,6 +859,13 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RED by MADAAM RAMYEN (FR) — D! Club
+DTSTART;VALUE=DATE:20260930
+UID:025b9c6f-3ac6-5a5b-984b-1c396bc235d8
+DESCRIPTION:https://dclub.ch/agenda/20260930/ramyen#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:D! Club 30 th Anniversary : PODIUM vs MCM TOP 2Unlimited Technotro
  nic Grooveshake — D! Club
 DTSTART;VALUE=DATE:20261001
@@ -923,10 +930,10 @@ DESCRIPTION:https://dclub.ch/agenda/20261009/delta-heavy#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : PULL OUPS! Dj Klash Wild Pich The Jock
- er Dj Vidy Lil Kev — D! Club
+SUMMARY:PULL OUPS! Dj Klash Wild Pich The Jocker Dj Vidy Lil Kev — D! Cl
+ ub
 DTSTART;VALUE=DATE:20261010
-UID:8be0d0b6-f249-5f01-bac9-896bb12aca0c
+UID:2e2733c1-27df-511a-a0d1-653554157f3d
 DESCRIPTION:https://dclub.ch/agenda/20261010/dj-klash#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -991,10 +998,10 @@ DESCRIPTION:https://dclub.ch/agenda/20261023/vtss#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HEC HALLOWEEN Lucky G — D! Club
+SUMMARY:HEC HALLOWEEN Mr W. — D! Club
 DTSTART;VALUE=DATE:20261029
-UID:3056aa20-5204-5ce3-8328-f0ff49ce372a
-DESCRIPTION:https://dclub.ch/agenda/20261029/lucky-g#d-club
+UID:324f195e-e070-5ee3-8ddf-f3d5e8c37b97
+DESCRIPTION:https://dclub.ch/agenda/20261029/mr-w#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1438,6 +1445,14 @@ DESCRIPTION:https://ptrnet.ch/evenement/jetlag-gang/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pic­ture This @ L’Alhambra [IRL] Pop-rock Dreamboys The Band [D
+ E] Indie-pop Marc Atlas [DE] Pop ANNULÉ — Post Tenebras Rock
+DTSTART;VALUE=DATE:20261026
+UID:0d61e6e1-d610-5461-9645-4be5d7090abb
+DESCRIPTION:https://ptrnet.ch/evenement/picture-this-lalhambra/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Suf­fo­ca­tion (EU Tour) [US] Death metal Ingested [UK] Death 
  metal / Deathcore Undeath [US] Death metal Eternal [US] Death metal — Po
  st Tenebras Rock
@@ -1463,10 +1478,10 @@ DESCRIPTION:https://ptrnet.ch/evenement/sheer-terror-us-tear-up-uk-more/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hal­lo­ween Par­ty by Liquid Dimensions Psytrance — Post Tene
- bras Rock
+SUMMARY:Hal­lo­ween Psy­trance Par­ty by Liquid Dimensions Psytrance 
+ — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261031
-UID:84879c60-c386-59fe-bcb8-18b026331c25
+UID:e248c23b-1120-5e0f-a239-04f48244e904
 DESCRIPTION:https://ptrnet.ch/evenement/halloween-by-liquid-dimensions/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
