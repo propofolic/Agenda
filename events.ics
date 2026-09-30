@@ -284,6 +284,13 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270213/laibach-4/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EIHWAR+ hindarfjäll17.02.2027Witches & Vikings — Docks
+DTSTART;VALUE=DATE:20270217
+UID:1cd53b32-5973-5bae-8a45-9cc24ae72e68
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270217/eihwar/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cage the Elephant18.02.2027Unique date suisse — Docks
 DTSTART;VALUE=DATE:20270218
 UID:b04cb6cd-7f27-50ba-adec-09d9f887d2fe
@@ -363,6 +370,14 @@ SUMMARY:French 7902.04.2027Unique date suisse — Docks
 DTSTART;VALUE=DATE:20270402
 UID:2b75c41f-7cc3-57b9-8a60-a0d8eac54dea
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270402/french-79-2/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Stranglers09.04.2027 — Docks
+DTSTART;VALUE=DATE:20270409
+UID:1311e4c7-b371-5c60-94f4-20b787b2a01d
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270409/the-strangler
+ s-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -469,10 +484,17 @@ DESCRIPTION:https://www.leromandie.ch/event/romandub-2
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:STANISLAS (FR) + SUPPORT — Le Romandie
+SUMMARY:STANISLAS (FR) + LOHAN (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261029
-UID:68334dc1-8316-53aa-825d-b1793357ff10
+UID:3b4c6a99-1fc1-583c-8e02-6a7c030a8fba
 DESCRIPTION:https://www.leromandie.ch/event/stanislas-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Méchant Bal - Promo 2026 — Le Romandie
+DTSTART;VALUE=DATE:20261031
+UID:a80a7fdc-d8fe-5956-b9d0-bc58d5a3bf6b
+DESCRIPTION:https://www.leromandie.ch/event/grand-mechant-bal-promo-2026
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -565,6 +587,13 @@ SUMMARY:DITTER (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20270211
 UID:02968a78-76b6-5ce9-afe3-d05eae48ed47
 DESCRIPTION:https://www.leromandie.ch/event/ditter-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUSHE (FR) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20270325
+UID:bda6ad35-8676-5a8c-b695-e4b963007ef2
+DESCRIPTION:https://www.leromandie.ch/event/lushe-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -662,27 +691,6 @@ UID:0c79d86a-d268-5fb9-b341-c5f4b4647849
 DESCRIPTION:https://www.leromandie.ch/event/marie-jay-vernissage-ch-suppor
  t
 LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bal De La Rentrée — Folklor
-DTSTART;VALUE=DATE:20260924
-UID:3729e8ac-c4d9-59cc-a926-a657a33f4da7
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Afterlokal — Folklor
-DTSTART;VALUE=DATE:20260925
-UID:c27646a1-fe5c-5a2a-9eaf-5a421016aa56
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Folklor Nation x Blind Colors — Folklor
-DTSTART;VALUE=DATE:20260926
-UID:41206495-b7fb-57c1-855e-3faadf5531a5
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Studio — Folklor
@@ -1026,13 +1034,6 @@ DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:drink&draw — Le Bout du Monde
-DTSTART;VALUE=DATE:20260929
-UID:32961bb2-c7ae-5fff-839c-7e6167459d9b
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-11/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Session folk avec les Embarcadeuses — Le Bout du Monde
 DTSTART;VALUE=DATE:20261001
 UID:168293cc-2e9f-50d2-8b34-53fb798f3333
@@ -1192,9 +1193,9 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-coeur-de-pirate/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:L’UZINE — Le Rez-Usine
+SUMMARY:L’UZINE + MELAN + 10VERS — Le Rez-Usine
 DTSTART;VALUE=DATE:20261121
-UID:b6e2561a-d726-5413-8225-078231323570
+UID:532115d1-2af5-5fbd-b9e7-2b0261059392
 DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-luzine/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
