@@ -491,6 +491,14 @@ DESCRIPTION:https://www.leromandie.ch/event/stanislas-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Y2K NIGHT AVEC CARTON JAUNE CHARMED EDITION — Le Romandie
+DTSTART;VALUE=DATE:20261030
+UID:c82c924e-ad3c-50fe-8db1-3bc94acf3551
+DESCRIPTION:https://www.leromandie.ch/event/y2k-night-avec-carton-jaune-ch
+ armed-edition
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grand Méchant Bal - Promo 2026 — Le Romandie
 DTSTART;VALUE=DATE:20261031
 UID:a80a7fdc-d8fe-5956-b9d0-bc58d5a3bf6b
@@ -564,6 +572,14 @@ SUMMARY:COILGUNS (VERNISSAGE\, CH) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20261212
 UID:9010f12d-299f-597a-9a85-04a97c2062c5
 DESCRIPTION:https://www.leromandie.ch/event/coilguns-vernissage-ch-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COILGUNS (VERNISSAGE\, CH) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20261213
+UID:825e1f71-37f7-5457-be29-8407f2eb7c33
+DESCRIPTION:https://www.leromandie.ch/event/coilguns-vernissage2-ch-suppor
+ t
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -867,13 +883,6 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RED by MADAAM RAMYEN (FR) — D! Club
-DTSTART;VALUE=DATE:20260930
-UID:025b9c6f-3ac6-5a5b-984b-1c396bc235d8
-DESCRIPTION:https://dclub.ch/agenda/20260930/ramyen#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:D! Club 30 th Anniversary : PODIUM vs MCM TOP 2Unlimited Technotro
  nic Grooveshake — D! Club
 DTSTART;VALUE=DATE:20261001
@@ -989,6 +998,14 @@ SUMMARY:D! Club 30 th Anniversary : The D! Day Grandmaster Flash Stress Al
 DTSTART;VALUE=DATE:20261019
 UID:6983f37d-c7c9-5b54-9c30-12a9f08c204d
 DESCRIPTION:https://dclub.ch/agenda/20261019/grandmaster-flash#d-club-live
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Concert Pat Burgener via VISA. Plus d’infos à venir Pat Burgene
+ r LUM — D! Club
+DTSTART;VALUE=DATE:20261020
+UID:6e8c9de9-f50a-596f-bef9-5816f161f997
+DESCRIPTION:https://dclub.ch/agenda/20261020/pat-burgener#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1341,6 +1358,13 @@ DESCRIPTION:https://lagraviere.ch/evenement/noctambar-x-les-creatives/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PLANÈTE ROUGE — La Gravière
+DTSTART;VALUE=DATE:20261009
+UID:960bc151-7bca-565f-882a-35c917661d0d
+DESCRIPTION:https://lagraviere.ch/evenement/planete-rouge-2/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FESTIVAL EVERYBODY'S PERFECT - OPENING PARTY — La Gravière
 DTSTART;VALUE=DATE:20261010
 UID:f0edf5cb-b743-53c7-ac65-52dc3cb290fb
@@ -1443,14 +1467,6 @@ SUMMARY:Jet­Lag Gang reggaeton y perreo — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261024
 UID:2a6b703f-8b1c-5e63-a65d-04382b776466
 DESCRIPTION:https://ptrnet.ch/evenement/jetlag-gang/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pic­ture This @ L’Alhambra [IRL] Pop-rock Dreamboys The Band [D
- E] Indie-pop Marc Atlas [DE] Pop ANNULÉ — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261026
-UID:0d61e6e1-d610-5461-9645-4be5d7090abb
-DESCRIPTION:https://ptrnet.ch/evenement/picture-this-lalhambra/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
