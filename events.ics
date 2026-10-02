@@ -291,9 +291,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270217/eihwar/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cage the Elephant18.02.2027Unique date suisse — Docks
+SUMMARY:Cage the Elephant+ Villanelle18.02.2027Unique date suisse — Dock
+ s
 DTSTART;VALUE=DATE:20270218
-UID:b04cb6cd-7f27-50ba-adec-09d9f887d2fe
+UID:f7a955f9-a327-5d09-b5da-ed3cc3077705
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270218/cage-the-elep
  hant/
 LOCATION:Docks\, Lausanne
@@ -426,13 +427,6 @@ UID:9226d52b-6df9-5883-b916-9cf74c6ec810
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
  inners/
 LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MARIA JOSÉ LLERGO (ES) + LÉA MARTINEZ (CH) — Le Romandie
-DTSTART;VALUE=DATE:20261001
-UID:1865fdb5-6a62-56ac-b9a7-24e95ad30181
-DESCRIPTION:https://www.leromandie.ch/event/maria-jose-llergo-es-support
-LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L O V E  P O P  L A T E X — Le Romandie
@@ -613,6 +607,13 @@ DESCRIPTION:https://www.leromandie.ch/event/lushe-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MARIA JOSÉ LLERGO (ES) + LÉA MARTINEZ (CH) — Le Romandie
+DTSTART;VALUE=DATE:20261001
+UID:1865fdb5-6a62-56ac-b9a7-24e95ad30181
+DESCRIPTION:https://www.leromandie.ch/event/maria-jose-llergo-es-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RINSE FM PRÉSENTE : TEKI LATEX (FR) + LE BEAU BIZARRE B2B MUGABO 
  (CH) + MAYUNGOS (CH) — Le Romandie
 DTSTART;VALUE=DATE:20260926
@@ -700,15 +701,6 @@ DESCRIPTION:https://www.leromandie.ch/event/modelactriz-us-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MARIE JAY (CH) + FAUSTINE (CH) + AFTERSHOW: K-TEE (CH) + QIN-QIN (
- CH) — Le Romandie
-DTSTART;VALUE=DATE:20260529
-UID:0c79d86a-d268-5fb9-b341-c5f4b4647849
-DESCRIPTION:https://www.leromandie.ch/event/marie-jay-vernissage-ch-suppor
- t
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Studio — Folklor
 DTSTART;VALUE=DATE:20261001
 UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
@@ -740,6 +732,76 @@ BEGIN:VEVENT
 SUMMARY:303 Sessions — Folklor
 DTSTART;VALUE=DATE:20261009
 UID:05b3636e-db74-51ea-8b52-4e589cf4938e
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Origine — Folklor
+DTSTART;VALUE=DATE:20261010
+UID:ac732675-e21d-50ca-885c-672a89889581
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Magic — Folklor
+DTSTART;VALUE=DATE:20261015
+UID:4901dba3-3730-56e5-b0cf-1acac9a23076
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chromatic — Folklor
+DTSTART;VALUE=DATE:20261016
+UID:7e565b7b-ae7c-54cb-9c6c-c45d4b57d6f8
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Out Of Body — Folklor
+DTSTART;VALUE=DATE:20261016
+UID:d6cca52d-1e21-54d3-9636-9ab54148171b
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree House x Loose Legs Experience — Folklor
+DTSTART;VALUE=DATE:20261017
+UID:6b168ac9-5253-5dbb-a6e8-9970d0242ffc
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le b2b de Vintage Franky — Folklor
+DTSTART;VALUE=DATE:20261022
+UID:f0a8e66d-1cfc-52fb-baf6-3b992b2f2136
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folklor Nation x Folklor 10 YEARS — Folklor
+DTSTART;VALUE=DATE:20261024
+UID:20c8da51-4c19-52c0-8bbc-493154a6d151
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collectif Murmure — Folklor
+DTSTART;VALUE=DATE:20261029
+UID:6d5c066d-761d-5c5c-b108-63860c688e92
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electrorama — Folklor
+DTSTART;VALUE=DATE:20261030
+UID:d653ff43-efd2-57f2-865e-148f40696003
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That’s all Folks x Halloween — Folklor
+DTSTART;VALUE=DATE:20261031
+UID:b95e2e66-33a4-5120-8f93-bdc4f51411d0
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -1037,6 +1099,14 @@ DESCRIPTION:https://dclub.ch/agenda/20261030/ben-klock#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PAPA SVEN Sven Väth (Cocoon\, DE) Tal Fussman (DE) Salvatore fred
+ a — D! Club
+DTSTART;VALUE=DATE:20261106
+UID:ae7881d8-412f-5f70-b410-27590e7b78ff
+DESCRIPTION:https://dclub.ch/agenda/20261106/sven-v%c3%a4th#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SPACE ODYSSEY NTO (FR) Joachim Pastor (FR) Djerry C — D! Club
 DTSTART;VALUE=DATE:20261120
 UID:07f5a064-0e61-566c-9cab-08148ea0c826
@@ -1049,14 +1119,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Session folk avec les Embarcadeuses — Le Bout du Monde
-DTSTART;VALUE=DATE:20261001
-UID:168293cc-2e9f-50d2-8b34-53fb798f3333
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/session-folk-avec-les-
- embarcadeuses-3/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bad gyal night — Le Bout du Monde
@@ -1314,19 +1376,20 @@ DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:jeudi 11 . 05  Coproduction avec Interstices : Festival de musique
+ s pour piano et claviers Deliluh Parasite Jazz — La Brèche
+DTSTART;VALUE=DATE:20261105
+UID:7cdf9fbc-180e-5a3f-b0b9-2877590e5020
+DESCRIPTION:https://www.la-breche.fun/events/05-11-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:mercredi 11 . 11  Radwan Ghazi Moumneh & Frédéric D. Oberland Bo
  cca Lupa — La Brèche
 DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20261001
-UID:cedc21bd-1c80-55ed-99c1-449ebcf9e8c6
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-90/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DERESTRICT 5 YEARS ANNIVERSARY — La Gravière
@@ -1380,6 +1443,14 @@ DESCRIPTION:https://lagraviere.ch/evenement/noctambar-91/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LA GRAVIÈRE X ELECTRON FESTIVAL — La Gravière
+DTSTART;VALUE=DATE:20261016
+UID:641e4446-da95-5ad4-bb2a-84daed1bca7e
+DESCRIPTION:https://lagraviere.ch/evenement/la-graviere-x-electron-festiva
+ l/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
 DTSTART;VALUE=DATE:20261022
 UID:dbd8badf-dc4d-5d4e-ba52-e66daf0d1d07
@@ -1413,14 +1484,6 @@ DTSTART;VALUE=DATE:20261113
 UID:feddbae3-7cdb-5388-b633-22132b0bc177
 DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-20/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Young­blood Brass Band [US] Riot jazz/hip-hop La Revuelta Orques
- ta [CH] Latin brass music — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261001
-UID:62d71738-a2a8-5e73-9420-1124377818c9
-DESCRIPTION:https://ptrnet.ch/evenement/youngblood-brass-band/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUTECHRE [UK] Electronic / IDM / Ambient Konx-om-Pax [UK] Electron
