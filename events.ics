@@ -11,14 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Courtney Barnett+ Huarinami02.10.2026Unique date suisse — Docks
-DTSTART;VALUE=DATE:20261002
-UID:20995d8b-67a0-571d-af36-659597e9422a
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261002/courtney-barn
- ett-2/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Astéréotypie+ Chaufau03.10.2026 — Docks
 DTSTART;VALUE=DATE:20261003
 UID:fece070f-94cd-5e92-aa7e-2cba6f8ed333
@@ -291,10 +283,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270217/eihwar/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cage the Elephant+ Villanelle18.02.2027Unique date suisse — Dock
- s
+SUMMARY:Cage the Elephant+ Villanelle18.02.2027 - CompletUnique date suiss
+ e — Docks
 DTSTART;VALUE=DATE:20270218
-UID:f7a955f9-a327-5d09-b5da-ed3cc3077705
+UID:c94d79fc-776f-5d4c-ab6c-76b3a8b1e223
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270218/cage-the-elep
  hant/
 LOCATION:Docks\, Lausanne
@@ -427,13 +419,6 @@ UID:9226d52b-6df9-5883-b916-9cf74c6ec810
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
  inners/
 LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L O V E  P O P  L A T E X — Le Romandie
-DTSTART;VALUE=DATE:20261002
-UID:04c97885-0f69-5403-9fa5-15e3fc11e774
-DESCRIPTION:https://www.leromandie.ch/event/l-o-v-e-p-o-p-l-a-t-e-x
-LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DESERTGIRLZ (FR) + SUPPORT — Le Romandie
@@ -607,6 +592,13 @@ DESCRIPTION:https://www.leromandie.ch/event/lushe-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:L O V E  P O P  L A T E X — Le Romandie
+DTSTART;VALUE=DATE:20261002
+UID:04c97885-0f69-5403-9fa5-15e3fc11e774
+DESCRIPTION:https://www.leromandie.ch/event/l-o-v-e-p-o-p-l-a-t-e-x
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MARIA JOSÉ LLERGO (ES) + LÉA MARTINEZ (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261001
 UID:1865fdb5-6a62-56ac-b9a7-24e95ad30181
@@ -694,27 +686,6 @@ DESCRIPTION:https://www.leromandie.ch/event/la-globale-vol1
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MODEL/ACTRIZ (US) + FUTURE FACES (CH) — Le Romandie
-DTSTART;VALUE=DATE:20260531
-UID:656e7f8d-93c9-5a2a-a23c-5bb40ae07eb2
-DESCRIPTION:https://www.leromandie.ch/event/modelactriz-us-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Studio — Folklor
-DTSTART;VALUE=DATE:20261001
-UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fantastic Friends — Folklor
-DTSTART;VALUE=DATE:20261002
-UID:928e7ccd-9e68-56e1-9372-1aed4b387c98
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bliss — Folklor
 DTSTART;VALUE=DATE:20261003
 UID:6daf02ce-5990-5e52-8939-b11b45cc6882
@@ -750,16 +721,16 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chromatic — Folklor
+SUMMARY:Out Of Body — Folklor
 DTSTART;VALUE=DATE:20261016
-UID:7e565b7b-ae7c-54cb-9c6c-c45d4b57d6f8
+UID:d6cca52d-1e21-54d3-9636-9ab54148171b
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Out Of Body — Folklor
+SUMMARY:Chromatic — Folklor
 DTSTART;VALUE=DATE:20261016
-UID:d6cca52d-1e21-54d3-9636-9ab54148171b
+UID:7e565b7b-ae7c-54cb-9c6c-c45d4b57d6f8
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -945,14 +916,6 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : PODIUM vs MCM TOP 2Unlimited Technotro
- nic Grooveshake — D! Club
-DTSTART;VALUE=DATE:20261001
-UID:c368f862-95a5-5f31-9b2b-0d2603f9dd2d
-DESCRIPTION:https://dclub.ch/agenda/20261001/2unlimited#d-club-live
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Space Odyssey Worakls (FR) Rodriguez Jr live Birrd Djerry C — D!
   Club
 DTSTART;VALUE=DATE:20261002
@@ -1063,10 +1026,10 @@ DESCRIPTION:https://dclub.ch/agenda/20261019/grandmaster-flash#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Concert Pat Burgener via VISA. Plus d’infos à venir Pat Burgene
- r LUM — D! Club
+SUMMARY:CONCERT LUM X PAT BURGENER : VISA >> MOVINGMUSIC Pat Burgener LUM 
+ — D! Club
 DTSTART;VALUE=DATE:20261020
-UID:6e8c9de9-f50a-596f-bef9-5816f161f997
+UID:887fc7eb-f7b0-5b08-b56d-9f6596f629f7
 DESCRIPTION:https://dclub.ch/agenda/20261020/pat-burgener#d-club-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1119,13 +1082,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bad gyal night — Le Bout du Monde
-DTSTART;VALUE=DATE:20261002
-UID:50f7eb58-fd43-581e-bfba-072c02f05879
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/bad-gyal-night-2/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L’Empire du rire — Le Bout du Monde
@@ -1390,14 +1346,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DERESTRICT 5 YEARS ANNIVERSARY — La Gravière
-DTSTART;VALUE=DATE:20261002
-UID:de229501-87cf-56f0-8506-f8e3e6986ea9
-DESCRIPTION:https://lagraviere.ch/evenement/derestrict-5-years-anniversary
- /
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMPLET // HIP HOP LIVE! — La Gravière
