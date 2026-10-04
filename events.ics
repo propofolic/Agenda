@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Astéréotypie+ Chaufau03.10.2026 — Docks
-DTSTART;VALUE=DATE:20261003
-UID:fece070f-94cd-5e92-aa7e-2cba6f8ed333
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261003/astereotypie/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tif09.10.2026 - CompletUnique date suisse — Docks
 DTSTART;VALUE=DATE:20261009
 UID:558659f0-f461-532b-997d-79395144793b
@@ -421,13 +414,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DESERTGIRLZ (FR) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261003
-UID:d11759de-79c3-5a31-b312-a85d1c749993
-DESCRIPTION:https://www.leromandie.ch/event/desertgirlz-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THE LEMON TWIGS (US) + COUP DUR (FR) — Le Romandie
 DTSTART;VALUE=DATE:20261007
 UID:7d0ef197-5c28-5fb8-96e8-2c69a2559410
@@ -592,6 +578,13 @@ DESCRIPTION:https://www.leromandie.ch/event/lushe-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DESERTGIRLZ (FR) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20261003
+UID:d11759de-79c3-5a31-b312-a85d1c749993
+DESCRIPTION:https://www.leromandie.ch/event/desertgirlz-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:L O V E  P O P  L A T E X — Le Romandie
 DTSTART;VALUE=DATE:20261002
 UID:04c97885-0f69-5403-9fa5-15e3fc11e774
@@ -679,13 +672,6 @@ DESCRIPTION:https://www.leromandie.ch/event/fete-de-la-musique-2026-nejma-
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA GLOBALE VOL.1 — Le Romandie
-DTSTART;VALUE=DATE:20260605
-UID:9fe93bfb-7c14-5da7-9419-62cc46162c3c
-DESCRIPTION:https://www.leromandie.ch/event/la-globale-vol1
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bliss — Folklor
 DTSTART;VALUE=DATE:20261003
 UID:6daf02ce-5990-5e52-8939-b11b45cc6882
@@ -721,16 +707,16 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Out Of Body — Folklor
+SUMMARY:Chromatic — Folklor
 DTSTART;VALUE=DATE:20261016
-UID:d6cca52d-1e21-54d3-9636-9ab54148171b
+UID:7e565b7b-ae7c-54cb-9c6c-c45d4b57d6f8
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chromatic — Folklor
+SUMMARY:Out Of Body — Folklor
 DTSTART;VALUE=DATE:20261016
-UID:7e565b7b-ae7c-54cb-9c6c-c45d4b57d6f8
+UID:d6cca52d-1e21-54d3-9636-9ab54148171b
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -916,20 +902,18 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Space Odyssey Worakls (FR) Rodriguez Jr live Birrd Djerry C — D!
-  Club
-DTSTART;VALUE=DATE:20261002
-UID:62496ecc-8716-5ac3-b0ce-4f0897645460
-DESCRIPTION:https://dclub.ch/agenda/20261002/worakls#d-club
-LOCATION:D! Club\, Lausanne
+SUMMARY:Lords Of Queen Cover — Les Citrons Masqués
+DTSTART;VALUE=DATE:20270109
+UID:1dfdef92-df4e-5c8f-9397-9239c89ae552
+DESCRIPTION:https://citronsmasques.ch/events/lords-of-queen/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA TEMPERATURA Maximarcus Kemuel Rosanova Rodriguez MC Dimsko (FR)
-  — D! Club
-DTSTART;VALUE=DATE:20261003
-UID:5bd87f87-4ad2-5f3e-a795-0df155ea321a
-DESCRIPTION:https://dclub.ch/agenda/20261003/maximarcus#d-club
-LOCATION:D! Club\, Lausanne
+SUMMARY:B sharp(B#) & Sounds Like Rabbits Rock — Les Citrons Masqués
+DTSTART;VALUE=DATE:20270116
+UID:d7411ebc-d943-5859-bbad-76038ac2e005
+DESCRIPTION:https://citronsmasques.ch/events/b-sharpb-sounds-like-rabbits/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GARDEN SUND!AY Francis Mercier (HT) Sparrow Chelina Manuhutu — D
@@ -1168,15 +1152,6 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/basic-partner/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA COLONIE DE VACANCES [TOURNÉE D’ADIEUX] + RÉBECCA BONTÉ —
-  Le Rez-Usine
-DTSTART;VALUE=DATE:20261003
-UID:64194e6f-5557-5259-8add-255125bcbb94
-DESCRIPTION:https://rez-usine.ch/portfolio-item/03-10-26-la-colonie-de-vac
- ances/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DANYL — Le Rez-Usine
 DTSTART;VALUE=DATE:20261008
 UID:4906b6e1-637a-5127-ad45-cb9f50e4d943
@@ -1279,14 +1254,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:samedi 10 . 03  session d'écoute\, moment de partage Billie Bird 
- — La Brèche
-DTSTART;VALUE=DATE:20261003
-UID:58d32ce0-0723-580f-9e99-54646a76af61
-DESCRIPTION:https://www.la-breche.fun/events/03-10-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:mercredi 10 . 07  Colombey Curbside Lambsear — La Brèche
 DTSTART;VALUE=DATE:20261007
 UID:ba6c6341-23b1-582f-90e6-d546691e565a
@@ -1346,20 +1313,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COMPLET // HIP HOP LIVE! — La Gravière
-DTSTART;VALUE=DATE:20261003
-UID:0657ce29-7044-5318-8377-7cfe93efab45
-DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-22/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TATAKI WAVE PARTY — La Gravière
-DTSTART;VALUE=DATE:20261003
-UID:d81bc63e-468d-5447-ab22-9d53c98c4bee
-DESCRIPTION:https://lagraviere.ch/evenement/tataki-wave-party-4/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOCTAMBAR x LES CRÉATIVES — La Gravière
