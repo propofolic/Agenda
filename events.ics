@@ -101,9 +101,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261105/nnavy-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alela Diane07.11.2026 — Docks
+SUMMARY:Alela Diane+ The Hackles07.11.2026 — Docks
 DTSTART;VALUE=DATE:20261107
-UID:75cad6c5-0cd9-525a-b53c-9538f25f8e73
+UID:500a66ba-0264-58e1-a5de-8d20e6da0e33
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261107/alela-diane-2
  /
 LOCATION:Docks\, Lausanne
@@ -313,6 +313,13 @@ SUMMARY:Léman05.03.2027 — Docks
 DTSTART;VALUE=DATE:20270305
 UID:3c73a8cb-cb33-5faa-8345-39ae0d0169d5
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270305/leman/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Loïc Nottet11.03.2027 — Docks
+DTSTART;VALUE=DATE:20270311
+UID:50e4801d-7b54-56fd-bd13-0ee5d82eb73e
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270311/loic-nottet/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -707,13 +714,6 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chromatic — Folklor
-DTSTART;VALUE=DATE:20261016
-UID:7e565b7b-ae7c-54cb-9c6c-c45d4b57d6f8
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Out Of Body — Folklor
 DTSTART;VALUE=DATE:20261016
 UID:d6cca52d-1e21-54d3-9636-9ab54148171b
@@ -724,6 +724,13 @@ BEGIN:VEVENT
 SUMMARY:Tree House x Loose Legs Experience — Folklor
 DTSTART;VALUE=DATE:20261017
 UID:6b168ac9-5253-5dbb-a6e8-9970d0242ffc
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chromatic — Folklor
+DTSTART;VALUE=DATE:20261017
+UID:7e565b7b-ae7c-54cb-9c6c-c45d4b57d6f8
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -761,13 +768,6 @@ DTSTART;VALUE=DATE:20261031
 UID:b95e2e66-33a4-5120-8f93-bdc4f51411d0
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZOUK & KOMPA La mensuelle — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261003
-UID:46f86d3e-3dc5-5937-bb3b-a129c67fe472
-DESCRIPTION:https://citronsmasques.ch/events/zouk-kompa/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:l’Alchimie du Rire Comedy club Stand up — Les Citrons Masqués
@@ -881,6 +881,13 @@ DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Psarades Folk balkanique — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261211
+UID:c77b74da-86c8-5bae-a4a5-ad0f7175b549
+DESCRIPTION:https://citronsmasques.ch/events/psarades/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JEWLY & Guest Heavy Rock blues — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261212
 UID:e3762bde-56cb-5584-94b7-ddc6cd9d2edb
@@ -902,9 +909,9 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lords Of Queen Cover — Les Citrons Masqués
+SUMMARY:Sounds Of Queen Tribute Queen — Les Citrons Masqués
 DTSTART;VALUE=DATE:20270109
-UID:1dfdef92-df4e-5c8f-9397-9239c89ae552
+UID:43e642bb-c32e-584b-8acf-e34da56a0f7a
 DESCRIPTION:https://citronsmasques.ch/events/lords-of-queen/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
@@ -914,14 +921,6 @@ DTSTART;VALUE=DATE:20270116
 UID:d7411ebc-d943-5859-bbad-76038ac2e005
 DESCRIPTION:https://citronsmasques.ch/events/b-sharpb-sounds-like-rabbits/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GARDEN SUND!AY Francis Mercier (HT) Sparrow Chelina Manuhutu — D
- ! Club
-DTSTART;VALUE=DATE:20261004
-UID:cfbebcfc-8ed4-5bb0-b369-464e1ce56453
-DESCRIPTION:https://dclub.ch/agenda/20261004/francis-mercier#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D! Club 30 th Anniversary : Benjamin Decosterd Le monde va mal (sp
