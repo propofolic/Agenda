@@ -48,9 +48,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261023/cat-power-3/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sleaford Mods+ Alt_R25.10.2026Unique date suisse — Docks
+SUMMARY:Sleaford Mods+ Alt_R25.10.2026 - Derniers billetsUnique date suiss
+ e — Docks
 DTSTART;VALUE=DATE:20261025
-UID:563d072f-cf62-53e6-b0d7-e13cea68198b
+UID:c0183387-8229-5d14-80b7-b8027f350269
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261025/sleaford-mods
  /
 LOCATION:Docks\, Lausanne
@@ -259,6 +260,13 @@ SUMMARY:Marguerite16.01.2027 — Docks
 DTSTART;VALUE=DATE:20270116
 UID:06b7c1f7-2a55-54c6-ae71-a943c4934bb5
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270116/marguerite/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Altın Gün24.01.2027 — Docks
+DTSTART;VALUE=DATE:20270124
+UID:666cbd4d-9766-531d-a361-f1dd7d913eed
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270124/altin-gun-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -945,15 +953,6 @@ DESCRIPTION:https://citronsmasques.ch/events/tech-to-hard-tech/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : Benjamin Decosterd Le monde va mal (sp
- ectacle d’humour) Benjamin Decosterd — D! Club
-DTSTART;VALUE=DATE:20261006
-UID:acefa074-f28d-5128-a417-564e388578df
-DESCRIPTION:https://dclub.ch/agenda/20261006/benjamin-decosterd#d-club-liv
- e
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:D! Club 30 th Anniversary : DONEL JACK’SMAN – Arrêtez ça ! (
  Spectacle d’humour) Donel Jack’sman — D! Club
 DTSTART;VALUE=DATE:20261007
@@ -1053,6 +1052,14 @@ DESCRIPTION:https://dclub.ch/agenda/20261023/vtss#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:D! Club 30 th Anniversary : XAGUADA DEEKAY Peka DJ Melo papafete C
+ heezzzie MS Dj Neves LK — D! Club
+DTSTART;VALUE=DATE:20261024
+UID:4b2a6214-609d-53e6-af08-6e64ccf33df5
+DESCRIPTION:https://dclub.ch/agenda/20261024/deekay#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HEC HALLOWEEN Mr W. — D! Club
 DTSTART;VALUE=DATE:20261029
 UID:324f195e-e070-5ee3-8ddf-f3d5e8c37b97
@@ -1072,6 +1079,14 @@ SUMMARY:PAPA SVEN Sven Väth (Cocoon\, DE) Tal Fussman (DE) Salvatore fred
 DTSTART;VALUE=DATE:20261106
 UID:ae7881d8-412f-5f70-b410-27590e7b78ff
 DESCRIPTION:https://dclub.ch/agenda/20261106/sven-v%c3%a4th#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Space Odyssey Jan Blomqvist (DE) Romain Garcia (FR) Julien Vertigo
+  (CH) — D! Club
+DTSTART;VALUE=DATE:20261113
+UID:b18ccbd7-ac16-5b91-acd9-c4c740638713
+DESCRIPTION:https://dclub.ch/agenda/20261113/jan-blomqvist#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1394,6 +1409,13 @@ DESCRIPTION:https://lagraviere.ch/evenement/noctambar-92/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AMOR SATYR — La Gravière
+DTSTART;VALUE=DATE:20261023
+UID:d6e2c391-f0a4-5e26-b0b1-ca108ff05ae8
+DESCRIPTION:https://lagraviere.ch/evenement/amor-satyr/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIP HOP LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261024
 UID:517dc046-e4cb-513d-baf2-c506c0a7a293
@@ -1554,6 +1576,14 @@ SUMMARY:Nono la Grinta [FR] Rap / Drill — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261120
 UID:806d999b-ad8a-5945-9a69-d17ab31b7fd9
 DESCRIPTION:https://ptrnet.ch/evenement/nono-la-grinta/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NATHALIE FROEHLICH [CH] Rap / Electro LUM [CH] Rap / Pop / Reggaet
+ on x Les Créatives — Post Tenebras Rock
+DTSTART;VALUE=DATE:20261125
+UID:0d9eb6c0-04ce-5852-bf22-6d89bda8a792
+DESCRIPTION:https://ptrnet.ch/evenement/nathalie-froehlich/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
