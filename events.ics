@@ -11,9 +11,9 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tif09.10.2026 - CompletUnique date suisse — Docks
+SUMMARY:Tif+ Ouidad09.10.2026 - CompletUnique date suisse — Docks
 DTSTART;VALUE=DATE:20261009
-UID:558659f0-f461-532b-997d-79395144793b
+UID:6cb02302-e6c5-5b3b-bc13-4046843f1d08
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261009/tif/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -360,6 +360,14 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270318/kmfdm/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nuit Incolore19.03.2027Unique date suisse — Docks
+DTSTART;VALUE=DATE:20270319
+UID:1bc9373b-c5bf-5f4f-a7c3-7717c869c6ef
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270319/nuit-incolore
+ -2/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:aupinard25.03.2027 — Docks
 DTSTART;VALUE=DATE:20270325
 UID:e67a03e2-b004-5b99-b1c1-a78619656931
@@ -427,13 +435,6 @@ UID:9226d52b-6df9-5883-b916-9cf74c6ec810
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
  inners/
 LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE LEMON TWIGS (US) + COUP DUR (FR) — Le Romandie
-DTSTART;VALUE=DATE:20261007
-UID:7d0ef197-5c28-5fb8-96e8-2c69a2559410
-DESCRIPTION:https://www.leromandie.ch/event/the-lemon-twigs-us-support
-LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Espectro Oculto Night — Le Romandie
@@ -600,6 +601,13 @@ DESCRIPTION:https://www.leromandie.ch/event/lushe-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:THE LEMON TWIGS (US) + COUP DUR (FR) — Le Romandie
+DTSTART;VALUE=DATE:20261007
+UID:7d0ef197-5c28-5fb8-96e8-2c69a2559410
+DESCRIPTION:https://www.leromandie.ch/event/the-lemon-twigs-us-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DESERTGIRLZ (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20261003
 UID:d11759de-79c3-5a31-b312-a85d1c749993
@@ -682,15 +690,6 @@ SUMMARY:HOUSE OF PROTECTION (US) + SCALPEL (CH) — Le Romandie
 DTSTART;VALUE=DATE:20260622
 UID:1fbfed41-38e3-5f3a-9212-18ad1fadc3b0
 DESCRIPTION:https://www.leromandie.ch/event/house-of-protection-us-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FÊTE DE LA MUSIQUE 2026 : Nejma (CH) + 7ème ciel (CH) + YNK (CH)
-  — Le Romandie
-DTSTART;VALUE=DATE:20260621
-UID:e1369f14-2e01-5339-9073-457ef24149c5
-DESCRIPTION:https://www.leromandie.ch/event/fete-de-la-musique-2026-nejma-
- ch-7eme-ciel-ch-ynk-ch
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -953,14 +952,6 @@ DESCRIPTION:https://citronsmasques.ch/events/tech-to-hard-tech/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : DONEL JACK’SMAN – Arrêtez ça ! (
- Spectacle d’humour) Donel Jack’sman — D! Club
-DTSTART;VALUE=DATE:20261007
-UID:9cba5051-ad03-510c-ae38-c74b9e011ccf
-DESCRIPTION:https://dclub.ch/agenda/20261007/donel-jacksman#d-club-live
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HEC URBAN NIGHT Kemuel — D! Club
 DTSTART;VALUE=DATE:20261008
 UID:5f592b3e-2a57-5b2a-8ab2-d3a1fe7dc54c
@@ -1071,6 +1062,14 @@ SUMMARY:Technoween Ben Klock Kink Live Djerry C Ricciø — D! Club
 DTSTART;VALUE=DATE:20261030
 UID:82aff2d2-9212-5870-ae08-0dcb33a3340c
 DESCRIPTION:https://dclub.ch/agenda/20261030/ben-klock#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D! Club 30 th Anniversary : URBAN TROPICAL Game On DJ Kill (CH) Dr
+ imatik Mathematic — D! Club
+DTSTART;VALUE=DATE:20261031
+UID:52c39241-75aa-5cdd-ab71-efd67674b5ed
+DESCRIPTION:https://dclub.ch/agenda/20261031/game-on#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1288,13 +1287,6 @@ DTSTART;VALUE=DATE:20270416
 UID:f0b5a368-d11d-5402-9f04-d4ba1035cf22
 DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:mercredi 10 . 07  Colombey Curbside Lambsear — La Brèche
-DTSTART;VALUE=DATE:20261007
-UID:ba6c6341-23b1-582f-90e6-d546691e565a
-DESCRIPTION:https://www.la-breche.fun/events/07-10-2026
-LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vendredi 10 . 09  Hors-Programme : FOL Festival Lily Gasc NYANGOMB
@@ -1609,6 +1601,13 @@ SUMMARY:The Legen­da­ry Pink Dots [UK] Experimental rock — Post Teneb
 DTSTART;VALUE=DATE:20270203
 UID:7f8f5e25-7bb9-5541-8426-72fa7d7de6e8
 DESCRIPTION:https://ptrnet.ch/evenement/the-legendary-pink-dots/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Ocean [DE] Métal progressif — Post Tenebras Rock
+DTSTART;VALUE=DATE:20270212
+UID:e23c115a-7c20-5115-bc59-9a75cf8f0a3c
+DESCRIPTION:https://ptrnet.ch/evenement/the-ocean/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
