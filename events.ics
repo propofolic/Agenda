@@ -324,6 +324,14 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270305/leman/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Royal Blood06.03.2027 — Docks
+DTSTART;VALUE=DATE:20270306
+UID:3c45e430-5997-59f6-897e-46906bd1616a
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270306/royal-blood-2
+ /
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Loïc Nottet11.03.2027 — Docks
 DTSTART;VALUE=DATE:20270311
 UID:50e4801d-7b54-56fd-bd13-0ee5d82eb73e
@@ -851,13 +859,6 @@ DESCRIPTION:https://citronsmasques.ch/events/der-senster-gob/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:l’Alchimie du Rire Comedy club Stand up — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261113
-UID:4512fe1e-98b7-58b5-a6cf-c6fb418721e3
-DESCRIPTION:https://citronsmasques.ch/events/lalchimie-du-rire/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MELROSE « Le rock rencontre le flamenco » — Les Citrons Masqu
  és
 DTSTART;VALUE=DATE:20261114
@@ -924,10 +925,25 @@ DESCRIPTION:https://citronsmasques.ch/events/novajam-2/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lord Bishop Rocks Hendrixian Motör Funk — Les Citrons Masqués
+SUMMARY:Lord Bishop Rocks// DÏRT BÖUND Hendrixian Motör Funk — Les Ci
+ trons Masqués
 DTSTART;VALUE=DATE:20261219
-UID:4e42b7e0-961c-5711-a2da-bdbf18d5281f
+UID:b0ce27e4-02de-5271-a2f7-2a938df4c955
 DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portobello Citrons Market Brocante — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261222
+UID:356796d4-5b77-5fa8-9a7d-5dfdbc364336
+DESCRIPTION:https://citronsmasques.ch/events/portobello-citrons-market/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Portobello Citrons Market Brocante — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261223
+UID:356c515b-595a-551c-a543-9b156f72fff0
+DESCRIPTION:https://citronsmasques.ch/events/portobello-citrons-market-2/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -945,18 +961,18 @@ DESCRIPTION:https://citronsmasques.ch/events/b-sharpb-sounds-like-rabbits/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ZOUK & KOMPA La mensuelle — Les Citrons Masqués
+DTSTART;VALUE=DATE:20270123
+UID:46f86d3e-3dc5-5937-bb3b-a129c67fe472
+DESCRIPTION:https://citronsmasques.ch/events/zouk-kompa/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tech to Hard tech Techno / Hard techno — Les Citrons Masqués
 DTSTART;VALUE=DATE:20270129
 UID:da0965a1-a91a-5aff-86ec-9d782ea442b6
 DESCRIPTION:https://citronsmasques.ch/events/tech-to-hard-tech/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HEC URBAN NIGHT Kemuel — D! Club
-DTSTART;VALUE=DATE:20261008
-UID:5f592b3e-2a57-5b2a-8ab2-d3a1fe7dc54c
-DESCRIPTION:https://dclub.ch/agenda/20261008/kemuel#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SUBSET Delta Heavy Subsonic Tantrum Desire Koma Dub Sili — D! Cl
@@ -1065,11 +1081,11 @@ DESCRIPTION:https://dclub.ch/agenda/20261030/ben-klock#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : URBAN TROPICAL Game On DJ Kill (CH) Dr
- imatik Mathematic — D! Club
+SUMMARY:D! Club 30 th Anniversary : URBAN TROPICAL CLS Game On DJ Kill (CH
+ ) Drimatik Kame Mathematic — D! Club
 DTSTART;VALUE=DATE:20261031
-UID:52c39241-75aa-5cdd-ab71-efd67674b5ed
-DESCRIPTION:https://dclub.ch/agenda/20261031/game-on#d-club
+UID:de108549-127b-5257-b9c1-666d39e99267
+DESCRIPTION:https://dclub.ch/agenda/20261031/cls#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1185,13 +1201,6 @@ DTSTART;VALUE=DATE:20261031
 UID:c30f9ac2-0a35-532d-b128-0fea1c8d73db
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/basic-partner/
 LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DANYL — Le Rez-Usine
-DTSTART;VALUE=DATE:20261008
-UID:4906b6e1-637a-5127-ad45-cb9f50e4d943
-DESCRIPTION:https://rez-usine.ch/portfolio-item/08-10-26-danyl/
-LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROSHÂNI [VERNISSAGE] + ERIN KIMBERLY X C.SUGVR — Le Rez-Usine
@@ -1341,20 +1350,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLIND TEST X LES CRÉATIVES — La Gravière
-DTSTART;VALUE=DATE:20261008
-UID:eb6d4e53-c5e0-54cf-ad41-81dce57fda91
-DESCRIPTION:https://lagraviere.ch/evenement/blind-test-x-les-creatives/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOCTAMBAR x LES CRÉATIVES — La Gravière
-DTSTART;VALUE=DATE:20261008
-UID:b9a070bb-2f77-5e7b-af2b-892fd4b7f64e
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-x-les-creatives/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PLANÈTE ROUGE — La Gravière
