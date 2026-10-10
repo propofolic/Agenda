@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tif+ Ouidad09.10.2026 - CompletUnique date suisse — Docks
-DTSTART;VALUE=DATE:20261009
-UID:6cb02302-e6c5-5b3b-bc13-4046843f1d08
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261009/tif/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Yard Act+ Lava La Rue16.10.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261016
 UID:9d1f4bd4-e007-5a55-a4b6-c13a248a11ff
@@ -445,13 +438,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Espectro Oculto Night — Le Romandie
-DTSTART;VALUE=DATE:20261009
-UID:781ef662-7d9f-55f6-b0bf-92771e40be9d
-DESCRIPTION:https://www.leromandie.ch/event/espectro-oculto-night
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AMOR x NAVA — Le Romandie
 DTSTART;VALUE=DATE:20261016
 UID:a8c2da94-0dd8-5c1e-97ac-0984b340221f
@@ -609,6 +595,13 @@ DESCRIPTION:https://www.leromandie.ch/event/lushe-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Espectro Oculto Night — Le Romandie
+DTSTART;VALUE=DATE:20261009
+UID:781ef662-7d9f-55f6-b0bf-92771e40be9d
+DESCRIPTION:https://www.leromandie.ch/event/espectro-oculto-night
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE LEMON TWIGS (US) + COUP DUR (FR) — Le Romandie
 DTSTART;VALUE=DATE:20261007
 UID:7d0ef197-5c28-5fb8-96e8-2c69a2559410
@@ -694,13 +687,6 @@ DESCRIPTION:https://www.leromandie.ch/event/after-pary-lausanne-pride-vend
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HOUSE OF PROTECTION (US) + SCALPEL (CH) — Le Romandie
-DTSTART;VALUE=DATE:20260622
-UID:1fbfed41-38e3-5f3a-9212-18ad1fadc3b0
-DESCRIPTION:https://www.leromandie.ch/event/house-of-protection-us-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Afterlokal — Folklor
 DTSTART;VALUE=DATE:20261008
 UID:c27646a1-fe5c-5a2a-9eaf-5a421016aa56
@@ -783,14 +769,6 @@ DTSTART;VALUE=DATE:20261031
 UID:b95e2e66-33a4-5120-8f93-bdc4f51411d0
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:l’Alchimie du Rire Comedy club Stand up — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261008
-UID:60ebe44c-cf58-54e8-8533-5152e23e060f
-DESCRIPTION:https://citronsmasques.ch/events/lalchimie-du-rire-comedy-club
- -stand-up/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Scène est à vous ! jam session/scène ouverte — Les Citrons
@@ -975,14 +953,6 @@ DESCRIPTION:https://citronsmasques.ch/events/tech-to-hard-tech/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SUBSET Delta Heavy Subsonic Tantrum Desire Koma Dub Sili — D! Cl
- ub
-DTSTART;VALUE=DATE:20261009
-UID:714a6966-c269-5909-8469-181f7bbb9768
-DESCRIPTION:https://dclub.ch/agenda/20261009/delta-heavy#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PULL OUPS! Dj Klash Wild Pich The Jocker Dj Vidy Lil Kev — D! Cl
  ub
 DTSTART;VALUE=DATE:20261010
@@ -1117,13 +1087,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elliott Quiz — Le Bout du Monde
-DTSTART;VALUE=DATE:20261009
-UID:12e30cd6-e760-536b-aecd-f1386ee8e08d
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/elliott-quiz-5/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:drink&draw — Le Bout du Monde
@@ -1298,14 +1261,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vendredi 10 . 09  Hors-Programme : FOL Festival Lily Gasc NYANGOMB
- E Sainte Catherine — La Brèche
-DTSTART;VALUE=DATE:20261009
-UID:672935b9-f3e1-5a97-94f0-4f2c378c40be
-DESCRIPTION:https://www.la-breche.fun/events/09-10-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:mercredi 10 . 21  Team Work Leo Hermitt — La Brèche
 DTSTART;VALUE=DATE:20261021
 UID:7475f1d3-d3d3-5ecb-8c99-66b50acf10c6
@@ -1350,13 +1305,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLANÈTE ROUGE — La Gravière
-DTSTART;VALUE=DATE:20261009
-UID:960bc151-7bca-565f-882a-35c917661d0d
-DESCRIPTION:https://lagraviere.ch/evenement/planete-rouge-2/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FESTIVAL EVERYBODY'S PERFECT - OPENING PARTY — La Gravière
@@ -1539,6 +1487,15 @@ SUMMARY:Mur­phy’s Law [US] Hardcore Clobber [UK] Hardcore Punk Violenc
 DTSTART;VALUE=DATE:20261109
 UID:7fc2f9ce-84c2-5471-8de0-9f2122fe5f7b
 DESCRIPTION:https://ptrnet.ch/evenement/murphys-law/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sheer Mag [US] Rock’n’roll\, Punk\, Power Pop Alvilda [FR] Pun
+ k / Power Pop Bandit Voyage [CH / GE] Retro Punk / Lo-fi Rock'n'roll x RSC
+  — Post Tenebras Rock
+DTSTART;VALUE=DATE:20261112
+UID:9755b8ec-daae-54bb-82e4-5a464cb177cd
+DESCRIPTION:https://ptrnet.ch/evenement/sheer-mag/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
