@@ -687,27 +687,6 @@ DESCRIPTION:https://www.leromandie.ch/event/after-pary-lausanne-pride-vend
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Afterlokal — Folklor
-DTSTART;VALUE=DATE:20261008
-UID:c27646a1-fe5c-5a2a-9eaf-5a421016aa56
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:303 Sessions — Folklor
-DTSTART;VALUE=DATE:20261009
-UID:05b3636e-db74-51ea-8b52-4e589cf4938e
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Origine — Folklor
-DTSTART;VALUE=DATE:20261010
-UID:ac732675-e21d-50ca-885c-672a89889581
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Blue Magic — Folklor
 DTSTART;VALUE=DATE:20261015
 UID:4901dba3-3730-56e5-b0cf-1acac9a23076
@@ -769,14 +748,6 @@ DTSTART;VALUE=DATE:20261031
 UID:b95e2e66-33a4-5120-8f93-bdc4f51411d0
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Scène est à vous ! jam session/scène ouverte — Les Citrons
-  Masqués
-DTSTART;VALUE=DATE:20261009
-UID:d8f130d8-5747-563f-a1cd-b7d8572da478
-DESCRIPTION:https://citronsmasques.ch/events/la-scene-est-a-vous-7/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Karaoké « Djette’s Angel around Venus » — Les Citrons Masqu
@@ -871,6 +842,14 @@ SUMMARY:Feel Floyd Tribute Pink Floyd — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261128
 UID:aa2aee34-9ebb-5291-bebe-7b5ea5723ec3
 DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:l’Alchimie du Rire Comedy club Stand up — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261203
+UID:60ebe44c-cf58-54e8-8533-5152e23e060f
+DESCRIPTION:https://citronsmasques.ch/events/lalchimie-du-rire-comedy-club
+ -stand-up/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -1305,14 +1284,6 @@ DTSTART;VALUE=DATE:20261111
 UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
 DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FESTIVAL EVERYBODY'S PERFECT - OPENING PARTY — La Gravière
-DTSTART;VALUE=DATE:20261010
-UID:f0edf5cb-b743-53c7-ac65-52dc3cb290fb
-DESCRIPTION:https://lagraviere.ch/evenement/festival-everybodys-perfect-op
- ening-party-2/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
