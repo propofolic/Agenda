@@ -317,17 +317,17 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270305/leman/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Royal Blood06.03.2027 — Docks
+SUMMARY:Royal Blood06.03.2027Unique date suisse — Docks
 DTSTART;VALUE=DATE:20270306
-UID:3c45e430-5997-59f6-897e-46906bd1616a
+UID:5127076f-a2e3-55d6-9ae6-c1387b9cd3fe
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270306/royal-blood-2
  /
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Loïc Nottet11.03.2027 — Docks
+SUMMARY:Loïc Nottet11.03.2027 - Derniers billets — Docks
 DTSTART;VALUE=DATE:20270311
-UID:50e4801d-7b54-56fd-bd13-0ee5d82eb73e
+UID:6c020d05-fef2-5193-8408-c36570b3bef7
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270311/loic-nottet/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -932,11 +932,10 @@ DESCRIPTION:https://citronsmasques.ch/events/tech-to-hard-tech/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PULL OUPS! Dj Klash Wild Pich The Jocker Dj Vidy Lil Kev — D! Cl
- ub
-DTSTART;VALUE=DATE:20261010
-UID:2e2733c1-27df-511a-a0d1-653554157f3d
-DESCRIPTION:https://dclub.ch/agenda/20261010/dj-klash#d-club
+SUMMARY:COACHING EPFL DJ Kemuel — D! Club
+DTSTART;VALUE=DATE:20261013
+UID:23275971-a27a-56a6-947c-1dc4917fe5d9
+DESCRIPTION:https://dclub.ch/agenda/20261013/dj-kemuel#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
