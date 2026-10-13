@@ -339,9 +339,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270312/kemmler/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pomme13.03.2027 — Docks
+SUMMARY:Pomme13.03.2027 - Complet — Docks
 DTSTART;VALUE=DATE:20270313
-UID:0c78acde-a16a-5ab4-a107-76ccdb7ba863
+UID:dc1d0d07-8263-51d3-9214-0b0430daac44
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270313/pomme-3/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -585,6 +585,13 @@ SUMMARY:DITTER (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20270211
 UID:02968a78-76b6-5ce9-afe3-d05eae48ed47
 DESCRIPTION:https://www.leromandie.ch/event/ditter-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOTHERMARY (US) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20270220
+UID:4f47e7c2-ad37-5fc0-a2a5-5b08b441db93
+DESCRIPTION:https://www.leromandie.ch/event/mothermary-us-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -929,6 +936,14 @@ SUMMARY:Tech to Hard tech Techno / Hard techno — Les Citrons Masqués
 DTSTART;VALUE=DATE:20270129
 UID:da0965a1-a91a-5aff-86ec-9d782ea442b6
 DESCRIPTION:https://citronsmasques.ch/events/tech-to-hard-tech/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Karaoke « Djette’s Angel around Venus » — Les Citrons Masqu
+ és
+DTSTART;VALUE=DATE:20270130
+UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
+DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -1285,6 +1300,20 @@ DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:mardi 11 . 24  Hors-programme : impro Afterwork — La Brèche
+DTSTART;VALUE=DATE:20261124
+UID:b0e1d031-4f7e-5b77-933e-d74292349bbf
+DESCRIPTION:https://www.la-breche.fun/events/24-11-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:mardi 12 . 08  Hors-programme : impro Afterwork — La Brèche
+DTSTART;VALUE=DATE:20261208
+UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
+DESCRIPTION:https://www.la-breche.fun/events/08-12-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
 DTSTART;VALUE=DATE:20261015
 UID:e397a524-c3cb-5163-a41c-27526f2a324a
@@ -1328,10 +1357,31 @@ DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-21/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RITMO — La Gravière
+DTSTART;VALUE=DATE:20261024
+UID:891a45c9-345e-562f-a11c-18972e5f279b
+DESCRIPTION:https://lagraviere.ch/evenement/ritmo-44/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE CABARET B.E.T. — La Gravière
+DTSTART;VALUE=DATE:20261029
+UID:cb3872e4-95ee-5512-931d-8b7c8cc3f87c
+DESCRIPTION:https://lagraviere.ch/evenement/le-cabaret-b-e-t-5/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
 DTSTART;VALUE=DATE:20261029
 UID:acf1c64a-4441-5206-8aa5-03de1409d7d4
 DESCRIPTION:https://lagraviere.ch/evenement/noctambar-93/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STALINGRAD SOUND SYSTEM — La Gravière
+DTSTART;VALUE=DATE:20261031
+UID:20ac40bd-cbd6-5fa8-9d03-b204d2cae42a
+DESCRIPTION:https://lagraviere.ch/evenement/stalingrad-sound-system/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1362,14 +1412,6 @@ DTSTART;VALUE=DATE:20261127
 UID:66e9ac0a-abb4-513d-b48d-af0d1b05b137
 DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTECHRE [UK] Electronic / IDM / Ambient Konx-om-Pax [UK] Electron
- ic / IDM / Ambient x Electron — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261012
-UID:f66b6f0c-aa73-5325-be75-6fdb2c865baa
-DESCRIPTION:https://ptrnet.ch/evenement/autechre/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Sla­ckers [US] Ska Cosmic Shuffling [CH] Rocksteady / Ska —
