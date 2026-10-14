@@ -112,9 +112,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261112/michael-schen
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Psychedelic Porn Crumpets13.11.2026Unique date suisse — Docks
+SUMMARY:Psychedelic Porn Crumpets+ GROS CŒUR + LICKING RAINBOWS13.11.2026
+ Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261113
-UID:117d2dca-378d-5061-8e54-c22a35576c2c
+UID:0e7b617d-60bb-51e3-a867-9f5a594a31b3
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261113/psychedelic-p
  orn-crumpets/
 LOCATION:Docks\, Lausanne
@@ -495,9 +496,9 @@ DESCRIPTION:https://www.leromandie.ch/event/vulves-assassines-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KALIKA (FR) + SUPPORT — Le Romandie
+SUMMARY:KALIKA (FR) + FANCY DOLCY (FR) — Le Romandie
 DTSTART;VALUE=DATE:20261114
-UID:493374e7-91ff-58d9-b51a-3c087c2be981
+UID:ed3fc30f-1d00-5c7b-8c8c-a55a2352039f
 DESCRIPTION:https://www.leromandie.ch/event/kalika-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
@@ -823,9 +824,9 @@ DESCRIPTION:https://citronsmasques.ch/events/melrose/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NOVAJAM Jazz standars — Les Citrons Masqués
+SUMMARY:NOVAJAM Latin Jazz — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261120
-UID:5b19a35a-07db-56af-ba37-26d0fee35ca3
+UID:8474b430-531f-5928-b95d-15d2711d24a4
 DESCRIPTION:https://citronsmasques.ch/events/novajam/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
@@ -1082,13 +1083,6 @@ DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:drink&draw — Le Bout du Monde
-DTSTART;VALUE=DATE:20261013
-UID:2b0c83b7-d1d7-5385-8616-746de3b90179
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-12/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:David Munnelly — Le Bout du Monde
 DTSTART;VALUE=DATE:20261014
 UID:a6ed5417-295e-5a3f-9484-c910a0dca140
@@ -1210,6 +1204,14 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-luzine/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LE GRAND BAL : GUINGUETTE ET RACLETTE — Le Rez-Usine
+DTSTART;VALUE=DATE:20261204
+UID:750de363-db65-5561-8f90-a48c6f0a266f
+DESCRIPTION:https://rez-usine.ch/portfolio-item/04-12-26-le-grand-bal-guin
+ guette-et-raclette/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CHARLÉLIE COUTURE — Le Rez-Usine
 DTSTART;VALUE=DATE:20261205
 UID:c98b9959-97ed-52f8-b35d-514aa3d4799f
@@ -1300,6 +1302,15 @@ DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:jeudi 11 . 19  Hors-Programme : ManDRAGore ManDRAGore La Belladone
+  Kauchemardesk Oxytozyn Satine Morningstar Les folles du bus — La Brèch
+ e
+DTSTART;VALUE=DATE:20261119
+UID:2db7cf4e-d695-5631-a00e-25334611feea
+DESCRIPTION:https://www.la-breche.fun/events/19-11-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:mardi 11 . 24  Hors-programme : impro Afterwork — La Brèche
 DTSTART;VALUE=DATE:20261124
 UID:b0e1d031-4f7e-5b77-933e-d74292349bbf
@@ -1321,9 +1332,9 @@ DESCRIPTION:https://lagraviere.ch/evenement/noctambar-91/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LA GRAVIÈRE X ELECTRON FESTIVAL — La Gravière
+SUMMARY:ELECTRON CLUB TOUR — La Gravière
 DTSTART;VALUE=DATE:20261016
-UID:641e4446-da95-5ad4-bb2a-84daed1bca7e
+UID:7f7c8c1a-c8d7-515d-902f-219179758051
 DESCRIPTION:https://lagraviere.ch/evenement/la-graviere-x-electron-festiva
  l/
 LOCATION:La Gravière\, Genève
@@ -1412,14 +1423,6 @@ DTSTART;VALUE=DATE:20261127
 UID:66e9ac0a-abb4-513d-b48d-af0d1b05b137
 DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Sla­ckers [US] Ska Cosmic Shuffling [CH] Rocksteady / Ska —
-  Post Tenebras Rock
-DTSTART;VALUE=DATE:20261013
-UID:2f6d40ff-0cd7-5fdb-a31e-bd9725e7f1ab
-DESCRIPTION:https://ptrnet.ch/evenement/the-slackers/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:63OG [CM] Hip-hop TCO Prod — Post Tenebras Rock
