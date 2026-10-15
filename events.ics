@@ -948,13 +948,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:COACHING EPFL DJ Kemuel — D! Club
-DTSTART;VALUE=DATE:20261013
-UID:23275971-a27a-56a6-947c-1dc4917fe5d9
-DESCRIPTION:https://dclub.ch/agenda/20261013/dj-kemuel#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PULSE IT! +16 ans : Halloween Wild Pich Danoki (CH) Flor — D! Cl
  ub
 DTSTART;VALUE=DATE:20261014
@@ -1081,13 +1074,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:David Munnelly — Le Bout du Monde
-DTSTART;VALUE=DATE:20261014
-UID:a6ed5417-295e-5a3f-9484-c910a0dca140
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/david-munnelly-3/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Au Chapeau! — Le Bout du Monde
@@ -1389,6 +1375,13 @@ DESCRIPTION:https://lagraviere.ch/evenement/noctambar-93/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LA GRAVERIE — La Gravière
+DTSTART;VALUE=DATE:20261030
+UID:b36800d3-4855-5d74-8cde-8c1865e69156
+DESCRIPTION:https://lagraviere.ch/evenement/la-graverie-13/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:STALINGRAD SOUND SYSTEM — La Gravière
 DTSTART;VALUE=DATE:20261031
 UID:20ac40bd-cbd6-5fa8-9d03-b204d2cae42a
@@ -1441,10 +1434,10 @@ DESCRIPTION:https://ptrnet.ch/evenement/syndrome-81-x-no-filter-x-revanche
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sara Hebe [AR] Latin rap / Electro Los Mapas y Cachita [(CH\, AR\,
-  GT) ] Pop / Tropical — Post Tenebras Rock
+SUMMARY:Sara Hebe [AR] Latin rap / Electro Los Mapas y Cachita [CH\, AR\, 
+ GT] Pop / Tropical — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261022
-UID:850ed91a-893d-5cf1-89d0-2ff9e678ad8d
+UID:e7ceccee-e69c-55f8-8456-ac5000d97720
 DESCRIPTION:https://ptrnet.ch/evenement/sara-hebe/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
