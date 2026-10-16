@@ -65,9 +65,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261029/michelle-gure
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:So La Lune30.10.2026 — Docks
+SUMMARY:So La Lune+ Nhali & Amaru30.10.2026 — Docks
 DTSTART;VALUE=DATE:20261030
-UID:935a2401-3c02-58ba-91cf-8e0d1401d1d2
+UID:33afaf5e-472c-5ce9-8a38-997f476b6c8e
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261030/so-la-lune-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -695,13 +695,6 @@ DESCRIPTION:https://www.leromandie.ch/event/after-pary-lausanne-pride-vend
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blue Magic — Folklor
-DTSTART;VALUE=DATE:20261015
-UID:4901dba3-3730-56e5-b0cf-1acac9a23076
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chromatic — Folklor
 DTSTART;VALUE=DATE:20261016
 UID:7e565b7b-ae7c-54cb-9c6c-c45d4b57d6f8
@@ -948,21 +941,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PULSE IT! +16 ans : Halloween Wild Pich Danoki (CH) Flor — D! Cl
- ub
-DTSTART;VALUE=DATE:20261014
-UID:8d672319-e607-5718-a58e-66e945e6c6cf
-DESCRIPTION:https://dclub.ch/agenda/20261014/wild-pich#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DRAW ON ME by AEML & AEDL Lucky G — D! Club
-DTSTART;VALUE=DATE:20261015
-UID:af9db4dc-5004-5a4d-a7d6-239017e99092
-DESCRIPTION:https://dclub.ch/agenda/20261015/lucky-g#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NINJA WARRIORS Indira Paganotto Marhu (BE) Sanem — D! Club
 DTSTART;VALUE=DATE:20261016
 UID:92651fce-9cef-5a7d-98e3-a57477a545e1
@@ -1076,13 +1054,6 @@ DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Au Chapeau! — Le Bout du Monde
-DTSTART;VALUE=DATE:20261015
-UID:167d5f83-9534-59c9-a2de-45ec5dba665e
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/au-chapeau/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:le feu et les oiseaux — Le Bout du Monde
 DTSTART;VALUE=DATE:20261021
 UID:6b684d3d-145b-5740-af45-af79bf0104e8
@@ -1137,13 +1108,6 @@ DTSTART;VALUE=DATE:20261031
 UID:c30f9ac2-0a35-532d-b128-0fea1c8d73db
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/basic-partner/
 LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROSHÂNI [VERNISSAGE] + ERIN KIMBERLY X C.SUGVR — Le Rez-Usine
-DTSTART;VALUE=DATE:20261015
-UID:00cd9f03-9211-52df-a328-2672c7438e7b
-DESCRIPTION:https://rez-usine.ch/portfolio-item/15-10-26-roshani-guest/
-LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REZ x THE SPOT: BENJAMIN EPPS + SEBB BASH + DJ STRESH — Le Rez-U
@@ -1309,13 +1273,6 @@ DTSTART;VALUE=DATE:20261208
 UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
 DESCRIPTION:https://www.la-breche.fun/events/08-12-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20261015
-UID:e397a524-c3cb-5163-a41c-27526f2a324a
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-91/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELECTRON CLUB TOUR — La Gravière
