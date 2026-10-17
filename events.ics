@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yard Act+ Lava La Rue16.10.2026Unique date suisse — Docks
-DTSTART;VALUE=DATE:20261016
-UID:9d1f4bd4-e007-5a55-a4b6-c13a248a11ff
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261016/yard-act/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Valentino Vivace Experience+ Corine (DJ SET)17.10.2026 — Doc
  ks
 DTSTART;VALUE=DATE:20261017
@@ -439,13 +432,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AMOR x NAVA — Le Romandie
-DTSTART;VALUE=DATE:20261016
-UID:a8c2da94-0dd8-5c1e-97ac-0984b340221f
-DESCRIPTION:https://www.leromandie.ch/event/amor-x-nava
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Club François — Le Romandie
 DTSTART;VALUE=DATE:20261017
 UID:40700025-b0be-52bb-b0f0-f6c8e086b56e
@@ -603,6 +589,13 @@ DESCRIPTION:https://www.leromandie.ch/event/lushe-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AMOR x NAVA — Le Romandie
+DTSTART;VALUE=DATE:20261016
+UID:a8c2da94-0dd8-5c1e-97ac-0984b340221f
+DESCRIPTION:https://www.leromandie.ch/event/amor-x-nava
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Espectro Oculto Night — Le Romandie
 DTSTART;VALUE=DATE:20261009
 UID:781ef662-7d9f-55f6-b0bf-92771e40be9d
@@ -685,21 +678,6 @@ UID:b639c44c-6859-5efd-9eff-9c4af5864aa8
 DESCRIPTION:https://www.leromandie.ch/event/after-pary-lausanne-pride-same
  di
 LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFTER PARY : LAUSANNE PRIDE #VENDREDI — Le Romandie
-DTSTART;VALUE=DATE:20260626
-UID:74d948e2-b900-5cd9-829d-388cde1ed01e
-DESCRIPTION:https://www.leromandie.ch/event/after-pary-lausanne-pride-vend
- redi
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chromatic — Folklor
-DTSTART;VALUE=DATE:20261016
-UID:7e565b7b-ae7c-54cb-9c6c-c45d4b57d6f8
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tree House x Loose Legs Experience — Folklor
@@ -1273,14 +1251,6 @@ DTSTART;VALUE=DATE:20261208
 UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
 DESCRIPTION:https://www.la-breche.fun/events/08-12-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELECTRON CLUB TOUR — La Gravière
-DTSTART;VALUE=DATE:20261016
-UID:7f7c8c1a-c8d7-515d-902f-219179758051
-DESCRIPTION:https://lagraviere.ch/evenement/la-graviere-x-electron-festiva
- l/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DANCEHALL FUSION — La Gravière
