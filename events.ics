@@ -11,15 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Valentino Vivace Experience+ Corine (DJ SET)17.10.2026 — Doc
- ks
-DTSTART;VALUE=DATE:20261017
-UID:5beaffe6-5efc-507e-8e41-a3caca125928
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261017/the-valentino
- -vivace-experience/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Temples+ Metro Verlaine18.10.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261018
 UID:5f3325cb-54aa-5d53-94c3-c226acd664d5
@@ -432,13 +423,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club François — Le Romandie
-DTSTART;VALUE=DATE:20261017
-UID:40700025-b0be-52bb-b0f0-f6c8e086b56e
-DESCRIPTION:https://www.leromandie.ch/event/club-francois-3
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JEANNETO (FR) + EGGS AND TIARAS (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261022
 UID:5861e2e1-8f7a-5912-b3d0-f4323ea5e634
@@ -589,6 +573,13 @@ DESCRIPTION:https://www.leromandie.ch/event/lushe-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club François — Le Romandie
+DTSTART;VALUE=DATE:20261017
+UID:40700025-b0be-52bb-b0f0-f6c8e086b56e
+DESCRIPTION:https://www.leromandie.ch/event/club-francois-3
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AMOR x NAVA — Le Romandie
 DTSTART;VALUE=DATE:20261016
 UID:a8c2da94-0dd8-5c1e-97ac-0984b340221f
@@ -669,14 +660,6 @@ SUMMARY:LABEL SUISSE - VENDREDI : Louise Knobil 6tet + Ladunna + Yalla Mik
 DTSTART;VALUE=DATE:20260918
 UID:970f2eb5-1b7d-502b-bacd-4944cd392fd5
 DESCRIPTION:https://www.leromandie.ch/event/label-suisse-vendredi
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFTER PARY : LAUSANNE PRIDE #SAMEDI — Le Romandie
-DTSTART;VALUE=DATE:20260627
-UID:b639c44c-6859-5efd-9eff-9c4af5864aa8
-DESCRIPTION:https://www.leromandie.ch/event/after-pary-lausanne-pride-same
- di
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -917,13 +900,6 @@ DTSTART;VALUE=DATE:20270130
 UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
 DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NINJA WARRIORS Indira Paganotto Marhu (BE) Sanem — D! Club
-DTSTART;VALUE=DATE:20261016
-UID:92651fce-9cef-5a7d-98e3-a57477a545e1
-DESCRIPTION:https://dclub.ch/agenda/20261016/indira-paganotto#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D! Club 30 th Anniversary : DOWNTOWN BOOGIE Kiff One Vincz Lee Dj 
@@ -1170,13 +1146,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/05-03-27-johnny-jane/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[REPORTÉ] JAZZY BAZZ — Le Rez-Usine
-DTSTART;VALUE=DATE:20270408
-UID:fcfa59f9-f57f-5e11-9a3f-2d84e5cc9806
-DESCRIPTION:https://rez-usine.ch/portfolio-item/17-10-26-jazzy-bazz/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LUIZA — Le Rez-Usine
 DTSTART;VALUE=DATE:20270416
 UID:f0b5a368-d11d-5402-9f04-d4ba1035cf22
@@ -1251,13 +1220,6 @@ DTSTART;VALUE=DATE:20261208
 UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
 DESCRIPTION:https://www.la-breche.fun/events/08-12-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DANCEHALL FUSION — La Gravière
-DTSTART;VALUE=DATE:20261017
-UID:37fe7dd3-9c87-5be1-b7ed-fa3017152d5b
-DESCRIPTION:https://lagraviere.ch/evenement/dancehall-fusion-16/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
@@ -1343,13 +1305,6 @@ DTSTART;VALUE=DATE:20261127
 UID:66e9ac0a-abb4-513d-b48d-af0d1b05b137
 DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:63OG [CM] Hip-hop TCO Prod — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261017
-UID:90047a96-2f01-5e0c-ac43-ed2523f4dd27
-DESCRIPTION:https://ptrnet.ch/evenement/63og/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Syn­drome 81 x No Fil­ter x Revanche [FR] punk / oi! / hardcore 
