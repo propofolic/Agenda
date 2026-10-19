@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Temples+ Metro Verlaine18.10.2026Unique date suisse — Docks
-DTSTART;VALUE=DATE:20261018
-UID:5f3325cb-54aa-5d53-94c3-c226acd664d5
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261018/temples-3/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cat Power23.10.2026 - Completsans première partie — Docks
 DTSTART;VALUE=DATE:20261023
 UID:c99d8ebe-5a0b-51b7-aaa5-5d050edbd315
@@ -41,9 +34,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261028/ghinzu/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Michelle Gurevich29.10.2026Unique date suisse — Docks
+SUMMARY:Michelle Gurevich+ Ronley Teper29.10.2026Unique date suisse — Do
+ cks
 DTSTART;VALUE=DATE:20261029
-UID:17cc9570-5382-583f-a62d-777499bfaea2
+UID:033378af-0a49-5381-b75b-5995729f770f
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261029/michelle-gure
  vich/
 LOCATION:Docks\, Lausanne
@@ -566,6 +560,13 @@ DESCRIPTION:https://www.leromandie.ch/event/mothermary-us-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FAT DOG (UK) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20270316
+UID:f28fc53b-3d5e-5558-aa22-c7e0d1b3999e
+DESCRIPTION:https://www.leromandie.ch/event/fat-dog-uk-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LUSHE (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20270325
 UID:bda6ad35-8676-5a8c-b695-e4b963007ef2
@@ -710,14 +711,6 @@ DTSTART;VALUE=DATE:20261031
 UID:b95e2e66-33a4-5120-8f93-bdc4f51411d0
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karaoké « Djette’s Angel around Venus » — Les Citrons Masqu
- és
-DTSTART;VALUE=DATE:20261017
-UID:390de707-27c8-50c8-bc7c-e21d2931ec2d
-DESCRIPTION:https://citronsmasques.ch/events/karaoke-3/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Tatas (Chili) & Hot To Go Garage punk — Les Citrons Masqués
@@ -900,22 +893,6 @@ DTSTART;VALUE=DATE:20270130
 UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
 DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : DOWNTOWN BOOGIE Kiff One Vincz Lee Dj 
- Rafal Jiggy Jones — D! Club
-DTSTART;VALUE=DATE:20261017
-UID:db629c3e-45de-5ae7-b61c-df9d87ecd335
-DESCRIPTION:https://dclub.ch/agenda/20261017/kiff-one#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : THE GARD!EN Holy Priest Kistenbrügger
-  Nhū (CH) Rōse (CH) — D! Club
-DTSTART;VALUE=DATE:20261018
-UID:c81ac598-e770-5b28-8a23-89ea1926ac3d
-DESCRIPTION:https://dclub.ch/agenda/20261018/holy-priest#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:D! Club 30 th Anniversary : The D! Day Grandmaster Flash Stress Al
