@@ -66,6 +66,15 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261103/mike-d/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EXPOSITION: Ne pas pouvoir vivre sans!04.11.2026 - 19.12.2026VERNI
+ SSAGE LE MERCREDI 4 NOVEMBRE À 18H30 — Docks
+DTSTART;VALUE=DATE:20261104
+UID:3db6cbbf-5222-598c-ba2b-f14799dbc75f
+DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
+ -ne-pas-pouvoir-vivre-sans/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NNAVY05.11.2026vernissage — Docks
 DTSTART;VALUE=DATE:20261105
 UID:54cb3961-1a80-56a8-92fd-ff602f9d0da9
@@ -895,14 +904,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : The D! Day Grandmaster Flash Stress Al
-  Walid Vincz Lee — D! Club
-DTSTART;VALUE=DATE:20261019
-UID:6983f37d-c7c9-5b54-9c30-12a9f08c204d
-DESCRIPTION:https://dclub.ch/agenda/20261019/grandmaster-flash#d-club-live
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CONCERT LUM X PAT BURGENER : VISA >> MOVINGMUSIC Pat Burgener LUM 
  — D! Club
 DTSTART;VALUE=DATE:20261020
@@ -975,6 +976,13 @@ SUMMARY:SPACE ODYSSEY NTO (FR) Joachim Pastor (FR) Djerry C — D! Club
 DTSTART;VALUE=DATE:20261120
 UID:07f5a064-0e61-566c-9cab-08148ea0c826
 DESCRIPTION:https://dclub.ch/agenda/20261120/nto#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOR NOISE SPIRIT: LE DERNIER NOEL Dj Leclerc — D! Club
+DTSTART;VALUE=DATE:20261225
+UID:1b86630f-27e3-5c15-9f4f-a682f05bd59e
+DESCRIPTION:https://dclub.ch/agenda/20261225/dj-leclerc#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
