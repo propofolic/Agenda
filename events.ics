@@ -258,6 +258,13 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270213/laibach-4/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:YEИDRY16.02.2027Unique date suisse — Docks
+DTSTART;VALUE=DATE:20270216
+UID:1d34a57c-b418-56b4-98cc-d35179eb4eac
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270216/ye%d0%b8dry/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EIHWAR+ hindarfjäll17.02.2027Witches & Vikings — Docks
 DTSTART;VALUE=DATE:20270217
 UID:1cd53b32-5973-5bae-8a45-9cc24ae72e68
@@ -576,6 +583,13 @@ DESCRIPTION:https://www.leromandie.ch/event/fat-dog-uk-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHANPAN (US) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20270319
+UID:f36d8bb6-d9f7-5655-8ffa-340cd516785d
+DESCRIPTION:https://www.leromandie.ch/event/chanpan-us-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LUSHE (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20270325
 UID:bda6ad35-8676-5a8c-b695-e4b963007ef2
@@ -673,13 +687,6 @@ DESCRIPTION:https://www.leromandie.ch/event/label-suisse-vendredi
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tree House x Loose Legs Experience — Folklor
-DTSTART;VALUE=DATE:20261017
-UID:6b168ac9-5253-5dbb-a6e8-9970d0242ffc
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le b2b de Vintage Franky — Folklor
 DTSTART;VALUE=DATE:20261022
 UID:f0a8e66d-1cfc-52fb-baf6-3b992b2f2136
@@ -729,9 +736,9 @@ DESCRIPTION:https://citronsmasques.ch/events/the-tatas-chili/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miss Kryptonite & Guest Rock alternatif — Les Citrons Masqués
+SUMMARY:Miss Kryptonite Rock alternatif — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261023
-UID:dc919c1f-a6ec-5f73-84ad-e6597def51e5
+UID:211b00b6-05ea-52a3-b2b6-d1c38b8ad0a1
 DESCRIPTION:https://citronsmasques.ch/events/miss-kryptonite-guest/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
@@ -979,9 +986,17 @@ DESCRIPTION:https://dclub.ch/agenda/20261120/nto#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FOR NOISE SPIRIT: LE DERNIER NOEL Dj Leclerc — D! Club
+SUMMARY:NIGHTMARE Vladimir Cauchemar Nhū (CH) Deb McCormick (CH) — D! C
+ lub
+DTSTART;VALUE=DATE:20261127
+UID:9b4ef198-1f3a-541d-950d-b90451ccb726
+DESCRIPTION:https://dclub.ch/agenda/20261127/vladimir-cauchemar#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOR NOISE SPIRIT: LE DERNIER NOEL Dj Leclerc Lady Kaos — D! Club
 DTSTART;VALUE=DATE:20261225
-UID:1b86630f-27e3-5c15-9f4f-a682f05bd59e
+UID:2e8b11f1-e0f0-5332-bea6-7f8f45ec8b3b
 DESCRIPTION:https://dclub.ch/agenda/20261225/dj-leclerc#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1093,6 +1108,14 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-luzine/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JÔ + LITTLE LION SOUND + DERRICK SOUND — Le Rez-Usine
+DTSTART;VALUE=DATE:20261203
+UID:9e37235c-e27e-530c-8119-358d48122870
+DESCRIPTION:https://rez-usine.ch/portfolio-item/03-12-26-jo-little-lion-so
+ und-derrick-sound/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LE GRAND BAL : GUINGUETTE ET RACLETTE — Le Rez-Usine
 DTSTART;VALUE=DATE:20261204
 UID:750de363-db65-5561-8f90-a48c6f0a266f
@@ -1128,6 +1151,13 @@ SUMMARY:JOHNNY JANE — Le Rez-Usine
 DTSTART;VALUE=DATE:20270305
 UID:126df6fa-503d-5fb7-92ca-3e6cfaffe41d
 DESCRIPTION:https://rez-usine.ch/portfolio-item/05-03-27-johnny-jane/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[REPORTÉ] JAZZY BAZZ — Le Rez-Usine
+DTSTART;VALUE=DATE:20270408
+UID:fcfa59f9-f57f-5e11-9a3f-2d84e5cc9806
+DESCRIPTION:https://rez-usine.ch/portfolio-item/17-10-26-jazzy-bazz/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1200,6 +1230,14 @@ DESCRIPTION:https://www.la-breche.fun/events/24-11-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:jeudi 11 . 26  release party CC Fantasy nykolaes & Daniël Paul 
+ — La Brèche
+DTSTART;VALUE=DATE:20261126
+UID:ff187975-f9c0-5375-8b94-687a0b281064
+DESCRIPTION:https://www.la-breche.fun/events/26-11-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:mardi 12 . 08  Hors-programme : impro Afterwork — La Brèche
 DTSTART;VALUE=DATE:20261208
 UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
@@ -1260,6 +1298,14 @@ SUMMARY:STALINGRAD SOUND SYSTEM — La Gravière
 DTSTART;VALUE=DATE:20261031
 UID:20ac40bd-cbd6-5fa8-9d03-b204d2cae42a
 DESCRIPTION:https://lagraviere.ch/evenement/stalingrad-sound-system/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAKESIDE BASEMENT 6 YEARS ANNIVERSARY — La Gravière
+DTSTART;VALUE=DATE:20261106
+UID:8d2aca67-bfc5-56b4-ba25-11bfc57ccfd1
+DESCRIPTION:https://lagraviere.ch/evenement/lakeside-basement-6-years-anni
+ versary/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
