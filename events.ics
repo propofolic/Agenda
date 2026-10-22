@@ -205,9 +205,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261210/ben-plg/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ibeyi11.12.2026Unique date suisse — Docks
+SUMMARY:Ibeyi+ Léonie Barbot11.12.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261211
-UID:bcbb96f8-5a77-5346-8eff-518d8826580a
+UID:ecabeb0f-b93c-50d2-97f8-543c58d9eefd
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261211/ibeyi-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -408,6 +408,13 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270429/rodrigo-y-gab
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oh Wonder01.05.2027Unique date suisse — Docks
+DTSTART;VALUE=DATE:20270501
+UID:9e9aa89c-d5f9-58a6-a630-8b3857480b4d
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270501/oh-wonder-2/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DragonForce+ Visions of Atlantis + Wings of Steel04.05.2027 — Do
  cks
 DTSTART;VALUE=DATE:20270504
@@ -469,9 +476,9 @@ DESCRIPTION:https://www.leromandie.ch/event/grand-mechant-bal-promo-2026
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VULVES ASSASSINES (FR) + SUPPORT — Le Romandie
+SUMMARY:VULVES ASSASSINES (FR) + YASOU (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261112
-UID:e263ab9c-677d-5fab-acaa-bab4067a7087
+UID:087df194-af99-5db9-b647-42bab61194b3
 DESCRIPTION:https://www.leromandie.ch/event/vulves-assassines-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
@@ -497,9 +504,9 @@ DESCRIPTION:https://www.leromandie.ch/event/lakna-ch-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SUPERPOZE (FR) + SUPPORT — Le Romandie
+SUMMARY:SUPERPOZE (FR) + LEONORE BRUNNER (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261125
-UID:1cf800af-0802-5177-bee8-d518dc28b51b
+UID:c1a20abe-8de6-5ffa-93b9-2da5a187bc34
 DESCRIPTION:https://www.leromandie.ch/event/superpoze-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
@@ -911,14 +918,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CONCERT LUM X PAT BURGENER : VISA >> MOVINGMUSIC Pat Burgener LUM 
- — D! Club
-DTSTART;VALUE=DATE:20261020
-UID:887fc7eb-f7b0-5b08-b56d-9f6596f629f7
-DESCRIPTION:https://dclub.ch/agenda/20261020/pat-burgener#d-club-live
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THYLACINE EN CONCERT Thylacine — D! Club
 DTSTART;VALUE=DATE:20261022
 UID:dba699b0-7e84-5afe-ac66-06a2a8b8b68e
@@ -971,11 +970,25 @@ DESCRIPTION:https://dclub.ch/agenda/20261106/sven-v%c3%a4th#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PULL UP Lil Kev Wild Pich EMTY — D! Club
+DTSTART;VALUE=DATE:20261107
+UID:0e9f5ccf-d875-5a78-b309-d06cb31ebd92
+DESCRIPTION:https://dclub.ch/agenda/20261107/lil-kev#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Space Odyssey Jan Blomqvist (DE) Romain Garcia (FR) Julien Vertigo
   (CH) — D! Club
 DTSTART;VALUE=DATE:20261113
 UID:b18ccbd7-ac16-5b91-acd9-c4c740638713
 DESCRIPTION:https://dclub.ch/agenda/20261113/jan-blomqvist#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OUPS The Jocker Dj Klash Dj Vidy — D! Club
+DTSTART;VALUE=DATE:20261114
+UID:872bf91a-98cd-5ff5-b9ba-85c4a0846a7c
+DESCRIPTION:https://dclub.ch/agenda/20261114/the-jocker#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1006,13 +1019,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:le feu et les oiseaux — Le Bout du Monde
-DTSTART;VALUE=DATE:20261021
-UID:6b684d3d-145b-5740-af45-af79bf0104e8
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/le-feu-et-les-oiseaux/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:minijack — Le Bout du Monde
@@ -1147,6 +1153,13 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/05-02-27-zed/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PASSI — Le Rez-Usine
+DTSTART;VALUE=DATE:20270213
+UID:25b35751-2769-547c-a9f7-c48a125842e5
+DESCRIPTION:https://rez-usine.ch/portfolio-item/13-02-27-passi/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JOHNNY JANE — Le Rez-Usine
 DTSTART;VALUE=DATE:20270305
 UID:126df6fa-503d-5fb7-92ca-3e6cfaffe41d
@@ -1166,13 +1179,6 @@ DTSTART;VALUE=DATE:20270416
 UID:f0b5a368-d11d-5402-9f04-d4ba1035cf22
 DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:mercredi 10 . 21  Team Work Leo Hermitt — La Brèche
-DTSTART;VALUE=DATE:20261021
-UID:7475f1d3-d3d3-5ecb-8c99-66b50acf10c6
-DESCRIPTION:https://www.la-breche.fun/events/21-10-2026
-LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:vendredi 10 . 23  Hors-Programme : Vibrations Forward Aïda Gabrie
@@ -1338,15 +1344,6 @@ DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Syn­drome 81 x No Fil­ter x Revanche [FR] punk / oi! / hardcore 
- — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261021
-UID:f608b4c3-abf3-5282-a2af-bf7c6fdaaf8d
-DESCRIPTION:https://ptrnet.ch/evenement/syndrome-81-x-no-filter-x-revanche
- /
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sara Hebe [AR] Latin rap / Electro Los Mapas y Cachita [CH\, AR\, 
  GT] Pop / Tropical — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261022
@@ -1362,11 +1359,11 @@ DESCRIPTION:https://ptrnet.ch/evenement/jetlag-gang/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Suf­fo­ca­tion (EU Tour) [US] Death metal Ingested [UK] Death 
- metal / Deathcore Undeath [US] Death metal Eternal [US] Death metal — Po
- st Tenebras Rock
+SUMMARY:Suf­fo­ca­tion [US] Death metal Ingested [UK] Death metal / Dea
+ thcore Undeath [US] Death metal Eternal [US] Death metal — Post Tenebras
+  Rock
 DTSTART;VALUE=DATE:20261027
-UID:8f4a9788-341e-5f6d-8f6d-a2e3c41adf03
+UID:0b9b48ab-49eb-51dd-9305-0f1a1808bbf1
 DESCRIPTION:https://ptrnet.ch/evenement/suffocation-eu-tour/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
