@@ -140,9 +140,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261120/piche/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kneecap21.11.2026 - Complet — Docks
+SUMMARY:Kneecap+ Fawzi & Smokaholic21.11.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20261121
-UID:314b2062-2a42-5adb-a8f0-09dcedb8452d
+UID:46d0b8a2-c6a8-54f7-8b30-febb12633ae8
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261121/kneecap/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -312,17 +312,17 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270305/leman/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Royal Blood06.03.2027Unique date suisse — Docks
+SUMMARY:Royal Blood06.03.2027 - CompletUnique date suisse — Docks
 DTSTART;VALUE=DATE:20270306
-UID:5127076f-a2e3-55d6-9ae6-c1387b9cd3fe
+UID:613d2617-4354-5092-b8b3-0c080ce60a73
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270306/royal-blood-2
  /
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Loïc Nottet11.03.2027 - Derniers billets — Docks
+SUMMARY:Loïc Nottet11.03.2027 - Complet — Docks
 DTSTART;VALUE=DATE:20270311
-UID:6c020d05-fef2-5193-8408-c36570b3bef7
+UID:3678cc38-8fc1-55b4-a3c3-7f1384a5916f
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270311/loic-nottet/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -438,13 +438,6 @@ UID:9226d52b-6df9-5883-b916-9cf74c6ec810
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
  inners/
 LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEANNETO (FR) + EGGS AND TIARAS (CH) — Le Romandie
-DTSTART;VALUE=DATE:20261022
-UID:5861e2e1-8f7a-5912-b3d0-f4323ea5e634
-DESCRIPTION:https://www.leromandie.ch/event/jeanneto-fr-support
-LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROMANDUB #2 — Le Romandie
@@ -604,6 +597,20 @@ DESCRIPTION:https://www.leromandie.ch/event/lushe-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SLIFT (FR) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20270326
+UID:379c5adb-63c9-5f1f-a35b-24298834794d
+DESCRIPTION:https://www.leromandie.ch/event/slift-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JEANNETO (FR) + EGGS AND TIARAS (CH) — Le Romandie
+DTSTART;VALUE=DATE:20261022
+UID:5861e2e1-8f7a-5912-b3d0-f4323ea5e634
+DESCRIPTION:https://www.leromandie.ch/event/jeanneto-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Club François — Le Romandie
 DTSTART;VALUE=DATE:20261017
 UID:40700025-b0be-52bb-b0f0-f6c8e086b56e
@@ -686,21 +693,6 @@ DESCRIPTION:https://www.leromandie.ch/event/label-suisse-samedi
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LABEL SUISSE - VENDREDI : Louise Knobil 6tet + Ladunna + Yalla Mik
- u + La Collective — Le Romandie
-DTSTART;VALUE=DATE:20260918
-UID:970f2eb5-1b7d-502b-bacd-4944cd392fd5
-DESCRIPTION:https://www.leromandie.ch/event/label-suisse-vendredi
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le b2b de Vintage Franky — Folklor
-DTSTART;VALUE=DATE:20261022
-UID:f0a8e66d-1cfc-52fb-baf6-3b992b2f2136
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Out Of Body — Folklor
 DTSTART;VALUE=DATE:20261023
 UID:d6cca52d-1e21-54d3-9636-9ab54148171b
@@ -734,13 +726,6 @@ DTSTART;VALUE=DATE:20261031
 UID:b95e2e66-33a4-5120-8f93-bdc4f51411d0
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Tatas (Chili) & Hot To Go Garage punk — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261021
-UID:9fc35093-8d8b-5b10-90a3-4778f6293bb5
-DESCRIPTION:https://citronsmasques.ch/events/the-tatas-chili/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miss Kryptonite Rock alternatif — Les Citrons Masqués
@@ -962,6 +947,20 @@ DESCRIPTION:https://dclub.ch/agenda/20261031/cls#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:STORMY EHL DJ’S (CH) — D! Club
+DTSTART;VALUE=DATE:20261104
+UID:0d48f538-79a2-5916-ad6d-81e752b1ed43
+DESCRIPTION:https://dclub.ch/agenda/20261104/ehl-djs#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA NUIT DES BLOUSES BLANCHES Lucky G — D! Club
+DTSTART;VALUE=DATE:20261105
+UID:92f1c4da-239e-5cf0-9fb1-805e1ccd790c
+DESCRIPTION:https://dclub.ch/agenda/20261105/lucky-g#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PAPA SVEN Sven Väth (Cocoon\, DE) Tal Fussman (DE) Salvatore fred
  a — D! Club
 DTSTART;VALUE=DATE:20261106
@@ -974,6 +973,20 @@ SUMMARY:PULL UP Lil Kev Wild Pich EMTY — D! Club
 DTSTART;VALUE=DATE:20261107
 UID:0e9f5ccf-d875-5a78-b309-d06cb31ebd92
 DESCRIPTION:https://dclub.ch/agenda/20261107/lil-kev#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:soirée étudiante SPI LAUSANNE (epfl) Lucky G — D! Club
+DTSTART;VALUE=DATE:20261111
+UID:b2b98e1c-08c9-5dc1-9371-f20793fbe8fb
+DESCRIPTION:https://dclub.ch/agenda/20261111/lucky-g#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE BAL DES AMBULANCIERS Lucky G — D! Club
+DTSTART;VALUE=DATE:20261112
+UID:84d21815-df7d-5a7f-8a52-305a3c142a78
+DESCRIPTION:https://dclub.ch/agenda/20261112/lucky-g#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -992,10 +1005,32 @@ DESCRIPTION:https://dclub.ch/agenda/20261114/the-jocker#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HEC & AEDL PARTY Lucky G — D! Club
+DTSTART;VALUE=DATE:20261119
+UID:7bc8b5b0-ca5c-5b26-b623-4882dc451d46
+DESCRIPTION:https://dclub.ch/agenda/20261119/lucky-g#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SPACE ODYSSEY NTO (FR) Joachim Pastor (FR) Djerry C — D! Club
 DTSTART;VALUE=DATE:20261120
 UID:07f5a064-0e61-566c-9cab-08148ea0c826
 DESCRIPTION:https://dclub.ch/agenda/20261120/nto#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOWNTOWN BOOGIE BIRTHDAY Vincz Lee Kiff One Dj Klash Dj Rafal Dj V
+ idy Grizzy Jiggy Jones — D! Club
+DTSTART;VALUE=DATE:20261121
+UID:422d83ad-dbec-52b7-8ebe-28eb4980ef70
+DESCRIPTION:https://dclub.ch/agenda/20261121/vincz-lee#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KEMUEL THURSDAY Kemuel — D! Club
+DTSTART;VALUE=DATE:20261126
+UID:56dd4555-6b8e-558b-896b-780d0353a40d
+DESCRIPTION:https://dclub.ch/agenda/20261126/kemuel#abc
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,10 +1042,48 @@ DESCRIPTION:https://dclub.ch/agenda/20261127/vladimir-cauchemar#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LA TEMPERATURA Maximarcus Kemuel Nyo Rodriguez — D! Club
+DTSTART;VALUE=DATE:20261128
+UID:24b66c9a-f2d2-54fa-9c5b-9809fd735895
+DESCRIPTION:https://dclub.ch/agenda/20261128/maximarcus#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DROLE DE FEMMES Camille Carron Leila Chantal Micaela Delgado Tipan
+  Johannie Fort Aurélia Loriol Sarah Mottet — D! Club
+DTSTART;VALUE=DATE:20261203
+UID:c1253d66-bbda-5923-bddf-9d73c31f7872
+DESCRIPTION:https://dclub.ch/agenda/20261203/camille-carron#abc-live
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPACE ODYSSEY Kölsch (DK) Einmusik (Einmusika\, DE) Alicia Hahn 
+ — D! Club
+DTSTART;VALUE=DATE:20261204
+UID:e807c23b-00f5-5a59-b6e3-c80be32a62bc
+DESCRIPTION:https://dclub.ch/agenda/20261204/k%c3%b6lsch#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAL DE NOEL Lucky G — D! Club
+DTSTART;VALUE=DATE:20261217
+UID:7e1e5a50-6459-5c1f-8167-430b6c000bc9
+DESCRIPTION:https://dclub.ch/agenda/20261217/lucky-g#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FOR NOISE SPIRIT: LE DERNIER NOEL Dj Leclerc Lady Kaos — D! Club
 DTSTART;VALUE=DATE:20261225
 UID:2e8b11f1-e0f0-5332-bea6-7f8f45ec8b3b
 DESCRIPTION:https://dclub.ch/agenda/20261225/dj-leclerc#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA TEMPERATURA Maximarcus Kemuel Dj RMZ (CH) Tonzer (CH) Rosanova 
+ Nyo — D! Club
+DTSTART;VALUE=DATE:20261226
+UID:f0836fab-c77f-58fb-835f-5d7bf0ed8208
+DESCRIPTION:https://dclub.ch/agenda/20261226/maximarcus#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1251,13 +1324,6 @@ DESCRIPTION:https://www.la-breche.fun/events/08-12-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20261022
-UID:dbd8badf-dc4d-5d4e-ba52-e66daf0d1d07
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-92/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AMOR SATYR — La Gravière
 DTSTART;VALUE=DATE:20261023
 UID:d6e2c391-f0a4-5e26-b0b1-ca108ff05ae8
@@ -1329,6 +1395,14 @@ DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-20/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CLUB LES CRÉATIVES x LAZE B2B CAMILLE DOE — La Gravière
+DTSTART;VALUE=DATE:20261120
+UID:863811cb-ebb2-5a5c-a0ff-db68a21dad49
+DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-laze-b2b-
+ camille-doe/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIP HOP LIVE! x LES CRÉATIVES — La Gravière
 DTSTART;VALUE=DATE:20261121
 UID:009410e5-526b-5d75-8bbd-852879472768
@@ -1342,14 +1416,6 @@ DTSTART;VALUE=DATE:20261127
 UID:66e9ac0a-abb4-513d-b48d-af0d1b05b137
 DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sara Hebe [AR] Latin rap / Electro Los Mapas y Cachita [CH\, AR\, 
- GT] Pop / Tropical — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261022
-UID:e7ceccee-e69c-55f8-8456-ac5000d97720
-DESCRIPTION:https://ptrnet.ch/evenement/sara-hebe/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jet­Lag Gang reggaeton y perreo — Post Tenebras Rock
