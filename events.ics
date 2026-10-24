@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cat Power23.10.2026 - Completsans première partie — Docks
-DTSTART;VALUE=DATE:20261023
-UID:c99d8ebe-5a0b-51b7-aaa5-5d050edbd315
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261023/cat-power-3/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sleaford Mods+ Alt_R25.10.2026 - Derniers billetsUnique date suiss
  e — Docks
 DTSTART;VALUE=DATE:20261025
@@ -728,6 +721,48 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:After Zirkuz — Folklor
+DTSTART;VALUE=DATE:20261106
+UID:e4da8fe5-c11a-594c-8eb4-224d9c0df480
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APRH x After Zirkuz — Folklor
+DTSTART;VALUE=DATE:20261107
+UID:564bd919-fd4c-5f65-8fad-38ba0669d7b5
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flight Mode x Folklor 10 YEARS — Folklor
+DTSTART;VALUE=DATE:20261113
+UID:7cbf5b5a-1d73-575c-adbe-9c3fbe101b16
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That’s All Folks — Folklor
+DTSTART;VALUE=DATE:20261114
+UID:0d665207-a56d-5b34-8650-ef6871f2d7ff
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chacun Son Délire – 10 ANS — Folklor
+DTSTART;VALUE=DATE:20261120
+UID:e8a4188c-43de-53d1-af79-122b783d2ceb
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folklor 10 YEARS — Folklor
+DTSTART;VALUE=DATE:20261121
+UID:f7ce80ba-8d20-5f0a-aa58-1b35c219ae30
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Miss Kryptonite Rock alternatif — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261023
 UID:211b00b6-05ea-52a3-b2b6-d1c38b8ad0a1
@@ -739,6 +774,14 @@ SUMMARY:Bex Marshall (Uk) Blues Rock — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261024
 UID:03fc44c1-f458-584d-8d39-f80b5fc8f2d1
 DESCRIPTION:https://citronsmasques.ch/events/bex-marshall/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kizomba Urbankiz Retirer un terme : Dance  Dance — Les Citrons M
+ asqués
+DTSTART;VALUE=DATE:20261025
+UID:6dde5133-a9e5-5227-ac1f-7e92b013b006
+DESCRIPTION:https://citronsmasques.ch/events/kizomba-urbankiz/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
@@ -824,6 +867,13 @@ DESCRIPTION:https://citronsmasques.ch/events/brothers-on-the-run-verron/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zouk & Kompa Dance — Les Citrons Masqués
+DTSTART;VALUE=DATE:20261205
+UID:11e35b9e-e56d-5110-8141-a6ceb60800e8
+DESCRIPTION:https://citronsmasques.ch/events/zouk-kompa-2/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Psarades Folk balkanique — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261211
 UID:c77b74da-86c8-5bae-a4a5-ad0f7175b549
@@ -901,13 +951,6 @@ DTSTART;VALUE=DATE:20270130
 UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
 DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THYLACINE EN CONCERT Thylacine — D! Club
-DTSTART;VALUE=DATE:20261022
-UID:dba699b0-7e84-5afe-ac66-06a2a8b8b68e
-DESCRIPTION:https://dclub.ch/agenda/20261022/thylacine#d-club-live
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SUPERNOVA VTSS (USA) Pawlowski (FR) Nhū (CH) — D! Club
@@ -1094,13 +1137,6 @@ DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:minijack — Le Bout du Monde
-DTSTART;VALUE=DATE:20261023
-UID:9db8c78c-e17a-517b-9d50-3e6dda7ee586
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/2595/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Slane — Le Bout du Monde
 DTSTART;VALUE=DATE:20261024
 UID:ef7abeba-e066-5913-a187-76e0d21ed898
@@ -1143,20 +1179,98 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/basic-partner/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:REZ x THE SPOT: BENJAMIN EPPS + SEBB BASH + DJ STRESH — Le Rez-U
- sine
-DTSTART;VALUE=DATE:20261023
-UID:6988ab31-eefe-5dee-9b67-f89d46b22ffe
-DESCRIPTION:https://rez-usine.ch/portfolio-item/23-10-26-rez-x-the-spot-be
- njamin-epps-sebb-bash-dj-stresh/
-LOCATION:Le Rez-Usine\, Genève
+SUMMARY:Le Blagouille — Le Bout du Monde
+DTSTART;VALUE=DATE:20261104
+UID:c62d074c-7acd-59f2-9c7e-41b6d25cd03b
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/le-blagouille/
+LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ANNULÉ] KABAKA PYRAMID — Le Rez-Usine
-DTSTART;VALUE=DATE:20261023
-UID:107b8e02-4e25-5418-994d-cb607eac8e31
-DESCRIPTION:https://rez-usine.ch/portfolio-item/23-10-26-kabaka-pyramid/
-LOCATION:Le Rez-Usine\, Genève
+SUMMARY:Aurage — Le Bout du Monde
+DTSTART;VALUE=DATE:20261105
+UID:038f1f5e-1a0e-5c7a-a079-c2d2307702ee
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/aurage/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L’Empire du Rire — Le Bout du Monde
+DTSTART;VALUE=DATE:20261109
+UID:71237f15-11cb-50c2-9f98-afc119192f2a
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/lempire-du-rire-2/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drink&draw — Le Bout du Monde
+DTSTART;VALUE=DATE:20261110
+UID:9842491f-b7e4-526d-a205-aefbaadd8116
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-14/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival du Bout du Monde – Jeudi – — Le Bout du Monde
+DTSTART;VALUE=DATE:20261112
+UID:0fa1c546-a19c-5418-bc7f-312112ba2fc6
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/festival-du-bout-du-mo
+ nde-jeudi/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival du Bout du Monde – Vendredi – — Le Bout du Monde
+DTSTART;VALUE=DATE:20261113
+UID:a68c5ac7-1416-5748-b313-b6b5c4f6550e
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/festival-du-bout-du-mo
+ nde-vendredi/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festival du Bout du Monde – Samedi – — Le Bout du Monde
+DTSTART;VALUE=DATE:20261114
+UID:0cccd467-f6a5-560c-b3d2-d9e7e10ad21d
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/festival-du-bout-du-mo
+ nde-samedi/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soirée impro — Le Bout du Monde
+DTSTART;VALUE=DATE:20261119
+UID:14b08293-b537-5682-bc73-c0c373ed88c9
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/soiree-impro-3/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drink&draw — Le Bout du Monde
+DTSTART;VALUE=DATE:20261124
+UID:0d6e2902-abd4-5c4d-bc0c-393284494fe9
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/drindraw/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cedric Blaser — Le Bout du Monde
+DTSTART;VALUE=DATE:20261126
+UID:2cb1a531-e317-551e-a315-27c0bc41976d
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/cedric-blaser/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Clamerie — Le Bout du Monde
+DTSTART;VALUE=DATE:20261127
+UID:64eb2b0a-ece4-5080-aa7b-95b1eb7655f9
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-clamerie-5/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skasa Xkaladona — Le Bout du Monde
+DTSTART;VALUE=DATE:20261128
+UID:2bda1cd5-f40d-5277-bcc2-04d0853fa42d
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/skasa-xkaladona-2/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Graille — Le Bout du Monde
+DTSTART;VALUE=DATE:20261129
+UID:e009a5a7-7fe0-5060-9d3f-8a466f9ef678
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-20/
+LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LA P’TITE FUMÉE — Le Rez-Usine
@@ -1254,14 +1368,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:vendredi 10 . 23  Hors-Programme : Vibrations Forward Aïda Gabrie
- lle Diop & Guest : Mark Kelly Vibrations Forward — La Brèche
-DTSTART;VALUE=DATE:20261023
-UID:1a92c5bc-dd66-50a3-9ba3-b5dc7de5008d
-DESCRIPTION:https://www.la-breche.fun/events/23-10-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:mardi 10 . 27  Hors-programme : impro Afterwork — La Brèche
 DTSTART;VALUE=DATE:20261027
 UID:ac9dc04f-f65b-59e7-bc1d-de094d9bcba1
@@ -1322,13 +1428,6 @@ DTSTART;VALUE=DATE:20261208
 UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
 DESCRIPTION:https://www.la-breche.fun/events/08-12-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AMOR SATYR — La Gravière
-DTSTART;VALUE=DATE:20261023
-UID:d6e2c391-f0a4-5e26-b0b1-ca108ff05ae8
-DESCRIPTION:https://lagraviere.ch/evenement/amor-satyr/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIP HOP LIVE! — La Gravière
