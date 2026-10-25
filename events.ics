@@ -433,13 +433,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROMANDUB #2 — Le Romandie
-DTSTART;VALUE=DATE:20261024
-UID:379a37cf-04a8-56c4-bec3-8cad8616ea00
-DESCRIPTION:https://www.leromandie.ch/event/romandub-2
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:STANISLAS (FR) + LOHAN (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261029
 UID:3b4c6a99-1fc1-583c-8e02-6a7c030a8fba
@@ -597,6 +590,13 @@ DESCRIPTION:https://www.leromandie.ch/event/slift-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROMANDUB #2 — Le Romandie
+DTSTART;VALUE=DATE:20261024
+UID:379a37cf-04a8-56c4-bec3-8cad8616ea00
+DESCRIPTION:https://www.leromandie.ch/event/romandub-2
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JEANNETO (FR) + EGGS AND TIARAS (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261022
 UID:5861e2e1-8f7a-5912-b3d0-f4323ea5e634
@@ -678,14 +678,6 @@ DESCRIPTION:https://www.leromandie.ch/event/label-suisse-dimanche
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LABEL SUISSE - SAMEDI : Trio Heinz Herbert + 3yooni + Manic pixxie
- s + Solar Velcro — Le Romandie
-DTSTART;VALUE=DATE:20260919
-UID:f765b7e8-2c9a-5140-8225-7324c7c28328
-DESCRIPTION:https://www.leromandie.ch/event/label-suisse-samedi
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Out Of Body — Folklor
 DTSTART;VALUE=DATE:20261023
 UID:d6cca52d-1e21-54d3-9636-9ab54148171b
@@ -761,13 +753,6 @@ DTSTART;VALUE=DATE:20261121
 UID:f7ce80ba-8d20-5f0a-aa58-1b35c219ae30
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miss Kryptonite Rock alternatif — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261023
-UID:211b00b6-05ea-52a3-b2b6-d1c38b8ad0a1
-DESCRIPTION:https://citronsmasques.ch/events/miss-kryptonite-guest/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bex Marshall (Uk) Blues Rock — Les Citrons Masqués
@@ -953,21 +938,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SUPERNOVA VTSS (USA) Pawlowski (FR) Nhū (CH) — D! Club
-DTSTART;VALUE=DATE:20261023
-UID:7c717c0f-7da5-5cff-ade7-5bb42f6374c9
-DESCRIPTION:https://dclub.ch/agenda/20261023/vtss#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : XAGUADA DEEKAY Peka DJ Melo papafete C
- heezzzie MS Dj Neves LK — D! Club
-DTSTART;VALUE=DATE:20261024
-UID:4b2a6214-609d-53e6-af08-6e64ccf33df5
-DESCRIPTION:https://dclub.ch/agenda/20261024/deekay#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HEC HALLOWEEN Mr W. — D! Club
 DTSTART;VALUE=DATE:20261029
 UID:324f195e-e070-5ee3-8ddf-f3d5e8c37b97
@@ -1135,13 +1105,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slane — Le Bout du Monde
-DTSTART;VALUE=DATE:20261024
-UID:ef7abeba-e066-5913-a187-76e0d21ed898
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/slane/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Graille — Le Bout du Monde
@@ -1428,13 +1391,6 @@ DTSTART;VALUE=DATE:20261208
 UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
 DESCRIPTION:https://www.la-breche.fun/events/08-12-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HIP HOP LIVE! — La Gravière
-DTSTART;VALUE=DATE:20261024
-UID:517dc046-e4cb-513d-baf2-c506c0a7a293
-DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-21/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RITMO — La Gravière
