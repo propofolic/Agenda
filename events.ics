@@ -11,15 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sleaford Mods+ Alt_R25.10.2026 - Derniers billetsUnique date suiss
- e — Docks
-DTSTART;VALUE=DATE:20261025
-UID:c0183387-8229-5d14-80b7-b8027f350269
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261025/sleaford-mods
- /
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ghinzu28.10.2026 - Completsans première partie — Docks
 DTSTART;VALUE=DATE:20261028
 UID:0c1ce4b5-dbbe-51dc-b592-d85208abef3b
@@ -455,6 +446,13 @@ DESCRIPTION:https://www.leromandie.ch/event/grand-mechant-bal-promo-2026
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UTOPIA X NOT LIKE US — Le Romandie
+DTSTART;VALUE=DATE:20261106
+UID:1d5a380c-23cf-5cc5-a7d2-5e9ce4508642
+DESCRIPTION:https://www.leromandie.ch/event/utopia-x-not-like-us
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VULVES ASSASSINES (FR) + YASOU (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261112
 UID:087df194-af99-5db9-b647-42bab61194b3
@@ -545,6 +543,13 @@ DTSTART;VALUE=DATE:20261218
 UID:d74ebbbb-79fb-5790-9e4b-63096a138336
 DESCRIPTION:https://www.leromandie.ch/event/le-teuf-de-piotr-et-la-ruse-ch
  -vernissage-glaascats-ch-aftershow-trqer-b2b-rebelca-garancina-yanneck
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ParaDykes Club — Le Romandie
+DTSTART;VALUE=DATE:20261219
+UID:079bb933-ee5c-59f0-9dbd-359668e23d17
+DESCRIPTION:https://www.leromandie.ch/event/paradykes-club4
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -678,20 +683,6 @@ DESCRIPTION:https://www.leromandie.ch/event/label-suisse-dimanche
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Out Of Body — Folklor
-DTSTART;VALUE=DATE:20261023
-UID:d6cca52d-1e21-54d3-9636-9ab54148171b
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Folklor Nation x Folklor 10 YEARS — Folklor
-DTSTART;VALUE=DATE:20261024
-UID:20c8da51-4c19-52c0-8bbc-493154a6d151
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Collectif Murmure — Folklor
 DTSTART;VALUE=DATE:20261029
 UID:6d5c066d-761d-5c5c-b108-63860c688e92
@@ -753,13 +744,6 @@ DTSTART;VALUE=DATE:20261121
 UID:f7ce80ba-8d20-5f0a-aa58-1b35c219ae30
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bex Marshall (Uk) Blues Rock — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261024
-UID:03fc44c1-f458-584d-8d39-f80b5fc8f2d1
-DESCRIPTION:https://citronsmasques.ch/events/bex-marshall/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kizomba Urbankiz Retirer un terme : Dance  Dance — Les Citrons M
@@ -1107,20 +1091,6 @@ DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Graille — Le Bout du Monde
-DTSTART;VALUE=DATE:20261025
-UID:49c56a1a-4fe5-53b3-8150-895c878f5ded
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-19/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:the telescopes — Le Bout du Monde
-DTSTART;VALUE=DATE:20261025
-UID:e6003789-9925-5e10-b1d2-d40fe75a636f
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/the-telescopes/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drink&Draw — Le Bout du Monde
 DTSTART;VALUE=DATE:20261027
 UID:f6bd49fe-e44b-591e-b72c-a60dbae59a4a
@@ -1386,18 +1356,18 @@ DESCRIPTION:https://www.la-breche.fun/events/26-11-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:jeudi 12 . 03  Film 2 Swimming Pool — La Brèche
+DTSTART;VALUE=DATE:20261203
+UID:398cf64e-f3cd-536b-8954-efe2ea9b020c
+DESCRIPTION:https://www.la-breche.fun/events/03-12-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:mardi 12 . 08  Hors-programme : impro Afterwork — La Brèche
 DTSTART;VALUE=DATE:20261208
 UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
 DESCRIPTION:https://www.la-breche.fun/events/08-12-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RITMO — La Gravière
-DTSTART;VALUE=DATE:20261024
-UID:891a45c9-345e-562f-a11c-18972e5f279b
-DESCRIPTION:https://lagraviere.ch/evenement/ritmo-44/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LE CABARET B.E.T. — La Gravière
@@ -1471,13 +1441,6 @@ DTSTART;VALUE=DATE:20261127
 UID:66e9ac0a-abb4-513d-b48d-af0d1b05b137
 DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jet­Lag Gang reggaeton y perreo — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261024
-UID:2a6b703f-8b1c-5e63-a65d-04382b776466
-DESCRIPTION:https://ptrnet.ch/evenement/jetlag-gang/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Suf­fo­ca­tion [US] Death metal Ingested [UK] Death metal / Dea
