@@ -460,6 +460,14 @@ DESCRIPTION:https://www.leromandie.ch/event/vulves-assassines-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:4311 Take Ovah X Fleurs de Pavé — Le Romandie
+DTSTART;VALUE=DATE:20261113
+UID:a559cd1b-b4d7-5c2e-b82c-cb5c2579146a
+DESCRIPTION:https://www.leromandie.ch/event/4311-take-ovah-x-fleurs-de-pav
+ e
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KALIKA (FR) + FANCY DOLCY (FR) — Le Romandie
 DTSTART;VALUE=DATE:20261114
 UID:ed3fc30f-1d00-5c7b-8c8c-a55a2352039f
@@ -488,6 +496,13 @@ DESCRIPTION:https://www.leromandie.ch/event/superpoze-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:On Stage : Namir + Faustine — Le Romandie
+DTSTART;VALUE=DATE:20261126
+UID:3b935266-82bc-5cb4-89a1-16fef5e8e6cb
+DESCRIPTION:https://www.leromandie.ch/event/on-stage-namir-faustine
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ASHEN (FR) + ALCHEMISTS (VERNISSAGE\, CH) + FALLEN SKIES (CH) — 
  Le Romandie
 DTSTART;VALUE=DATE:20261127
@@ -506,10 +521,10 @@ DESCRIPTION:https://www.leromandie.ch/event/theo-juice-and-the-sexy-music-
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HUMUS & WINE : FÖLLAKZOID (CL) + SUPPORT + DEGUSTATION : CATHERIN
- E CRUCHON (CH) — Le Romandie
+SUMMARY:HUMUS & WINE : FÖLLAKZOID (CL) + COCON JAVEL (CH) + DEGUSTATION :
+  CATHERINE CRUCHON (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261210
-UID:692be587-822a-58c4-acf9-3ca494f5b133
+UID:6f18c010-7152-5014-91d3-5886b57cf332
 DESCRIPTION:https://www.leromandie.ch/event/humus-wine-follakzoid-cl-suppo
  rt-degustation-catherine-cruchon-ch
 LOCATION:Le Romandie\, Lausanne
@@ -704,6 +719,13 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Le b2b de Vintage Franky — Folklor
+DTSTART;VALUE=DATE:20261105
+UID:f0a8e66d-1cfc-52fb-baf6-3b992b2f2136
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:After Zirkuz — Folklor
 DTSTART;VALUE=DATE:20261106
 UID:e4da8fe5-c11a-594c-8eb4-224d9c0df480
@@ -714,6 +736,13 @@ BEGIN:VEVENT
 SUMMARY:APRH x After Zirkuz — Folklor
 DTSTART;VALUE=DATE:20261107
 UID:564bd919-fd4c-5f65-8fad-38ba0669d7b5
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Studio — Folklor
+DTSTART;VALUE=DATE:20261112
+UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -744,14 +773,6 @@ DTSTART;VALUE=DATE:20261121
 UID:f7ce80ba-8d20-5f0a-aa58-1b35c219ae30
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kizomba Urbankiz Retirer un terme : Dance  Dance — Les Citrons M
- asqués
-DTSTART;VALUE=DATE:20261025
-UID:6dde5133-a9e5-5227-ac1f-7e92b013b006
-DESCRIPTION:https://citronsmasques.ch/events/kizomba-urbankiz/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Patrik Jansson Band (Sw) Blues heavy Funky Groove — Les Citrons 
@@ -1417,6 +1438,20 @@ SUMMARY:HIP HOP LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261113
 UID:feddbae3-7cdb-5388-b633-22132b0bc177
 DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-20/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FILMAR x LA GRAVIÈRE : LIVE! — La Gravière
+DTSTART;VALUE=DATE:20261114
+UID:95d23d0e-4c08-5d9b-a4de-a0aaa188eb20
+DESCRIPTION:https://lagraviere.ch/evenement/filmar-x-la-graviere-live/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FILMAR x LA GRAVIÈRE : CLUB — La Gravière
+DTSTART;VALUE=DATE:20261114
+UID:c9ddbf43-3cf5-5155-94f3-df9933ff8e31
+DESCRIPTION:https://lagraviere.ch/evenement/filmar-x-la-graviere-club/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
