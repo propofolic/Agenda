@@ -59,9 +59,9 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NNAVY05.11.2026vernissage — Docks
+SUMMARY:NNAVY+ Motema05.11.2026vernissage — Docks
 DTSTART;VALUE=DATE:20261105
-UID:54cb3961-1a80-56a8-92fd-ff602f9d0da9
+UID:9f9e5c6a-8470-5139-b212-ace68616251b
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261105/nnavy-2/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -333,9 +333,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270317/isaac-delusio
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KMFDM+ I Ya Toyah18.03.2027 — Docks
+SUMMARY:KMFDM+ Jesus On Extasy18.03.2027 — Docks
 DTSTART;VALUE=DATE:20270318
-UID:88442099-051c-5885-9a4d-fd3116d64091
+UID:1fe42f19-4cba-51e7-91c5-60af299171ee
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270318/kmfdm/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -512,10 +512,10 @@ DESCRIPTION:https://www.leromandie.ch/event/ashen-fr-alchemists-vernissage
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:THÉO JUICE AND THE SEXY MUSIC LIVE BAND (FR) + SUPPORT — Le Rom
- andie
+SUMMARY:THÉO JUICE AND THE SEXY MUSIC LIVE BAND (FR) + 7ÈME CIEL (CH) 
+ — Le Romandie
 DTSTART;VALUE=DATE:20261203
-UID:6a089545-35f4-5da1-b038-2c229ee3449d
+UID:6f7a50db-388c-5681-9a69-c4cc636b25b2
 DESCRIPTION:https://www.leromandie.ch/event/theo-juice-and-the-sexy-music-
  live-band-fr-support
 LOCATION:Le Romandie\, Lausanne
@@ -768,9 +768,23 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Folklor 10 YEARS — Folklor
+SUMMARY:Folklor’s 10th Anniversary — Folklor
 DTSTART;VALUE=DATE:20261121
-UID:f7ce80ba-8d20-5f0a-aa58-1b35c219ae30
+UID:c3fb76ad-804d-5fdb-9e38-058cedabe5e2
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:unBOXing — Folklor
+DTSTART;VALUE=DATE:20261126
+UID:b0c20cd7-139d-553f-8c62-4a01ca449f9f
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Techno Rituals — Folklor
+DTSTART;VALUE=DATE:20261127
+UID:29f6c94f-f15d-53f0-aa61-a5fc0dca39f2
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -893,9 +907,10 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portobello Citrons Market Brocante — Les Citrons Masqués
+SUMMARY:Portobello Citrons Market/Fenêtre de l’avant Expo/brocante — 
+ Les Citrons Masqués
 DTSTART;VALUE=DATE:20261222
-UID:356796d4-5b77-5fa8-9a7d-5dfdbc364336
+UID:57482850-0e9a-59f4-96dd-ca9629a19188
 DESCRIPTION:https://citronsmasques.ch/events/portobello-citrons-market/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
@@ -1112,13 +1127,6 @@ DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drink&Draw — Le Bout du Monde
-DTSTART;VALUE=DATE:20261027
-UID:f6bd49fe-e44b-591e-b72c-a60dbae59a4a
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-13/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ludd Lewis — Le Bout du Monde
 DTSTART;VALUE=DATE:20261029
 UID:f3f1c87e-77f7-556c-85f1-8620e5c365d7
@@ -1322,13 +1330,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:mardi 10 . 27  Hors-programme : impro Afterwork — La Brèche
-DTSTART;VALUE=DATE:20261027
-UID:ac9dc04f-f65b-59e7-bc1d-de094d9bcba1
-DESCRIPTION:https://www.la-breche.fun/events/27-10-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:samedi 10 . 31  Le gros Chaudron magique de la terrifiante soirée
   d'Halloween (déguisé) Saeko Killy Dany Henry Kiko Ono — La Brèche
 DTSTART;VALUE=DATE:20261031
@@ -1388,6 +1389,13 @@ SUMMARY:mardi 12 . 08  Hors-programme : impro Afterwork — La Brèche
 DTSTART;VALUE=DATE:20261208
 UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
 DESCRIPTION:https://www.la-breche.fun/events/08-12-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:jeudi 12 . 17  Great Area Junge Eko — La Brèche
+DTSTART;VALUE=DATE:20261217
+UID:fd731234-3b0b-5249-acc9-b632d5a372ba
+DESCRIPTION:https://www.la-breche.fun/events/17-12-26
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1471,20 +1479,18 @@ DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-x-les-creatives-2
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CLUB LES CRÉATIVES x RITMO — La Gravière
+DTSTART;VALUE=DATE:20261121
+UID:755f2435-050a-531e-9fa2-31b5ec4ab6e5
+DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LIVE! x LES CRÉATIVES — La Gravière
 DTSTART;VALUE=DATE:20261127
 UID:66e9ac0a-abb4-513d-b48d-af0d1b05b137
 DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suf­fo­ca­tion [US] Death metal Ingested [UK] Death metal / Dea
- thcore Undeath [US] Death metal Eternal [US] Death metal — Post Tenebras
-  Rock
-DTSTART;VALUE=DATE:20261027
-UID:0b9b48ab-49eb-51dd-9305-0f1a1808bbf1
-DESCRIPTION:https://ptrnet.ch/evenement/suffocation-eu-tour/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DIRTY THREE [AUS] Indie rock Antigel Extra — Post Tenebras Rock
