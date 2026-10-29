@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghinzu28.10.2026 - Completsans première partie — Docks
-DTSTART;VALUE=DATE:20261028
-UID:0c1ce4b5-dbbe-51dc-b592-d85208abef3b
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261028/ghinzu/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Michelle Gurevich+ Ronley Teper29.10.2026Unique date suisse — Do
  cks
 DTSTART;VALUE=DATE:20261029
@@ -789,175 +782,6 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Patrik Jansson Band (Sw) Blues heavy Funky Groove — Les Citrons 
- Masqués
-DTSTART;VALUE=DATE:20261030
-UID:eafbe692-4cc2-5553-8f9c-fb4511a3bcea
-DESCRIPTION:https://citronsmasques.ch/events/patrik-jansson-band-sw-guest/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cookie The Herbalist & Bugum Reggae/Roots — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261106
-UID:a1e36d2f-c8ce-5b42-9fd0-ef826ed54d9d
-DESCRIPTION:https://citronsmasques.ch/events/cookie-the-herbalist-bugum/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Begin Techno Party Techno — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261107
-UID:311de2ca-6177-5052-b611-ef16dff71cd2
-DESCRIPTION:https://citronsmasques.ch/events/the-begin-techno-party/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Der Šenster Gob Folk balkanique — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261113
-UID:da1140f7-417a-5f4e-bf9f-50733b0a44ed
-DESCRIPTION:https://citronsmasques.ch/events/der-senster-gob/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MELROSE « Le rock rencontre le flamenco » — Les Citrons Masqu
- és
-DTSTART;VALUE=DATE:20261114
-UID:ed2c9398-371c-5356-9751-0678c39625a3
-DESCRIPTION:https://citronsmasques.ch/events/melrose/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOVAJAM Latin Jazz — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261120
-UID:8474b430-531f-5928-b95d-15d2711d24a4
-DESCRIPTION:https://citronsmasques.ch/events/novajam/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Old Salt Company & Rhumlake Live Pirate Music — Les Citrons 
- Masqués
-DTSTART;VALUE=DATE:20261121
-UID:5b9be315-dd47-5c25-ab6c-05025725fb8a
-DESCRIPTION:https://citronsmasques.ch/events/the-old-salt-company/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KWOON Post Rock — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261127
-UID:4679638a-6b5c-564e-acc1-853c691898f4
-DESCRIPTION:https://citronsmasques.ch/events/kwoon/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feel Floyd Tribute Pink Floyd — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261128
-UID:aa2aee34-9ebb-5291-bebe-7b5ea5723ec3
-DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:l’Alchimie du Rire Comedy club Stand up — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261203
-UID:60ebe44c-cf58-54e8-8533-5152e23e060f
-DESCRIPTION:https://citronsmasques.ch/events/lalchimie-du-rire-comedy-club
- -stand-up/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brothers on the run//Verron Country folk rock — Les Citrons Masq
- ués
-DTSTART;VALUE=DATE:20261204
-UID:6e3f0805-c7d7-5fe7-b2f2-76cf7d05a0fc
-DESCRIPTION:https://citronsmasques.ch/events/brothers-on-the-run-verron/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zouk & Kompa Dance — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261205
-UID:11e35b9e-e56d-5110-8141-a6ceb60800e8
-DESCRIPTION:https://citronsmasques.ch/events/zouk-kompa-2/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Psarades Folk balkanique — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261211
-UID:c77b74da-86c8-5bae-a4a5-ad0f7175b549
-DESCRIPTION:https://citronsmasques.ch/events/psarades/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEWLY & Guest Heavy Rock blues — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261212
-UID:e3762bde-56cb-5584-94b7-ddc6cd9d2edb
-DESCRIPTION:https://citronsmasques.ch/events/jewly-f/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOVAJAM Jazz standars — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261218
-UID:f1626690-5b56-529e-869e-18cbe11e4b0d
-DESCRIPTION:https://citronsmasques.ch/events/novajam-2/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lord Bishop Rocks// DÏRT BÖUND Hendrixian Motör Funk — Les Ci
- trons Masqués
-DTSTART;VALUE=DATE:20261219
-UID:b0ce27e4-02de-5271-a2f7-2a938df4c955
-DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portobello Citrons Market/Fenêtre de l’avant Expo/brocante — 
- Les Citrons Masqués
-DTSTART;VALUE=DATE:20261222
-UID:57482850-0e9a-59f4-96dd-ca9629a19188
-DESCRIPTION:https://citronsmasques.ch/events/portobello-citrons-market/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Portobello Citrons Market Brocante — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261223
-UID:356c515b-595a-551c-a543-9b156f72fff0
-DESCRIPTION:https://citronsmasques.ch/events/portobello-citrons-market-2/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sounds Of Queen Tribute Queen — Les Citrons Masqués
-DTSTART;VALUE=DATE:20270109
-UID:43e642bb-c32e-584b-8acf-e34da56a0f7a
-DESCRIPTION:https://citronsmasques.ch/events/lords-of-queen/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:B sharp(B#) & Sounds Like Rabbits Rock — Les Citrons Masqués
-DTSTART;VALUE=DATE:20270116
-UID:d7411ebc-d943-5859-bbad-76038ac2e005
-DESCRIPTION:https://citronsmasques.ch/events/b-sharpb-sounds-like-rabbits/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZOUK & KOMPA La mensuelle — Les Citrons Masqués
-DTSTART;VALUE=DATE:20270123
-UID:46f86d3e-3dc5-5937-bb3b-a129c67fe472
-DESCRIPTION:https://citronsmasques.ch/events/zouk-kompa/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech to Hard tech Techno / Hard techno — Les Citrons Masqués
-DTSTART;VALUE=DATE:20270129
-UID:da0965a1-a91a-5aff-86ec-9d782ea442b6
-DESCRIPTION:https://citronsmasques.ch/events/tech-to-hard-tech/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karaoke « Djette’s Angel around Venus » — Les Citrons Masqu
- és
-DTSTART;VALUE=DATE:20270130
-UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
-DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HEC HALLOWEEN Mr W. — D! Club
 DTSTART;VALUE=DATE:20261029
 UID:324f195e-e070-5ee3-8ddf-f3d5e8c37b97
@@ -1287,6 +1111,13 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/05-12-26-charlelie-couture
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GHOSTFACE KILLAH — Le Rez-Usine
+DTSTART;VALUE=DATE:20261217
+UID:c2a4d10a-ae64-5b45-882c-08f8366784fb
+DESCRIPTION:https://rez-usine.ch/portfolio-item/17-12-26-ghostface-killah/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GOULAMAS’K + 8°6 CREW + SKARFACE + SIXYKA — Le Rez-Usine
 DTSTART;VALUE=DATE:20270129
 UID:eee4ac25-c7f2-52bc-a726-594af4f98b4f
@@ -1493,13 +1324,6 @@ DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DIRTY THREE [AUS] Indie rock Antigel Extra — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261028
-UID:4d820d91-cbcb-5bf3-b8bf-e3de58707744
-DESCRIPTION:https://ptrnet.ch/evenement/dirty-three/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sheer Ter­ror (US)\, Tear Up (UK) & more Sheer Terror [US] punk 
  hardcore Tear Up [UK] street punk oï Panik Ltdc [FR] punk The Rots [CH] p
  unk — Post Tenebras Rock
@@ -1613,6 +1437,13 @@ DESCRIPTION:https://ptrnet.ch/evenement/chat-pile/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Peaches [CA] Electroclash x Les Créatives — Post Tenebras Rock
+DTSTART;VALUE=DATE:20270223
+UID:037de0be-a25f-5136-b1ca-a0dae8aa25db
+DESCRIPTION:https://ptrnet.ch/evenement/peaches/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PROMETHEE – Fare­well show ! — Post Tenebras Rock
 DTSTART;VALUE=DATE:20270313
 UID:7d4df293-9a90-5f11-b0e7-e3b130209ddb
@@ -1624,6 +1455,14 @@ SUMMARY:Jean­Jass [Belgique] Rap x TCO — Post Tenebras Rock
 DTSTART;VALUE=DATE:20270320
 UID:e6a3b1a0-d53e-5f46-b31c-97fa8c22421f
 DESCRIPTION:https://ptrnet.ch/evenement/jeanjass/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kalash Cri­mi­nel [FR] Rap hardcore / Trap / Drill x TCO Prod 
+ — Post Tenebras Rock
+DTSTART;VALUE=DATE:20270403
+UID:138ce9bb-a4c7-5d12-8fd3-9a7d745e30b5
+DESCRIPTION:https://ptrnet.ch/evenement/kalash-criminel/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 END:VCALENDAR
