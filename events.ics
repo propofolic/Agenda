@@ -415,13 +415,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Méchant Bal - Promo 2026 — Le Romandie
-DTSTART;VALUE=DATE:20261031
-UID:a80a7fdc-d8fe-5956-b9d0-bc58d5a3bf6b
-DESCRIPTION:https://www.leromandie.ch/event/grand-mechant-bal-promo-2026
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UTOPIA X NOT LIKE US — Le Romandie
 DTSTART;VALUE=DATE:20261106
 UID:1d5a380c-23cf-5cc5-a7d2-5e9ce4508642
@@ -586,6 +579,13 @@ DESCRIPTION:https://www.leromandie.ch/event/slift-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grand Méchant Bal - Promo 2026 — Le Romandie
+DTSTART;VALUE=DATE:20261031
+UID:a80a7fdc-d8fe-5956-b9d0-bc58d5a3bf6b
+DESCRIPTION:https://www.leromandie.ch/event/grand-mechant-bal-promo-2026
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Y2K NIGHT AVEC CARTON JAUNE CHARMED EDITION — Le Romandie
 DTSTART;VALUE=DATE:20261030
 UID:c82c924e-ad3c-50fe-8db1-3bc94acf3551
@@ -661,15 +661,6 @@ SUMMARY:MARIA JOSÉ LLERGO (ES) + LÉA MARTINEZ (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261001
 UID:1865fdb5-6a62-56ac-b9a7-24e95ad30181
 DESCRIPTION:https://www.leromandie.ch/event/maria-jose-llergo-es-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RINSE FM PRÉSENTE : TEKI LATEX (FR) + LE BEAU BIZARRE B2B MUGABO 
- (CH) + MAYUNGOS (CH) — Le Romandie
-DTSTART;VALUE=DATE:20260926
-UID:b2c6f096-00ac-5043-9287-8f8566716828
-DESCRIPTION:https://www.leromandie.ch/event/rinse-fm-presente-teki-latex-f
- r-le-beau-bizarre-b2b-mugabo-ch-mayungos-ch
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -762,14 +753,6 @@ DTSTART;VALUE=DATE:20261127
 UID:29f6c94f-f15d-53f0-aa61-a5fc0dca39f2
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Patrik Jansson Band (Sw) Blues heavy Funky Groove — Les Citrons 
- Masqués
-DTSTART;VALUE=DATE:20261030
-UID:eafbe692-4cc2-5553-8f9c-fb4511a3bcea
-DESCRIPTION:https://citronsmasques.ch/events/patrik-jansson-band-sw-guest/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cookie The Herbalist & Bugum Reggae/Roots — Les Citrons Masqués
@@ -933,21 +916,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Technoween Ben Klock Kink Live Djerry C Ricciø — D! Club
-DTSTART;VALUE=DATE:20261030
-UID:82aff2d2-9212-5870-ae08-0dcb33a3340c
-DESCRIPTION:https://dclub.ch/agenda/20261030/ben-klock#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:D! Club 30 th Anniversary : URBAN TROPICAL CLS Game On DJ Kill (CH
- ) Drimatik Kame Mathematic — D! Club
-DTSTART;VALUE=DATE:20261031
-UID:de108549-127b-5257-b9c1-666d39e99267
-DESCRIPTION:https://dclub.ch/agenda/20261031/cls#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:STORMY EHL DJ’S (CH) — D! Club
 DTSTART;VALUE=DATE:20261104
 UID:0d48f538-79a2-5916-ad6d-81e752b1ed43
@@ -1093,13 +1061,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Basic Partner — Le Bout du Monde
-DTSTART;VALUE=DATE:20261031
-UID:c30f9ac2-0a35-532d-b128-0fea1c8d73db
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/basic-partner/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Blagouille — Le Bout du Monde
@@ -1306,14 +1267,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:samedi 10 . 31  Le gros Chaudron magique de la terrifiante soirée
-  d'Halloween (déguisé) Saeko Killy Dany Henry Kiko Ono — La Brèche
-DTSTART;VALUE=DATE:20261031
-UID:62bf1498-dfb5-5baa-866f-4bbf01e34739
-DESCRIPTION:https://www.la-breche.fun/events/31-10-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:jeudi 11 . 05  Coproduction avec Interstices : Festival de musique
  s pour piano et claviers Deliluh Parasite Jazz — La Brèche
 DTSTART;VALUE=DATE:20261105
@@ -1384,13 +1337,6 @@ DESCRIPTION:https://www.la-breche.fun/events/17-12-26
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:STALINGRAD SOUND SYSTEM — La Gravière
-DTSTART;VALUE=DATE:20261031
-UID:20ac40bd-cbd6-5fa8-9d03-b204d2cae42a
-DESCRIPTION:https://lagraviere.ch/evenement/stalingrad-sound-system/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LAKESIDE BASEMENT 6 YEARS ANNIVERSARY — La Gravière
 DTSTART;VALUE=DATE:20261106
 UID:8d2aca67-bfc5-56b4-ba25-11bfc57ccfd1
@@ -1455,14 +1401,6 @@ DTSTART;VALUE=DATE:20261127
 UID:66e9ac0a-abb4-513d-b48d-af0d1b05b137
 DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hal­lo­ween Psy­trance Par­ty by Liquid Dimensions Psytrance 
- — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261031
-UID:e248c23b-1120-5e0f-a239-04f48244e904
-DESCRIPTION:https://ptrnet.ch/evenement/halloween-by-liquid-dimensions/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday\,June [CH / ES] Solar Psych Glaascats [CH] rock alternatif 
