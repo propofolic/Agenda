@@ -2,24 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Agenda Concerts Romandie//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:EXPOSITION : La Dolce\, deux regards09.09.2026 - 01.11.2026VERNISS
- AGE LE MERCREDI 9 SEPTEMBRE À 18H30 — Docks
-DTSTART;VALUE=DATE:20260909
-UID:0de24634-5b32-5b77-986b-aa2e7e1c075f
-DESCRIPTION:https://www.docks.ch/evenement/expositions/20260909/exposition
- -la-dolce-deux-regards/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walk off the Earth+ Crash Adams01.11.2026Unique date suisse — Do
- cks
-DTSTART;VALUE=DATE:20261101
-UID:6700fc4f-4d2f-5bfd-8ef7-28357e04b5f3
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261101/walk-off-the-
- earth-2/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mike D 5D03.11.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261103
 UID:e21e8819-c9ff-57ef-a1a3-633617db523f
@@ -451,10 +433,20 @@ DESCRIPTION:https://www.leromandie.ch/event/etran-de-lair-ng-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAKNA (CH) + SUPPORT — Le Romandie
+SUMMARY:LAKNA (CH) + NOA FAITH (CH) + AFTERSHOW : SABRINA OBERLIN — Le R
+ omandie
 DTSTART;VALUE=DATE:20261120
-UID:b2cb1ccc-502e-5b02-be1a-6d33b3dfb14e
+UID:49dc3b62-2fcc-5d8d-9ad7-542d5acf9079
 DESCRIPTION:https://www.leromandie.ch/event/lakna-ch-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TIMELESS JOURNEY - "METAMORPHOSIS" (Season 1\, Chapter2) — Le Ro
+ mandie
+DTSTART;VALUE=DATE:20261121
+UID:95166841-e7bb-5bc8-bcae-c33675afcbf8
+DESCRIPTION:https://www.leromandie.ch/event/timeless-journey-metamorphosis
+ -season-1-chapter2
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -664,27 +656,6 @@ DESCRIPTION:https://www.leromandie.ch/event/maria-jose-llergo-es-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Collectif Murmure — Folklor
-DTSTART;VALUE=DATE:20261029
-UID:6d5c066d-761d-5c5c-b108-63860c688e92
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Electrorama — Folklor
-DTSTART;VALUE=DATE:20261030
-UID:d653ff43-efd2-57f2-865e-148f40696003
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:That’s all Folks x Halloween — Folklor
-DTSTART;VALUE=DATE:20261031
-UID:b95e2e66-33a4-5120-8f93-bdc4f51411d0
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le b2b de Vintage Franky — Folklor
 DTSTART;VALUE=DATE:20261105
 UID:f0a8e66d-1cfc-52fb-baf6-3b992b2f2136
@@ -751,6 +722,13 @@ BEGIN:VEVENT
 SUMMARY:Techno Rituals — Folklor
 DTSTART;VALUE=DATE:20261127
 UID:29f6c94f-f15d-53f0-aa61-a5fc0dca39f2
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Querelle — Folklor
+DTSTART;VALUE=DATE:20261128
+UID:5cce3d1f-b442-5f65-b288-b747f198ee5b
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -996,10 +974,11 @@ DESCRIPTION:https://dclub.ch/agenda/20261121/vincz-lee#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KEMUEL THURSDAY Kemuel — D! Club
+SUMMARY:CURIOUS BEATS Adriatique Read The News Enøs (afterlife\, ch) — 
+ D! Club
 DTSTART;VALUE=DATE:20261126
-UID:56dd4555-6b8e-558b-896b-780d0353a40d
-DESCRIPTION:https://dclub.ch/agenda/20261126/kemuel#abc
+UID:6b5df11e-7c32-522f-a9cd-6b0b782ff97d
+DESCRIPTION:https://dclub.ch/agenda/20261126/adriatique#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -1026,10 +1005,9 @@ DESCRIPTION:https://dclub.ch/agenda/20261203/camille-carron#abc-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPACE ODYSSEY Kölsch (DK) Einmusik (Einmusika\, DE) Alicia Hahn 
- — D! Club
+SUMMARY:SPACE ODYSSEY Kölsch (DK) Einmusik (Einmusika\, DE) — D! Club
 DTSTART;VALUE=DATE:20261204
-UID:e807c23b-00f5-5a59-b6e3-c80be32a62bc
+UID:56af40e5-6f19-583a-a8df-95fcda1b3cdd
 DESCRIPTION:https://dclub.ch/agenda/20261204/k%c3%b6lsch#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1292,11 +1270,11 @@ DESCRIPTION:https://www.la-breche.fun/events/19-11-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:samedi 11 . 21  Hors-programme : La Marmite a 10ans : «C’est la
-  fête !» La Marmite Les contes du Moulin à Paroles Tendinites House of 
- Perreo — La Brèche
+SUMMARY:samedi 11 . 21  Hors-programme : La Marmite a 10 ans : « C’est 
+ la fête ! » La Marmite Les contes du Moulin à Paroles Tendinites House 
+ of Perreo — La Brèche
 DTSTART;VALUE=DATE:20261121
-UID:57f82292-1bff-577c-ae40-facf0cb923f7
+UID:dd9c90af-6d6e-5939-ac43-a3fc9578f2ce
 DESCRIPTION:https://www.la-breche.fun/events/21-11-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
