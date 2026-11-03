@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Agenda Concerts Romandie//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Mike D 5D03.11.2026Unique date suisse — Docks
+SUMMARY:Mike D 5D+ Ngoc Lan (DJ Set)03.11.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261103
-UID:e21e8819-c9ff-57ef-a1a3-633617db523f
+UID:9d7da1a8-04dc-5946-aab3-e2459273f715
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261103/mike-d/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -571,6 +571,14 @@ DESCRIPTION:https://www.leromandie.ch/event/slift-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SUNDAY\, JUNE (CH) + CITRON CITRON (CH) — Le Romandie
+DTSTART;VALUE=DATE:20270401
+UID:08fee75e-da4d-53ba-9bd7-200f730572af
+DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
+ h
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grand Méchant Bal - Promo 2026 — Le Romandie
 DTSTART;VALUE=DATE:20261031
 UID:a80a7fdc-d8fe-5956-b9d0-bc58d5a3bf6b
@@ -747,9 +755,10 @@ DESCRIPTION:https://citronsmasques.ch/events/the-begin-techno-party/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Der Šenster Gob Folk balkanique — Les Citrons Masqués
+SUMMARY:Der Šenster Gob (CS) Folk balkanique (Apéro show) — Les Citron
+ s Masqués
 DTSTART;VALUE=DATE:20261113
-UID:da1140f7-417a-5f4e-bf9f-50733b0a44ed
+UID:fd86f58c-fbc3-5730-8bef-ab7bed425257
 DESCRIPTION:https://citronsmasques.ch/events/der-senster-gob/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
@@ -1202,6 +1211,13 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/19-12-26-get-out-planete-r
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DISCO DE NOËL — Le Rez-Usine
+DTSTART;VALUE=DATE:20261224
+UID:e69bd238-c97a-57dc-a82a-3645198956c6
+DESCRIPTION:https://rez-usine.ch/portfolio-item/24-12-26-disco-de-noel/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GOULAMAS’K + 8°6 CREW + SKARFACE + SIXYKA — Le Rez-Usine
 DTSTART;VALUE=DATE:20270129
 UID:eee4ac25-c7f2-52bc-a726-594af4f98b4f
@@ -1315,6 +1331,13 @@ DESCRIPTION:https://www.la-breche.fun/events/17-12-26
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20261105
+UID:4a798b19-00d4-5904-b124-89e814412777
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-94/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LAKESIDE BASEMENT 6 YEARS ANNIVERSARY — La Gravière
 DTSTART;VALUE=DATE:20261106
 UID:8d2aca67-bfc5-56b4-ba25-11bfc57ccfd1
@@ -1327,6 +1350,20 @@ SUMMARY:LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261107
 UID:84bd2d76-425c-592e-b77d-2c9974c1dc76
 DESCRIPTION:https://lagraviere.ch/evenement/live-13/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RITMO — La Gravière
+DTSTART;VALUE=DATE:20261107
+UID:f0aeded1-467c-5bf0-b665-f92bdeb957ac
+DESCRIPTION:https://lagraviere.ch/evenement/ritmo-45/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOCTAMBAR — La Gravière
+DTSTART;VALUE=DATE:20261112
+UID:6b897eaa-c87a-5a88-9b53-1f18e82a8c8d
+DESCRIPTION:https://lagraviere.ch/evenement/noctambar-95/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
