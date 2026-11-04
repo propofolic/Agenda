@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Agenda Concerts Romandie//mxm.dk//
 BEGIN:VEVENT
-SUMMARY:Mike D 5D+ Ngoc Lan (DJ Set)03.11.2026Unique date suisse — Docks
-DTSTART;VALUE=DATE:20261103
-UID:9d7da1a8-04dc-5946-aab3-e2459273f715
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261103/mike-d/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EXPOSITION: Ne pas pouvoir vivre sans!04.11.2026 - 19.12.2026VERNI
  SSAGE LE MERCREDI 4 NOVEMBRE À 18H30 — Docks
 DTSTART;VALUE=DATE:20261104
@@ -1021,6 +1014,21 @@ DESCRIPTION:https://dclub.ch/agenda/20261204/k%c3%b6lsch#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:KEMUEL THURSDAY Kemuel — D! Club
+DTSTART;VALUE=DATE:20261210
+UID:7844218f-f34a-55ec-a8a9-d9882e694440
+DESCRIPTION:https://dclub.ch/agenda/20261210/kemuel#abc
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HARD COEUR OMAKS Protokseed (FR) Sköne (FR) Rōse (CH) — D! Clu
+ b
+DTSTART;VALUE=DATE:20261211
+UID:9a42c9a7-d0d7-5e2b-9e83-0b4ec207d886
+DESCRIPTION:https://dclub.ch/agenda/20261211/omaks#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BAL DE NOEL Lucky G — D! Club
 DTSTART;VALUE=DATE:20261217
 UID:7e1e5a50-6459-5c1f-8167-430b6c000bc9
@@ -1317,6 +1325,22 @@ DESCRIPTION:https://www.la-breche.fun/events/03-12-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:vendredi 12 . 04  Hors-programme : Les Urbaines Daivu Manuel Franc
+ isco — La Brèche
+DTSTART;VALUE=DATE:20261204
+UID:2d0601e8-fbe2-5d98-9055-5a4317227daa
+DESCRIPTION:https://www.la-breche.fun/events/04-12-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:samedi 12 . 05  Hors-Programme : Les Urbaines egoseed Yoah — La 
+ Brèche
+DTSTART;VALUE=DATE:20261205
+UID:77ca5cee-78e6-5980-a031-71ee8176aecb
+DESCRIPTION:https://www.la-breche.fun/events/05-12-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:mardi 12 . 08  Hors-programme : impro Afterwork — La Brèche
 DTSTART;VALUE=DATE:20261208
 UID:095ba3b4-01f7-5bc9-b895-2895c4f013a5
@@ -1374,6 +1398,13 @@ DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-20/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:QLUB QIMERAS — La Gravière
+DTSTART;VALUE=DATE:20261113
+UID:b534b303-1a4c-5377-a783-5acf572dca40
+DESCRIPTION:https://lagraviere.ch/evenement/qlub-qimeras-2/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FILMAR x LA GRAVIÈRE : LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261114
 UID:95d23d0e-4c08-5d9b-a4de-a0aaa188eb20
@@ -1415,6 +1446,21 @@ SUMMARY:LIVE! x LES CRÉATIVES — La Gravière
 DTSTART;VALUE=DATE:20261127
 UID:66e9ac0a-abb4-513d-b48d-af0d1b05b137
 DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLUB LES CRÉATIVES x BIMINI — La Gravière
+DTSTART;VALUE=DATE:20261127
+UID:1e84e62c-e38c-5129-91c0-027b0c17761c
+DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-bimini/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLUB LES CRÉATIVES x RITMO x MEL V — La Gravière
+DTSTART;VALUE=DATE:20261128
+UID:74beac00-0c06-57fa-91ba-7b837cae8eeb
+DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo-x-m
+ el-v/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
