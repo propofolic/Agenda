@@ -845,10 +845,10 @@ DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portobello Citrons Market/Fenêtre de l’avant Expo/brocante — 
+SUMMARY:Portobello Citrons Market Fenêtre de l’avant Expo/brocante — 
  Les Citrons Masqués
 DTSTART;VALUE=DATE:20261222
-UID:57482850-0e9a-59f4-96dd-ca9629a19188
+UID:587fa53b-83b8-5ebf-b391-f92fe6e21a3a
 DESCRIPTION:https://citronsmasques.ch/events/portobello-citrons-market/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
@@ -894,13 +894,6 @@ DTSTART;VALUE=DATE:20270130
 UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
 DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STORMY EHL DJ’S (CH) — D! Club
-DTSTART;VALUE=DATE:20261104
-UID:0d48f538-79a2-5916-ad6d-81e752b1ed43
-DESCRIPTION:https://dclub.ch/agenda/20261104/ehl-djs#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NUIT DES GLOWBULES Lucky G — D! Club
@@ -1036,6 +1029,14 @@ DESCRIPTION:https://dclub.ch/agenda/20261217/lucky-g#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PLAYHARD Angerfist (NL) Nhū (CH) Deb McCormick (CH) Lawrena Rawle
+ en — D! Club
+DTSTART;VALUE=DATE:20261218
+UID:8a0bfd52-35dd-5746-b920-907b40a7be03
+DESCRIPTION:https://dclub.ch/agenda/20261218/angerfist#d-club
+LOCATION:D! Club\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FOR NOISE SPIRIT: LE DERNIER NOEL Dj Leclerc Lady Kaos — D! Club
 DTSTART;VALUE=DATE:20261225
 UID:2e8b11f1-e0f0-5332-bea6-7f8f45ec8b3b
@@ -1056,13 +1057,6 @@ DTSTART;VALUE=DATE:20270115
 UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
 DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Blagouille — Le Bout du Monde
-DTSTART;VALUE=DATE:20261104
-UID:c62d074c-7acd-59f2-9c7e-41b6d25cd03b
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/le-blagouille/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aurage — Le Bout du Monde
