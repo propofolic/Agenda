@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NNAVY+ Motema05.11.2026vernissage — Docks
-DTSTART;VALUE=DATE:20261105
-UID:9f9e5c6a-8470-5139-b212-ace68616251b
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261105/nnavy-2/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alela Diane+ The Hackles07.11.2026 — Docks
 DTSTART;VALUE=DATE:20261107
 UID:500a66ba-0264-58e1-a5de-8d20e6da0e33
@@ -60,10 +53,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261117/portugal-the-
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boy Harsher+ Choir Boy + Kontravoid18.11.2026Unique date suisse 
- — Docks
+SUMMARY:Boy Harsher+ Choir Boy + Kontravoid18.11.2026 - CompletUnique date
+  suisse — Docks
 DTSTART;VALUE=DATE:20261118
-UID:d8418bd2-e760-5fc5-88c8-15dfa3cf1dfb
+UID:021f8bf7-8ecb-52fb-8667-b8a1d98c482c
 DESCRIPTION:https://www.docks.ch/evenement/evenements/20261118/boy-harsher
  -2/
 LOCATION:Docks\, Lausanne
@@ -657,13 +650,6 @@ DESCRIPTION:https://www.leromandie.ch/event/maria-jose-llergo-es-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le b2b de Vintage Franky — Folklor
-DTSTART;VALUE=DATE:20261105
-UID:f0a8e66d-1cfc-52fb-baf6-3b992b2f2136
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:After Zirkuz — Folklor
 DTSTART;VALUE=DATE:20261106
 UID:e4da8fe5-c11a-594c-8eb4-224d9c0df480
@@ -896,13 +882,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NUIT DES GLOWBULES Lucky G — D! Club
-DTSTART;VALUE=DATE:20261105
-UID:fdd9a052-6c7c-562e-bcc8-085b9be3f9e0
-DESCRIPTION:https://dclub.ch/agenda/20261105/lucky-g#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PAPA SVEN Sven Väth (Cocoon\, DE) Tal Fussman (DE) Salvatore fred
  a — D! Club
 DTSTART;VALUE=DATE:20261106
@@ -1059,13 +1038,6 @@ DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aurage — Le Bout du Monde
-DTSTART;VALUE=DATE:20261105
-UID:038f1f5e-1a0e-5c7a-a079-c2d2307702ee
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/aurage/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:L’Empire du Rire — Le Bout du Monde
 DTSTART;VALUE=DATE:20261109
 UID:71237f15-11cb-50c2-9f98-afc119192f2a
@@ -1144,13 +1116,6 @@ DTSTART;VALUE=DATE:20261129
 UID:e009a5a7-7fe0-5060-9d3f-8a466f9ef678
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-20/
 LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA P’TITE FUMÉE — Le Rez-Usine
-DTSTART;VALUE=DATE:20261105
-UID:49f87ef3-2fbe-53c2-a5de-92d3f7c3b484
-DESCRIPTION:https://rez-usine.ch/portfolio-item/05-11-26-la-ptite-fumee/
-LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SYD MATTERS + BLUMI — Le Rez-Usine
@@ -1263,14 +1228,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:jeudi 11 . 05  Coproduction avec Interstices : Festival de musique
- s pour piano et claviers Deliluh Parasite Jazz — La Brèche
-DTSTART;VALUE=DATE:20261105
-UID:7cdf9fbc-180e-5a3f-b0b9-2877590e5020
-DESCRIPTION:https://www.la-breche.fun/events/05-11-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:mercredi 11 . 11  Radwan Ghazi Moumneh & Frédéric D. Oberland Bo
  cca Lupa — La Brèche
 DTSTART;VALUE=DATE:20261111
@@ -1347,13 +1304,6 @@ DTSTART;VALUE=DATE:20261217
 UID:fd731234-3b0b-5249-acc9-b632d5a372ba
 DESCRIPTION:https://www.la-breche.fun/events/17-12-26
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20261105
-UID:4a798b19-00d4-5904-b124-89e814412777
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-94/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LAKESIDE BASEMENT 6 YEARS ANNIVERSARY — La Gravière
