@@ -383,13 +383,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UTOPIA X NOT LIKE US — Le Romandie
-DTSTART;VALUE=DATE:20261106
-UID:1d5a380c-23cf-5cc5-a7d2-5e9ce4508642
-DESCRIPTION:https://www.leromandie.ch/event/utopia-x-not-like-us
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VULVES ASSASSINES (FR) + YASOU (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261112
 UID:087df194-af99-5db9-b647-42bab61194b3
@@ -565,6 +558,13 @@ DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UTOPIA X NOT LIKE US — Le Romandie
+DTSTART;VALUE=DATE:20261106
+UID:1d5a380c-23cf-5cc5-a7d2-5e9ce4508642
+DESCRIPTION:https://www.leromandie.ch/event/utopia-x-not-like-us
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grand Méchant Bal - Promo 2026 — Le Romandie
 DTSTART;VALUE=DATE:20261031
 UID:a80a7fdc-d8fe-5956-b9d0-bc58d5a3bf6b
@@ -640,13 +640,6 @@ SUMMARY:L O V E  P O P  L A T E X — Le Romandie
 DTSTART;VALUE=DATE:20261002
 UID:04c97885-0f69-5403-9fa5-15e3fc11e774
 DESCRIPTION:https://www.leromandie.ch/event/l-o-v-e-p-o-p-l-a-t-e-x
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MARIA JOSÉ LLERGO (ES) + LÉA MARTINEZ (CH) — Le Romandie
-DTSTART;VALUE=DATE:20261001
-UID:1865fdb5-6a62-56ac-b9a7-24e95ad30181
-DESCRIPTION:https://www.leromandie.ch/event/maria-jose-llergo-es-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -882,14 +875,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAPA SVEN Sven Väth (Cocoon\, DE) Tal Fussman (DE) Salvatore fred
- a — D! Club
-DTSTART;VALUE=DATE:20261106
-UID:ae7881d8-412f-5f70-b410-27590e7b78ff
-DESCRIPTION:https://dclub.ch/agenda/20261106/sven-v%c3%a4th#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PULL UP Lil Kev Wild Pich EMTY — D! Club
 DTSTART;VALUE=DATE:20261107
 UID:0e9f5ccf-d875-5a78-b309-d06cb31ebd92
@@ -897,9 +882,9 @@ DESCRIPTION:https://dclub.ch/agenda/20261107/lil-kev#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOUS LE VENT – SPI LAUSANNE (epfl) Lucky G — D! Club
+SUMMARY:SOUS LE VENT SPI LAUSANNE (epfl) Lucky G — D! Club
 DTSTART;VALUE=DATE:20261111
-UID:4f8cf83f-44e7-53fe-b487-eea177686f51
+UID:c3f0f5d9-254b-5192-9725-c99ec3edc842
 DESCRIPTION:https://dclub.ch/agenda/20261111/lucky-g#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -979,9 +964,10 @@ DESCRIPTION:https://dclub.ch/agenda/20261203/camille-carron#abc-live
 LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPACE ODYSSEY Kölsch (DK) Einmusik (Einmusika\, DE) — D! Club
+SUMMARY:SPACE ODYSSEY Kölsch (DK) Einmusik (Einmusika\, DE) Alicia Hahn 
+ — D! Club
 DTSTART;VALUE=DATE:20261204
-UID:56af40e5-6f19-583a-a8df-95fcda1b3cdd
+UID:e807c23b-00f5-5a59-b6e3-c80be32a62bc
 DESCRIPTION:https://dclub.ch/agenda/20261204/k%c3%b6lsch#d-club
 LOCATION:D! Club\, Lausanne
 END:VEVENT
@@ -1304,14 +1290,6 @@ DTSTART;VALUE=DATE:20261217
 UID:fd731234-3b0b-5249-acc9-b632d5a372ba
 DESCRIPTION:https://www.la-breche.fun/events/17-12-26
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAKESIDE BASEMENT 6 YEARS ANNIVERSARY — La Gravière
-DTSTART;VALUE=DATE:20261106
-UID:8d2aca67-bfc5-56b4-ba25-11bfc57ccfd1
-DESCRIPTION:https://lagraviere.ch/evenement/lakeside-basement-6-years-anni
- versary/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIVE! — La Gravière
