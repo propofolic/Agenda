@@ -11,14 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alela Diane+ The Hackles07.11.2026 — Docks
-DTSTART;VALUE=DATE:20261107
-UID:500a66ba-0264-58e1-a5de-8d20e6da0e33
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261107/alela-diane-2
- /
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MICHAEL SCHENKER GROUP+ Grey Attack + Keops12.11.2026Unique date s
  uisse — Docks
 DTSTART;VALUE=DATE:20261112
@@ -643,20 +635,6 @@ DESCRIPTION:https://www.leromandie.ch/event/l-o-v-e-p-o-p-l-a-t-e-x
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:After Zirkuz — Folklor
-DTSTART;VALUE=DATE:20261106
-UID:e4da8fe5-c11a-594c-8eb4-224d9c0df480
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:APRH x After Zirkuz — Folklor
-DTSTART;VALUE=DATE:20261107
-UID:564bd919-fd4c-5f65-8fad-38ba0669d7b5
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Studio — Folklor
 DTSTART;VALUE=DATE:20261112
 UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
@@ -711,13 +689,6 @@ DTSTART;VALUE=DATE:20261128
 UID:5cce3d1f-b442-5f65-b288-b747f198ee5b
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cookie The Herbalist & Bugum Reggae/Roots — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261106
-UID:a1e36d2f-c8ce-5b42-9fd0-ef826ed54d9d
-DESCRIPTION:https://citronsmasques.ch/events/cookie-the-herbalist-bugum/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Begin Techno Party Techno — Les Citrons Masqués
@@ -1292,20 +1263,6 @@ DESCRIPTION:https://www.la-breche.fun/events/17-12-26
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LIVE! — La Gravière
-DTSTART;VALUE=DATE:20261107
-UID:84bd2d76-425c-592e-b77d-2c9974c1dc76
-DESCRIPTION:https://lagraviere.ch/evenement/live-13/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RITMO — La Gravière
-DTSTART;VALUE=DATE:20261107
-UID:f0aeded1-467c-5bf0-b665-f92bdeb957ac
-DESCRIPTION:https://lagraviere.ch/evenement/ritmo-45/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NOCTAMBAR — La Gravière
 DTSTART;VALUE=DATE:20261112
 UID:6b897eaa-c87a-5a88-9b53-1f18e82a8c8d
@@ -1384,14 +1341,6 @@ UID:74beac00-0c06-57fa-91ba-7b837cae8eeb
 DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo-x-m
  el-v/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunday\,June [CH / ES] Solar Psych Glaascats [CH] rock alternatif 
- — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261107
-UID:cc831ff1-229d-58ca-b293-771e630fc8bc
-DESCRIPTION:https://ptrnet.ch/evenement/sundayjune/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mur­phy’s Law [US] Hardcore Clobber [UK] Hardcore Punk Violenc
