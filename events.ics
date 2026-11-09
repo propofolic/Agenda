@@ -105,9 +105,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261204/lebanon-hanov
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paris Paloma+ Pixie McCann05.12.2026Unique date suisse — Docks
+SUMMARY:Paris Paloma+ Pixie McCann05.12.2026 - Derniers billetsUnique date
+  suisse — Docks
 DTSTART;VALUE=DATE:20261205
-UID:e72285f2-2029-5add-b407-1d79061f7dd4
+UID:afb58f7d-9f00-593e-9219-6eeea9f9d945
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261205/paris-paloma/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -141,11 +142,18 @@ DESCRIPTION:https://www.docks.ch/evenement/evenements/20261212/eluveitie-4
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sébastien Tellier13.12.2026 — Docks
+SUMMARY:Sébastien Tellier13.12.2026 - Derniers billets — Docks
 DTSTART;VALUE=DATE:20261213
-UID:ffa96a85-4c85-5456-abf7-ba1442ce292c
+UID:2d035b97-a331-590b-a17f-09b45ef0b523
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261213/sebastien-tel
  lier-2/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alex BreahnaProxima16.12.2026Concert dans le Café — Docks
+DTSTART;VALUE=DATE:20261216
+UID:de00ba50-0f64-5f07-8ac7-539a5fc3a748
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20261216/alex-breahna/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -691,13 +699,6 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Begin Techno Party Techno — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261107
-UID:311de2ca-6177-5052-b611-ef16dff71cd2
-DESCRIPTION:https://citronsmasques.ch/events/the-begin-techno-party/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Der Šenster Gob (CS) Folk balkanique (Apéro show) — Les Citron
  s Masqués
 DTSTART;VALUE=DATE:20261113
@@ -844,13 +845,6 @@ DTSTART;VALUE=DATE:20270130
 UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
 DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PULL UP Lil Kev Wild Pich EMTY — D! Club
-DTSTART;VALUE=DATE:20261107
-UID:0e9f5ccf-d875-5a78-b309-d06cb31ebd92
-DESCRIPTION:https://dclub.ch/agenda/20261107/lil-kev#d-club
-LOCATION:D! Club\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOUS LE VENT SPI LAUSANNE (epfl) Lucky G — D! Club
