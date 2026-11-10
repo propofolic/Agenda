@@ -452,6 +452,13 @@ DESCRIPTION:https://www.leromandie.ch/event/ashen-fr-alchemists-vernissage
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LE GRAND REMPLACEMENT — Le Romandie
+DTSTART;VALUE=DATE:20261128
+UID:b8bb4f82-2327-560b-9205-96511346d75d
+DESCRIPTION:https://www.leromandie.ch/event/le-grand-remplacement
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THÉO JUICE AND THE SEXY MUSIC LIVE BAND (FR) + 7ÈME CIEL (CH) 
  — Le Romandie
 DTSTART;VALUE=DATE:20261203
@@ -847,155 +854,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOUS LE VENT SPI LAUSANNE (epfl) Lucky G — D! Club
-DTSTART;VALUE=DATE:20261111
-UID:c3f0f5d9-254b-5192-9725-c99ec3edc842
-DESCRIPTION:https://dclub.ch/agenda/20261111/lucky-g#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE BAL DES AMBULANCIERS Lucky G — D! Club
-DTSTART;VALUE=DATE:20261112
-UID:84d21815-df7d-5a7f-8a52-305a3c142a78
-DESCRIPTION:https://dclub.ch/agenda/20261112/lucky-g#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Space Odyssey Jan Blomqvist (DE) Romain Garcia (FR) Julien Vertigo
-  (CH) — D! Club
-DTSTART;VALUE=DATE:20261113
-UID:b18ccbd7-ac16-5b91-acd9-c4c740638713
-DESCRIPTION:https://dclub.ch/agenda/20261113/jan-blomqvist#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OUPS The Jocker Dj Klash Dj Vidy — D! Club
-DTSTART;VALUE=DATE:20261114
-UID:872bf91a-98cd-5ff5-b9ba-85c4a0846a7c
-DESCRIPTION:https://dclub.ch/agenda/20261114/the-jocker#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HEC & AEDL PARTY Lucky G — D! Club
-DTSTART;VALUE=DATE:20261119
-UID:7bc8b5b0-ca5c-5b26-b623-4882dc451d46
-DESCRIPTION:https://dclub.ch/agenda/20261119/lucky-g#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPACE ODYSSEY NTO (FR) Joachim Pastor (FR) Djerry C — D! Club
-DTSTART;VALUE=DATE:20261120
-UID:07f5a064-0e61-566c-9cab-08148ea0c826
-DESCRIPTION:https://dclub.ch/agenda/20261120/nto#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DOWNTOWN BOOGIE BIRTHDAY Vincz Lee Kiff One Dj Klash Dj Rafal Dj V
- idy Grizzy Jiggy Jones — D! Club
-DTSTART;VALUE=DATE:20261121
-UID:422d83ad-dbec-52b7-8ebe-28eb4980ef70
-DESCRIPTION:https://dclub.ch/agenda/20261121/vincz-lee#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CURIOUS BEATS Adriatique Read The News Enøs (afterlife\, ch) — 
- D! Club
-DTSTART;VALUE=DATE:20261126
-UID:6b5df11e-7c32-522f-a9cd-6b0b782ff97d
-DESCRIPTION:https://dclub.ch/agenda/20261126/adriatique#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NIGHTMARE Vladimir Cauchemar Nhū (CH) Deb McCormick (CH) — D! C
- lub
-DTSTART;VALUE=DATE:20261127
-UID:9b4ef198-1f3a-541d-950d-b90451ccb726
-DESCRIPTION:https://dclub.ch/agenda/20261127/vladimir-cauchemar#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA TEMPERATURA Maximarcus Kemuel Nyo Rodriguez — D! Club
-DTSTART;VALUE=DATE:20261128
-UID:24b66c9a-f2d2-54fa-9c5b-9809fd735895
-DESCRIPTION:https://dclub.ch/agenda/20261128/maximarcus#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DROLE DE FEMMES Camille Carron Leila Chantal Micaela Delgado Tipan
-  Johannie Fort Aurélia Loriol Sarah Mottet — D! Club
-DTSTART;VALUE=DATE:20261203
-UID:c1253d66-bbda-5923-bddf-9d73c31f7872
-DESCRIPTION:https://dclub.ch/agenda/20261203/camille-carron#abc-live
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPACE ODYSSEY Kölsch (DK) Einmusik (Einmusika\, DE) Alicia Hahn 
- — D! Club
-DTSTART;VALUE=DATE:20261204
-UID:e807c23b-00f5-5a59-b6e3-c80be32a62bc
-DESCRIPTION:https://dclub.ch/agenda/20261204/k%c3%b6lsch#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KEMUEL THURSDAY Kemuel — D! Club
-DTSTART;VALUE=DATE:20261210
-UID:7844218f-f34a-55ec-a8a9-d9882e694440
-DESCRIPTION:https://dclub.ch/agenda/20261210/kemuel#abc
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HARD COEUR OMAKS Protokseed (FR) Sköne (FR) Rōse (CH) — D! Clu
- b
-DTSTART;VALUE=DATE:20261211
-UID:9a42c9a7-d0d7-5e2b-9e83-0b4ec207d886
-DESCRIPTION:https://dclub.ch/agenda/20261211/omaks#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAL DE NOEL Lucky G — D! Club
-DTSTART;VALUE=DATE:20261217
-UID:7e1e5a50-6459-5c1f-8167-430b6c000bc9
-DESCRIPTION:https://dclub.ch/agenda/20261217/lucky-g#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLAYHARD Angerfist (NL) Nhū (CH) Deb McCormick (CH) Lawrena Rawle
- en — D! Club
-DTSTART;VALUE=DATE:20261218
-UID:8a0bfd52-35dd-5746-b920-907b40a7be03
-DESCRIPTION:https://dclub.ch/agenda/20261218/angerfist#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOR NOISE SPIRIT: LE DERNIER NOEL Dj Leclerc Lady Kaos — D! Club
-DTSTART;VALUE=DATE:20261225
-UID:2e8b11f1-e0f0-5332-bea6-7f8f45ec8b3b
-DESCRIPTION:https://dclub.ch/agenda/20261225/dj-leclerc#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA TEMPERATURA Maximarcus Kemuel Dj RMZ (CH) Tonzer (CH) Rosanova 
- Nyo — D! Club
-DTSTART;VALUE=DATE:20261226
-UID:f0836fab-c77f-58fb-835f-5d7bf0ed8208
-DESCRIPTION:https://dclub.ch/agenda/20261226/maximarcus#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUBSET Wilkinson (UK) — D! Club
-DTSTART;VALUE=DATE:20270115
-UID:d350a751-e6c2-5262-a8ab-736817cd2a5f
-DESCRIPTION:https://dclub.ch/agenda/20270115/wilkinson#d-club
-LOCATION:D! Club\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’Empire du Rire — Le Bout du Monde
-DTSTART;VALUE=DATE:20261109
-UID:71237f15-11cb-50c2-9f98-afc119192f2a
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/lempire-du-rire-2/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drink&draw — Le Bout du Monde
 DTSTART;VALUE=DATE:20261110
 UID:9842491f-b7e4-526d-a205-aefbaadd8116
@@ -1337,14 +1195,6 @@ DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo-x-m
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mur­phy’s Law [US] Hardcore Clobber [UK] Hardcore Punk Violenc
- e Grise [CH] DIY Punk Rock — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261109
-UID:7fc2f9ce-84c2-5471-8de0-9f2122fe5f7b
-DESCRIPTION:https://ptrnet.ch/evenement/murphys-law/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sheer Mag [US] Rock’n’roll\, Punk\, Power Pop Alvilda [FR] Pun
  k / Power Pop Bandit Voyage [CH / GE] Retro Punk / Lo-fi Rock'n'roll x RSC
   — Post Tenebras Rock
@@ -1386,10 +1236,11 @@ DESCRIPTION:https://ptrnet.ch/evenement/nathalie-froehlich/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Ruins of Beverast [DE] Blackened doom metal Esoteric [UK] Fune
- ral doom Imha Tarikat [DE] Black metal — Post Tenebras Rock
+SUMMARY:Sacred Reich [US] Thrash metal The Ruins of Beverast [DE] Doom met
+ al Imha Tarikat [DE] Black metal Esoteric [UK] Doom metal — Post Tenebra
+ s Rock
 DTSTART;VALUE=DATE:20261202
-UID:b66eef8e-7857-53e4-a539-dfd5dcc2e18f
+UID:9b84c4ea-fdcf-5963-8d50-6eb93127982b
 DESCRIPTION:https://ptrnet.ch/evenement/the-ruins-of-beverast/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
