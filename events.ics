@@ -54,9 +54,9 @@ DESCRIPTION:https://www.docks.ch/evenement/evenements/20261118/boy-harsher
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Piche20.11.2026 — Docks
+SUMMARY:Piche+ Anetha Black20.11.2026 — Docks
 DTSTART;VALUE=DATE:20261120
-UID:9e55c2c0-3ce9-5177-ad6f-cf02cdfbaa8c
+UID:1a7e051a-be94-56b2-9793-a61dc74e548c
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261120/piche/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -412,10 +412,10 @@ DESCRIPTION:https://www.leromandie.ch/event/etran-de-lair-ng-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAKNA (CH) + NOA FAITH (CH) + AFTERSHOW : SABRINA OBERLIN — Le R
- omandie
+SUMMARY:LAKNA (VERNISSAGE\, CH) + NOA FAITH (CH) + AFTERSHOW : SABRINA OBE
+ RLIN — Le Romandie
 DTSTART;VALUE=DATE:20261120
-UID:49dc3b62-2fcc-5d8d-9ad7-542d5acf9079
+UID:98955cf8-e261-5d0a-842e-3f8004aba8a8
 DESCRIPTION:https://www.leromandie.ch/event/lakna-ch-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
@@ -854,13 +854,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drink&draw — Le Bout du Monde
-DTSTART;VALUE=DATE:20261110
-UID:9842491f-b7e4-526d-a205-aefbaadd8116
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/drinkdraw-14/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Festival du Bout du Monde – Jeudi – — Le Bout du Monde
 DTSTART;VALUE=DATE:20261112
 UID:0fa1c546-a19c-5418-bc7f-312112ba2fc6
@@ -1112,6 +1105,13 @@ SUMMARY:jeudi 12 . 17  Great Area Junge Eko — La Brèche
 DTSTART;VALUE=DATE:20261217
 UID:fd731234-3b0b-5249-acc9-b632d5a372ba
 DESCRIPTION:https://www.la-breche.fun/events/17-12-26
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:mercredi 01 . 20  Ivy Knight TBC — La Brèche
+DTSTART;VALUE=DATE:20260120
+UID:1bd9cf44-bc95-5762-998e-0641a75ae3d1
+DESCRIPTION:https://www.la-breche.fun/events/20-01-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
