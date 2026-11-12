@@ -285,9 +285,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270317/isaac-delusio
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KMFDM+ Jesus On Extasy18.03.2027 — Docks
+SUMMARY:KMFDM+ Lamashtu18.03.2027 — Docks
 DTSTART;VALUE=DATE:20270318
-UID:1fe42f19-4cba-51e7-91c5-60af299171ee
+UID:b4066dac-ea84-5969-afc9-a9f5a7cb9b0a
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270318/kmfdm/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -965,6 +965,14 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/05-12-26-charlelie-couture
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TURBOFOIRE 2000 : SOIRÉE DE SOUTIEN À L’USINE — Le Rez-Usine
+DTSTART;VALUE=DATE:20261211
+UID:7b9571a6-fa33-560f-8953-6b6387212c9f
+DESCRIPTION:https://rez-usine.ch/portfolio-item/11-12-26-turbofoire-2000-s
+ oiree-de-soutien-a-lusine/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GHOSTFACE KILLAH — Le Rez-Usine
 DTSTART;VALUE=DATE:20261217
 UID:c2a4d10a-ae64-5b45-882c-08f8366784fb
@@ -1028,14 +1036,6 @@ DTSTART;VALUE=DATE:20270416
 UID:f0b5a368-d11d-5402-9f04-d4ba1035cf22
 DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:mercredi 11 . 11  Radwan Ghazi Moumneh & Frédéric D. Oberland Bo
- cca Lupa — La Brèche
-DTSTART;VALUE=DATE:20261111
-UID:34aa87e2-a1a4-53d6-a3a6-d4576a2977f0
-DESCRIPTION:https://www.la-breche.fun/events/11-11-2026
-LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:jeudi 11 . 19  Hors-Programme : ManDRAGore ManDRAGore La Belladone
@@ -1302,6 +1302,20 @@ SUMMARY:Kalash Cri­mi­nel [FR] Rap hardcore / Trap / Drill x TCO Prod
 DTSTART;VALUE=DATE:20270403
 UID:138ce9bb-a4c7-5d12-8fd3-9a7d745e30b5
 DESCRIPTION:https://ptrnet.ch/evenement/kalash-criminel/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bird­Pen [UK] Pop rock — Post Tenebras Rock
+DTSTART;VALUE=DATE:20270522
+UID:1ccdfb66-f4b3-5467-b64c-2a86770f3f34
+DESCRIPTION:https://ptrnet.ch/evenement/birdpen/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neu­ro­sis [US] Post metal Alhambra — Post Tenebras Rock
+DTSTART;VALUE=DATE:20270621
+UID:9e0bc122-2547-569a-9048-07865edf6969
+DESCRIPTION:https://ptrnet.ch/evenement/neurosis/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 END:VCALENDAR
