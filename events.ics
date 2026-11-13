@@ -11,15 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MICHAEL SCHENKER GROUP+ Grey Attack + Keops12.11.2026Unique date s
- uisse — Docks
-DTSTART;VALUE=DATE:20261112
-UID:f3f24beb-cf27-53dc-9f7a-b86d01b3bc95
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261112/michael-schen
- ker-group/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Psychedelic Porn Crumpets+ GROS CŒUR + LICKING RAINBOWS13.11.2026
  Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261113
@@ -37,9 +28,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261114/wallace-cleav
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portugal. The Man17.11.2026 - Complet — Docks
+SUMMARY:Portugal. The Man+ Human Natures17.11.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20261117
-UID:568c45d6-9db9-5c3b-924a-6dbbeb527cb4
+UID:52fe1640-18da-5f49-8c5d-cc3ed6b792a1
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261117/portugal-the-
  man-2/
 LOCATION:Docks\, Lausanne
@@ -383,13 +374,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VULVES ASSASSINES (FR) + YASOU (CH) — Le Romandie
-DTSTART;VALUE=DATE:20261112
-UID:087df194-af99-5db9-b647-42bab61194b3
-DESCRIPTION:https://www.leromandie.ch/event/vulves-assassines-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:4311 Take Ovah X Fleurs de Pavé — Le Romandie
 DTSTART;VALUE=DATE:20261113
 UID:a559cd1b-b4d7-5c2e-b82c-cb5c2579146a
@@ -565,6 +549,13 @@ DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VULVES ASSASSINES (FR) + YASOU (CH) — Le Romandie
+DTSTART;VALUE=DATE:20261112
+UID:087df194-af99-5db9-b647-42bab61194b3
+DESCRIPTION:https://www.leromandie.ch/event/vulves-assassines-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UTOPIA X NOT LIKE US — Le Romandie
 DTSTART;VALUE=DATE:20261106
 UID:1d5a380c-23cf-5cc5-a7d2-5e9ce4508642
@@ -640,13 +631,6 @@ SUMMARY:DESERTGIRLZ (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20261003
 UID:d11759de-79c3-5a31-b312-a85d1c749993
 DESCRIPTION:https://www.leromandie.ch/event/desertgirlz-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L O V E  P O P  L A T E X — Le Romandie
-DTSTART;VALUE=DATE:20261002
-UID:04c97885-0f69-5403-9fa5-15e3fc11e774
-DESCRIPTION:https://www.leromandie.ch/event/l-o-v-e-p-o-p-l-a-t-e-x
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -852,14 +836,6 @@ DTSTART;VALUE=DATE:20270130
 UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
 DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festival du Bout du Monde – Jeudi – — Le Bout du Monde
-DTSTART;VALUE=DATE:20261112
-UID:0fa1c546-a19c-5418-bc7f-312112ba2fc6
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/festival-du-bout-du-mo
- nde-jeudi/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Festival du Bout du Monde – Vendredi – — Le Bout du Monde
@@ -1115,13 +1091,6 @@ DESCRIPTION:https://www.la-breche.fun/events/20-01-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NOCTAMBAR — La Gravière
-DTSTART;VALUE=DATE:20261112
-UID:6b897eaa-c87a-5a88-9b53-1f18e82a8c8d
-DESCRIPTION:https://lagraviere.ch/evenement/noctambar-95/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HIP HOP LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261113
 UID:feddbae3-7cdb-5388-b633-22132b0bc177
@@ -1193,15 +1162,6 @@ UID:74beac00-0c06-57fa-91ba-7b837cae8eeb
 DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo-x-m
  el-v/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sheer Mag [US] Rock’n’roll\, Punk\, Power Pop Alvilda [FR] Pun
- k / Power Pop Bandit Voyage [CH / GE] Retro Punk / Lo-fi Rock'n'roll x RSC
-  — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261112
-UID:9755b8ec-daae-54bb-82e4-5a464cb177cd
-DESCRIPTION:https://ptrnet.ch/evenement/sheer-mag/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shear­wa­ter [USA] Indie rock / psychedelic folk / folk rock Lom
