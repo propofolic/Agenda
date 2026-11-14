@@ -11,15 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Psychedelic Porn Crumpets+ GROS CŒUR + LICKING RAINBOWS13.11.2026
- Unique date suisse — Docks
-DTSTART;VALUE=DATE:20261113
-UID:0e7b617d-60bb-51e3-a867-9f5a594a31b3
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261113/psychedelic-p
- orn-crumpets/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wallace Cleaver+ Henri Bleu14.11.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261114
 UID:953c0f1d-f6f6-5ff8-9256-c481a521679a
@@ -374,14 +365,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:4311 Take Ovah X Fleurs de Pavé — Le Romandie
-DTSTART;VALUE=DATE:20261113
-UID:a559cd1b-b4d7-5c2e-b82c-cb5c2579146a
-DESCRIPTION:https://www.leromandie.ch/event/4311-take-ovah-x-fleurs-de-pav
- e
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KALIKA (FR) + FANCY DOLCY (FR) — Le Romandie
 DTSTART;VALUE=DATE:20261114
 UID:ed3fc30f-1d00-5c7b-8c8c-a55a2352039f
@@ -549,6 +532,14 @@ DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:4311 Take Ovah X Fleurs de Pavé — Le Romandie
+DTSTART;VALUE=DATE:20261113
+UID:a559cd1b-b4d7-5c2e-b82c-cb5c2579146a
+DESCRIPTION:https://www.leromandie.ch/event/4311-take-ovah-x-fleurs-de-pav
+ e
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VULVES ASSASSINES (FR) + YASOU (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261112
 UID:087df194-af99-5db9-b647-42bab61194b3
@@ -625,27 +616,6 @@ DTSTART;VALUE=DATE:20261007
 UID:7d0ef197-5c28-5fb8-96e8-2c69a2559410
 DESCRIPTION:https://www.leromandie.ch/event/the-lemon-twigs-us-support
 LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DESERTGIRLZ (FR) + SUPPORT — Le Romandie
-DTSTART;VALUE=DATE:20261003
-UID:d11759de-79c3-5a31-b312-a85d1c749993
-DESCRIPTION:https://www.leromandie.ch/event/desertgirlz-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Studio — Folklor
-DTSTART;VALUE=DATE:20261112
-UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flight Mode x Folklor 10 YEARS — Folklor
-DTSTART;VALUE=DATE:20261113
-UID:7cbf5b5a-1d73-575c-adbe-9c3fbe101b16
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:That’s All Folks — Folklor
@@ -836,14 +806,6 @@ DTSTART;VALUE=DATE:20270130
 UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
 DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festival du Bout du Monde – Vendredi – — Le Bout du Monde
-DTSTART;VALUE=DATE:20261113
-UID:a68c5ac7-1416-5748-b313-b6b5c4f6550e
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/festival-du-bout-du-mo
- nde-vendredi/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Festival du Bout du Monde – Samedi – — Le Bout du Monde
@@ -1091,20 +1053,6 @@ DESCRIPTION:https://www.la-breche.fun/events/20-01-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIP HOP LIVE! — La Gravière
-DTSTART;VALUE=DATE:20261113
-UID:feddbae3-7cdb-5388-b633-22132b0bc177
-DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-20/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QLUB QIMERAS — La Gravière
-DTSTART;VALUE=DATE:20261113
-UID:b534b303-1a4c-5377-a783-5acf572dca40
-DESCRIPTION:https://lagraviere.ch/evenement/qlub-qimeras-2/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FILMAR x LA GRAVIÈRE : LIVE! — La Gravière
 DTSTART;VALUE=DATE:20261114
 UID:95d23d0e-4c08-5d9b-a4de-a0aaa188eb20
@@ -1202,6 +1150,13 @@ SUMMARY:Sacred Reich [US] Thrash metal The Ruins of Beverast [DE] Doom met
 DTSTART;VALUE=DATE:20261202
 UID:9b84c4ea-fdcf-5963-8d50-6eb93127982b
 DESCRIPTION:https://ptrnet.ch/evenement/the-ruins-of-beverast/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Edel­bass #7 Drum & Bass\, Dubstep — Post Tenebras Rock
+DTSTART;VALUE=DATE:20261212
+UID:45948dd4-450d-58e0-8340-fd7b850d36de
+DESCRIPTION:https://ptrnet.ch/evenement/edelbass-7/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
