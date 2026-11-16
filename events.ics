@@ -140,9 +140,9 @@ DESCRIPTION:https://www.docks.ch/evenement/evenements/20261219/the-black-s
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marguerite16.01.2027 — Docks
+SUMMARY:Marguerite16.01.2027 - Derniers billets — Docks
 DTSTART;VALUE=DATE:20270116
-UID:06b7c1f7-2a55-54c6-ae71-a943c4934bb5
+UID:601d40a8-53af-5df5-9a98-fbd9377c034e
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270116/marguerite/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -222,9 +222,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270305/leman/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Royal Blood06.03.2027 - CompletUnique date suisse — Docks
+SUMMARY:Royal Blood+ Last Train06.03.2027 - CompletUnique date suisse — 
+ Docks
 DTSTART;VALUE=DATE:20270306
-UID:613d2617-4354-5092-b8b3-0c080ce60a73
+UID:22ad256a-14a6-553f-b2e1-0174aa350539
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270306/royal-blood-2
  /
 LOCATION:Docks\, Lausanne
@@ -317,9 +318,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270425/metallikids/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RODRIGO Y GABRIELA29.04.2027Unique date suisse — Docks
+SUMMARY:RODRIGO Y GABRIELA29.04.2027 - Derniers billetsUnique date suisse 
+ — Docks
 DTSTART;VALUE=DATE:20270429
-UID:9751c1d8-ae85-54b6-80a1-8d317b610a8d
+UID:0b0a6fb1-5b37-5551-854d-be3d207b788f
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20270429/rodrigo-y-gab
  riela-3/
 LOCATION:Docks\, Lausanne
@@ -603,9 +605,9 @@ DESCRIPTION:https://www.leromandie.ch/event/espectro-oculto-night
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:That’s All Folks — Folklor
-DTSTART;VALUE=DATE:20261114
-UID:0d665207-a56d-5b34-8650-ef6871f2d7ff
+SUMMARY:RABANNE 1 MILLION BLACK TOUR — Folklor
+DTSTART;VALUE=DATE:20261119
+UID:caca3eb0-fca1-5d98-9423-302ecf2422aa
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -643,14 +645,6 @@ DTSTART;VALUE=DATE:20261128
 UID:5cce3d1f-b442-5f65-b288-b747f198ee5b
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MELROSE « Le rock rencontre le flamenco » — Les Citrons Masqu
- és
-DTSTART;VALUE=DATE:20261114
-UID:ed2c9398-371c-5356-9751-0678c39625a3
-DESCRIPTION:https://citronsmasques.ch/events/melrose/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOVAJAM Latin Jazz — Les Citrons Masqués
@@ -1065,15 +1059,6 @@ UID:74beac00-0c06-57fa-91ba-7b837cae8eeb
 DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo-x-m
  el-v/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shear­wa­ter [USA] Indie rock / psychedelic folk / folk rock Lom
- a [USA] Indie rock / art rock / ambient pop Any Kind [US] — Post Tenebra
- s Rock
-DTSTART;VALUE=DATE:20261115
-UID:a1b5088d-efe0-5412-a296-a7395461d0f2
-DESCRIPTION:https://ptrnet.ch/evenement/shearwater-loma/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danit­sa [CH] Hip-hop / Soul / Reggae MERCEE [CH] Pop / R&B / Lat
