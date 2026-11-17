@@ -483,6 +483,13 @@ DESCRIPTION:https://www.leromandie.ch/event/mothermary-us-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CRÈME SOLAIRE (CH) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20270226
+UID:ba8c5b9b-f2ff-5d56-8b7d-ca69924431d0
+DESCRIPTION:https://www.leromandie.ch/event/creme-solaire-ch-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FAT DOG (UK) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20270316
 UID:f28fc53b-3d5e-5558-aa22-c7e0d1b3999e
