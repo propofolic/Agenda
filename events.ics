@@ -11,14 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portugal. The Man+ Human Natures17.11.2026 - Complet — Docks
-DTSTART;VALUE=DATE:20261117
-UID:52fe1640-18da-5f49-8c5d-cc3ed6b792a1
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261117/portugal-the-
- man-2/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Boy Harsher+ Choir Boy + Kontravoid18.11.2026 - CompletUnique date
   suisse — Docks
 DTSTART;VALUE=DATE:20261118
@@ -422,6 +414,20 @@ DESCRIPTION:https://www.leromandie.ch/event/theo-juice-and-the-sexy-music-
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Les Urbaines 2026 - Vendredi — Le Romandie
+DTSTART;VALUE=DATE:20261204
+UID:e5c1735d-3491-5f08-9610-2d3db4e24115
+DESCRIPTION:https://www.leromandie.ch/event/les-urbaines-2026-vendredi
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Urbaines 2026 - Samedi — Le Romandie
+DTSTART;VALUE=DATE:20261205
+UID:23ec2c8b-cb6f-5a07-9b59-4772911ac26c
+DESCRIPTION:https://www.leromandie.ch/event/les-urbaines-2026-samedi
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HUMUS & WINE : FÖLLAKZOID (CL) + COCON JAVEL (CH) + DEGUSTATION :
   CATHERINE CRUCHON (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261210
@@ -431,16 +437,16 @@ DESCRIPTION:https://www.leromandie.ch/event/humus-wine-follakzoid-cl-suppo
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:COILGUNS (VERNISSAGE\, CH) + SUPPORT — Le Romandie
+SUMMARY:COILGUNS (VERNISSAGE\, CH) + COLD TOUCH (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261212
-UID:9010f12d-299f-597a-9a85-04a97c2062c5
+UID:adb03e46-f472-5008-a89e-11305f0efe5c
 DESCRIPTION:https://www.leromandie.ch/event/coilguns-vernissage-ch-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:COILGUNS (VERNISSAGE\, CH) + SUPPORT — Le Romandie
+SUMMARY:COILGUNS (VERNISSAGE\, CH) + SOUR SHOTS (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261213
-UID:825e1f71-37f7-5457-be29-8407f2eb7c33
+UID:d5908572-aa95-579f-aec4-fff3a246664d
 DESCRIPTION:https://www.leromandie.ch/event/coilguns-vernissage2-ch-suppor
  t
 LOCATION:Le Romandie\, Lausanne
@@ -1068,17 +1074,10 @@ DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo-x-m
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Danit­sa [CH] Hip-hop / Soul / Reggae MERCEE [CH] Pop / R&B / Lat
- in x Les Créatives — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261117
-UID:025bdc64-10d4-510d-be43-ea68bdc6562e
-DESCRIPTION:https://ptrnet.ch/evenement/danitsa/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nono la Grinta [FR] Rap / Drill — Post Tenebras Rock
+SUMMARY:Nono la Grinta [FR] Rap / Drill Ccino [GE] SOLD OUT — Post Teneb
+ ras Rock
 DTSTART;VALUE=DATE:20261120
-UID:806d999b-ad8a-5945-9a69-d17ab31b7fd9
+UID:0dfe49b1-ef00-563a-98e9-b6850a0d4978
 DESCRIPTION:https://ptrnet.ch/evenement/nono-la-grinta/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
@@ -1104,6 +1103,15 @@ SUMMARY:Edel­bass #7 Drum & Bass\, Dubstep — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261212
 UID:45948dd4-450d-58e0-8340-fd7b850d36de
 DESCRIPTION:https://ptrnet.ch/evenement/edelbass-7/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ancient King­doms by Liquid Dimensions Psytrance — Post Tenebra
+ s Rock
+DTSTART;VALUE=DATE:20270123
+UID:234be8a1-42d0-54b5-9e53-24a4caa36184
+DESCRIPTION:https://ptrnet.ch/evenement/ancient-kingdoms-by-liquid-dimensi
+ ons/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
