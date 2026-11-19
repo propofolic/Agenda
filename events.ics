@@ -11,15 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Boy Harsher+ Choir Boy + Kontravoid18.11.2026 - CompletUnique date
-  suisse — Docks
-DTSTART;VALUE=DATE:20261118
-UID:021f8bf7-8ecb-52fb-8667-b8a1d98c482c
-DESCRIPTION:https://www.docks.ch/evenement/evenements/20261118/boy-harsher
- -2/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Piche+ Anetha Black20.11.2026 — Docks
 DTSTART;VALUE=DATE:20261120
 UID:1a7e051a-be94-56b2-9793-a61dc74e548c
@@ -660,6 +651,34 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Silvi Showcase — Folklor
+DTSTART;VALUE=DATE:20261204
+UID:9582448f-4bc9-5551-bc83-3d3d9e3ce29a
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D.J.S. All Night Long — Folklor
+DTSTART;VALUE=DATE:20261205
+UID:1f8b2868-1b90-5db5-b8b1-71a53741645e
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight x Fantastic Friends — Folklor
+DTSTART;VALUE=DATE:20261211
+UID:f874886e-53bf-5f90-8455-e9630909c166
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bliss x 10 Years Folklor — Folklor
+DTSTART;VALUE=DATE:20261212
+UID:b17eee72-1287-5bbb-9eb3-03dafd389bc7
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NOVAJAM Latin Jazz — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261120
 UID:8474b430-531f-5928-b95d-15d2711d24a4
@@ -1029,9 +1048,9 @@ DESCRIPTION:https://www.la-breche.fun/events/20-01-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CLUB LES CRÉATIVES x LAZE B2B CAMILLE DOE — La Gravière
+SUMMARY:LES CRÉATIVES CLUB x LAZE B2B CAMILLE DOE — La Gravière
 DTSTART;VALUE=DATE:20261120
-UID:863811cb-ebb2-5a5c-a0ff-db68a21dad49
+UID:0a7e15f1-735c-589b-a616-795ead8f9c4b
 DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-laze-b2b-
  camille-doe/
 LOCATION:La Gravière\, Genève
@@ -1045,9 +1064,9 @@ DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-x-les-creatives-2
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CLUB LES CRÉATIVES x RITMO — La Gravière
+SUMMARY:LES CRÉATIVES CLUB x RITMO — La Gravière
 DTSTART;VALUE=DATE:20261121
-UID:755f2435-050a-531e-9fa2-31b5ec4ab6e5
+UID:5ceed52b-cb61-54bd-8ef7-ebb5ecc79e9c
 DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo/
 LOCATION:La Gravière\, Genève
 END:VEVENT
@@ -1059,16 +1078,25 @@ DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CLUB LES CRÉATIVES x BIMINI — La Gravière
+SUMMARY:LES CRÉATIVES CLUB x BIMINI — La Gravière
 DTSTART;VALUE=DATE:20261127
-UID:1e84e62c-e38c-5129-91c0-027b0c17761c
+UID:ede40fa4-9d4a-574d-aca9-28712d8328ae
 DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-bimini/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CLUB LES CRÉATIVES x RITMO x MEL V — La Gravière
+SUMMARY:VSS ET DISCRIMINATIONS EN MILIEU FESTIF : OÙ EN EST-ON À GENÈVE
+  ? — La Gravière
 DTSTART;VALUE=DATE:20261128
-UID:74beac00-0c06-57fa-91ba-7b837cae8eeb
+UID:c5b9dea7-d49c-5386-825b-c95816e8f243
+DESCRIPTION:https://lagraviere.ch/evenement/vss-et-discriminations-en-mili
+ eu-festif-ou-en-est-on-a-geneve/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LES CRÉATIVES CLUB x RITMO x MEL V — La Gravière
+DTSTART;VALUE=DATE:20261128
+UID:3d23af19-bcc1-5479-ac52-68aafbc3843e
 DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo-x-m
  el-v/
 LOCATION:La Gravière\, Genève
@@ -1096,6 +1124,13 @@ SUMMARY:Sacred Reich [US] Thrash metal The Ruins of Beverast [DE] Doom met
 DTSTART;VALUE=DATE:20261202
 UID:9b84c4ea-fdcf-5963-8d50-6eb93127982b
 DESCRIPTION:https://ptrnet.ch/evenement/the-ruins-of-beverast/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TURBOFOIRE2000 Globale de l'Usine — Post Tenebras Rock
+DTSTART;VALUE=DATE:20261211
+UID:583af278-5822-5b20-a56a-3156d2d70466
+DESCRIPTION:https://ptrnet.ch/evenement/turbofoire2000/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1129,6 +1164,16 @@ SUMMARY:The Legen­da­ry Pink Dots [UK] Experimental rock — Post Teneb
 DTSTART;VALUE=DATE:20270203
 UID:7f8f5e25-7bb9-5541-8426-72fa7d7de6e8
 DESCRIPTION:https://ptrnet.ch/evenement/the-legendary-pink-dots/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napalm Death (CFMD 2027) [UK] Grindcore/Death Metal Misery Index 
+ [US] Deathgrind Author & Punisher [US] Indus / Drone / Doom / Noise Habak 
+ [MX] Crust / Hardcore / Post-Rock / Punk Piece [DE] Stoner / Sludge / Doom
+  Metal — Post Tenebras Rock
+DTSTART;VALUE=DATE:20270209
+UID:e1d48bf6-40d4-5837-b06c-b527545db6f1
+DESCRIPTION:https://ptrnet.ch/evenement/napalm-death-cfmd-2027/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
