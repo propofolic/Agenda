@@ -47,9 +47,10 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261127/sam-sauvage/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ZamdaneLe Spectacle RAHMA28.11.2026Unique date suisse — Docks
+SUMMARY:ZamdaneLe Spectacle RAHMA + ASed28.11.2026Unique date suisse — D
+ ocks
 DTSTART;VALUE=DATE:20261128
-UID:bb50cce6-ebba-5a29-bc92-901d50f2ede6
+UID:c9047e21-0bce-5d56-a353-93eef44faeb9
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261128/zamdane/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -342,13 +343,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ETRAN DE L'AÏR (NG) + YALISCO (CH) — Le Romandie
-DTSTART;VALUE=DATE:20261119
-UID:69eff8df-c323-5b1a-b63a-929acd861787
-DESCRIPTION:https://www.leromandie.ch/event/etran-de-lair-ng-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LAKNA (VERNISSAGE\, CH) + NOA FAITH (CH) + AFTERSHOW : SABRINA OBE
  RLIN — Le Romandie
 DTSTART;VALUE=DATE:20261120
@@ -466,6 +460,13 @@ DESCRIPTION:https://www.leromandie.ch/event/paradykes-club4
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SHENG (FR) + SUPPORT — Le Romandie
+DTSTART;VALUE=DATE:20270206
+UID:c302c7f3-b21d-508d-9dff-47d7f874bcb7
+DESCRIPTION:https://www.leromandie.ch/event/sheng-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DITTER (FR) + SUPPORT — Le Romandie
 DTSTART;VALUE=DATE:20270211
 UID:02968a78-76b6-5ce9-afe3-d05eae48ed47
@@ -520,6 +521,13 @@ DTSTART;VALUE=DATE:20270401
 UID:08fee75e-da4d-53ba-9bd7-200f730572af
 DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
  h
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETRAN DE L'AÏR (NG) + YALISCO (CH) — Le Romandie
+DTSTART;VALUE=DATE:20261119
+UID:69eff8df-c323-5b1a-b63a-929acd861787
+DESCRIPTION:https://www.leromandie.ch/event/etran-de-lair-ng-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -599,13 +607,6 @@ SUMMARY:AMOR x NAVA — Le Romandie
 DTSTART;VALUE=DATE:20261016
 UID:a8c2da94-0dd8-5c1e-97ac-0984b340221f
 DESCRIPTION:https://www.leromandie.ch/event/amor-x-nava
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Espectro Oculto Night — Le Romandie
-DTSTART;VALUE=DATE:20261009
-UID:781ef662-7d9f-55f6-b0bf-92771e40be9d
-DESCRIPTION:https://www.leromandie.ch/event/espectro-oculto-night
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -811,13 +812,6 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soirée impro — Le Bout du Monde
-DTSTART;VALUE=DATE:20261119
-UID:14b08293-b537-5682-bc73-c0c373ed88c9
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/soiree-impro-3/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drink&draw — Le Bout du Monde
 DTSTART;VALUE=DATE:20261124
 UID:0d6e2902-abd4-5c4d-bc0c-393284494fe9
@@ -851,13 +845,6 @@ DTSTART;VALUE=DATE:20261129
 UID:e009a5a7-7fe0-5060-9d3f-8a466f9ef678
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-20/
 LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SYD MATTERS + BLUMI — Le Rez-Usine
-DTSTART;VALUE=DATE:20261119
-UID:9649d3d9-d64a-5b71-85e9-250e92e90d3f
-DESCRIPTION:https://rez-usine.ch/portfolio-item/19-11-26-syd-matters/
-LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[ANNULÉ] CŒUR DE PIRATE — Le Rez-Usine
@@ -969,15 +956,6 @@ DTSTART;VALUE=DATE:20270416
 UID:f0b5a368-d11d-5402-9f04-d4ba1035cf22
 DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:jeudi 11 . 19  Hors-Programme : ManDRAGore ManDRAGore La Belladone
-  Kauchemardesk Oxytozyn Satine Morningstar Les folles du bus — La Brèch
- e
-DTSTART;VALUE=DATE:20261119
-UID:2db7cf4e-d695-5631-a00e-25334611feea
-DESCRIPTION:https://www.la-breche.fun/events/19-11-2026
-LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:samedi 11 . 21  Hors-programme : La Marmite a 10 ans : « C’est 
