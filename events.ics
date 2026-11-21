@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Piche+ Anetha Black20.11.2026 — Docks
-DTSTART;VALUE=DATE:20261120
-UID:1a7e051a-be94-56b2-9793-a61dc74e548c
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261120/piche/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kneecap+ Fawzi & Smokaholic21.11.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20261121
 UID:46d0b8a2-c6a8-54f7-8b30-febb12633ae8
@@ -343,14 +336,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAKNA (VERNISSAGE\, CH) + NOA FAITH (CH) + AFTERSHOW : SABRINA OBE
- RLIN — Le Romandie
-DTSTART;VALUE=DATE:20261120
-UID:98955cf8-e261-5d0a-842e-3f8004aba8a8
-DESCRIPTION:https://www.leromandie.ch/event/lakna-ch-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TIMELESS JOURNEY - "METAMORPHOSIS" (Season 1\, Chapter2) — Le Ro
  mandie
 DTSTART;VALUE=DATE:20261121
@@ -524,6 +509,14 @@ DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LAKNA (VERNISSAGE\, CH) + NOA FAITH (CH) + AFTERSHOW : SABRINA OBE
+ RLIN — Le Romandie
+DTSTART;VALUE=DATE:20261120
+UID:98955cf8-e261-5d0a-842e-3f8004aba8a8
+DESCRIPTION:https://www.leromandie.ch/event/lakna-ch-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ETRAN DE L'AÏR (NG) + YALISCO (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261119
 UID:69eff8df-c323-5b1a-b63a-929acd861787
@@ -603,20 +596,6 @@ DESCRIPTION:https://www.leromandie.ch/event/club-francois-3
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AMOR x NAVA — Le Romandie
-DTSTART;VALUE=DATE:20261016
-UID:a8c2da94-0dd8-5c1e-97ac-0984b340221f
-DESCRIPTION:https://www.leromandie.ch/event/amor-x-nava
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RABANNE 1 MILLION BLACK TOUR — Folklor
-DTSTART;VALUE=DATE:20261119
-UID:caca3eb0-fca1-5d98-9423-302ecf2422aa
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chacun Son Délire – 10 ANS — Folklor
 DTSTART;VALUE=DATE:20261120
 UID:e8a4188c-43de-53d1-af79-122b783d2ceb
@@ -687,10 +666,10 @@ DESCRIPTION:https://citronsmasques.ch/events/novajam/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Old Salt Company & Rhumlake Live Pirate Music — Les Citrons 
- Masqués
+SUMMARY:The Old Salt Company & Rhumlake COMPLET Live Pirate Music — Les 
+ Citrons Masqués
 DTSTART;VALUE=DATE:20261121
-UID:5b9be315-dd47-5c25-ab6c-05025725fb8a
+UID:e73ee51c-10cd-5d13-9c9a-8d6c7bab05b4
 DESCRIPTION:https://citronsmasques.ch/events/the-old-salt-company/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
@@ -844,6 +823,77 @@ SUMMARY:La Graille — Le Bout du Monde
 DTSTART;VALUE=DATE:20261129
 UID:e009a5a7-7fe0-5060-9d3f-8a466f9ef678
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-20/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaouta — Le Bout du Monde
+DTSTART;VALUE=DATE:20261204
+UID:b8ec82aa-2f5b-5829-95ca-66e38d3ba393
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/gaouta/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: — Le Bout du Monde
+DTSTART;VALUE=DATE:20261205
+UID:455acd12-cfd6-5459-886c-dde138973eaf
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/2700/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:l’empire du rire — Le Bout du Monde
+DTSTART;VALUE=DATE:20261207
+UID:41d5cdb0-b597-5290-b4ab-35a9eb113056
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/lempire-du-rire-3/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:drink & draw — Le Bout du Monde
+DTSTART;VALUE=DATE:20261208
+UID:47b7212c-79cb-52a9-98ad-fa3fd71651d4
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/drink-draw-22/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les embarcadeuses — Le Bout du Monde
+DTSTART;VALUE=DATE:20261208
+UID:7795b01b-b5c6-51af-bdfc-bd3fa72de543
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/les-embarcadeuses/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GODASSE — Le Bout du Monde
+DTSTART;VALUE=DATE:20261212
+UID:7be3f14d-545c-59b0-95a1-9dce1b7839a6
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/godasse/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soirée impro — Le Bout du Monde
+DTSTART;VALUE=DATE:20261217
+UID:07acfbb5-fae6-545d-b98f-b520fefe5565
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/soiree-impro-4/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soupe populaire — Le Bout du Monde
+DTSTART;VALUE=DATE:20261224
+UID:3ec7d339-fd6d-5c87-b67d-0159c2b9cae3
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/soupe-populaire-5/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:la Graille — Le Bout du Monde
+DTSTART;VALUE=DATE:20261227
+UID:39a154fa-e1a7-5ade-ae92-2e4465d1ee18
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-graille-21/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fermé le 31.12 et le 01.01 — Le Bout du Monde
+DTSTART;VALUE=DATE:20270101
+UID:b09abb74-7b5f-5950-8bf8-154bb85cc10d
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/ferme-le-31-12-et-le-0
+ 1-01/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
@@ -1026,14 +1076,6 @@ DESCRIPTION:https://www.la-breche.fun/events/20-01-2026
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LES CRÉATIVES CLUB x LAZE B2B CAMILLE DOE — La Gravière
-DTSTART;VALUE=DATE:20261120
-UID:0a7e15f1-735c-589b-a616-795ead8f9c4b
-DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-laze-b2b-
- camille-doe/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HIP HOP LIVE! x LES CRÉATIVES — La Gravière
 DTSTART;VALUE=DATE:20261121
 UID:009410e5-526b-5d75-8bbd-852879472768
@@ -1078,14 +1120,6 @@ UID:3d23af19-bcc1-5479-ac52-68aafbc3843e
 DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo-x-m
  el-v/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nono la Grinta [FR] Rap / Drill Ccino [GE] SOLD OUT — Post Teneb
- ras Rock
-DTSTART;VALUE=DATE:20261120
-UID:0dfe49b1-ef00-563a-98e9-b6850a0d4978
-DESCRIPTION:https://ptrnet.ch/evenement/nono-la-grinta/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NATHALIE FROEHLICH [CH] Rap / Electro LUM [CH] Rap / Pop / Reggaet
