@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kneecap+ Fawzi & Smokaholic21.11.2026 - Complet — Docks
-DTSTART;VALUE=DATE:20261121
-UID:46d0b8a2-c6a8-54f7-8b30-febb12633ae8
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261121/kneecap/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tori Kelly+ HILLARI24.11.2026Unique date suisse — Docks
 DTSTART;VALUE=DATE:20261124
 UID:6308a8a3-6221-5a4e-b95e-12d56eee8103
@@ -336,15 +329,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TIMELESS JOURNEY - "METAMORPHOSIS" (Season 1\, Chapter2) — Le Ro
- mandie
-DTSTART;VALUE=DATE:20261121
-UID:95166841-e7bb-5bc8-bcae-c33675afcbf8
-DESCRIPTION:https://www.leromandie.ch/event/timeless-journey-metamorphosis
- -season-1-chapter2
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SUPERPOZE (FR) + LEONORE BRUNNER (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261125
 UID:c1a20abe-8de6-5ffa-93b9-2da5a187bc34
@@ -509,6 +493,15 @@ DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TIMELESS JOURNEY - "METAMORPHOSIS" (Season 1\, Chapter2) — Le Ro
+ mandie
+DTSTART;VALUE=DATE:20261121
+UID:95166841-e7bb-5bc8-bcae-c33675afcbf8
+DESCRIPTION:https://www.leromandie.ch/event/timeless-journey-metamorphosis
+ -season-1-chapter2
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LAKNA (VERNISSAGE\, CH) + NOA FAITH (CH) + AFTERSHOW : SABRINA OBE
  RLIN — Le Romandie
 DTSTART;VALUE=DATE:20261120
@@ -589,20 +582,6 @@ DESCRIPTION:https://www.leromandie.ch/event/jeanneto-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club François — Le Romandie
-DTSTART;VALUE=DATE:20261017
-UID:40700025-b0be-52bb-b0f0-f6c8e086b56e
-DESCRIPTION:https://www.leromandie.ch/event/club-francois-3
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chacun Son Délire – 10 ANS — Folklor
-DTSTART;VALUE=DATE:20261120
-UID:e8a4188c-43de-53d1-af79-122b783d2ceb
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Folklor’s 10th Anniversary — Folklor
 DTSTART;VALUE=DATE:20261121
 UID:c3fb76ad-804d-5fdb-9e38-058cedabe5e2
@@ -657,13 +636,6 @@ DTSTART;VALUE=DATE:20261212
 UID:b17eee72-1287-5bbb-9eb3-03dafd389bc7
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOVAJAM Latin Jazz — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261120
-UID:8474b430-531f-5928-b95d-15d2711d24a4
-DESCRIPTION:https://citronsmasques.ch/events/novajam/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Old Salt Company & Rhumlake COMPLET Live Pirate Music — Les 
@@ -897,20 +869,6 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/ferme-le-31-12-et-le-0
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[ANNULÉ] CŒUR DE PIRATE — Le Rez-Usine
-DTSTART;VALUE=DATE:20261121
-UID:6ad2ab4d-7253-53c2-8ef6-d8f1423ea750
-DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-coeur-de-pirate/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:L’UZINE + MELAN + 10VERS — Le Rez-Usine
-DTSTART;VALUE=DATE:20261121
-UID:532115d1-2af5-5fbd-b9e7-2b0261059392
-DESCRIPTION:https://rez-usine.ch/portfolio-item/21-11-26-luzine/
-LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JÔ + LITTLE LION SOUND + DERRICK SOUND — Le Rez-Usine
 DTSTART;VALUE=DATE:20261203
 UID:9e37235c-e27e-530c-8119-358d48122870
@@ -1008,15 +966,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:samedi 11 . 21  Hors-programme : La Marmite a 10 ans : « C’est 
- la fête ! » La Marmite Les contes du Moulin à Paroles Tendinites House 
- of Perreo — La Brèche
-DTSTART;VALUE=DATE:20261121
-UID:dd9c90af-6d6e-5939-ac43-a3fc9578f2ce
-DESCRIPTION:https://www.la-breche.fun/events/21-11-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:mardi 11 . 24  Hors-programme : impro Afterwork — La Brèche
 DTSTART;VALUE=DATE:20261124
 UID:b0e1d031-4f7e-5b77-933e-d74292349bbf
@@ -1074,21 +1023,6 @@ DTSTART;VALUE=DATE:20260120
 UID:1bd9cf44-bc95-5762-998e-0641a75ae3d1
 DESCRIPTION:https://www.la-breche.fun/events/20-01-2026
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HIP HOP LIVE! x LES CRÉATIVES — La Gravière
-DTSTART;VALUE=DATE:20261121
-UID:009410e5-526b-5d75-8bbd-852879472768
-DESCRIPTION:https://lagraviere.ch/evenement/hip-hop-live-x-les-creatives-2
- /
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LES CRÉATIVES CLUB x RITMO — La Gravière
-DTSTART;VALUE=DATE:20261121
-UID:5ceed52b-cb61-54bd-8ef7-ebb5ecc79e9c
-DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIVE! x LES CRÉATIVES — La Gravière
