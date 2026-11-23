@@ -582,13 +582,6 @@ DESCRIPTION:https://www.leromandie.ch/event/jeanneto-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Folklor’s 10th Anniversary — Folklor
-DTSTART;VALUE=DATE:20261121
-UID:c3fb76ad-804d-5fdb-9e38-058cedabe5e2
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:unBOXing — Folklor
 DTSTART;VALUE=DATE:20261126
 UID:b0c20cd7-139d-553f-8c62-4a01ca449f9f
@@ -636,14 +629,6 @@ DTSTART;VALUE=DATE:20261212
 UID:b17eee72-1287-5bbb-9eb3-03dafd389bc7
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Old Salt Company & Rhumlake COMPLET Live Pirate Music — Les 
- Citrons Masqués
-DTSTART;VALUE=DATE:20261121
-UID:e73ee51c-10cd-5d13-9c9a-8d6c7bab05b4
-DESCRIPTION:https://citronsmasques.ch/events/the-old-salt-company/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KWOON Post Rock — Les Citrons Masqués
