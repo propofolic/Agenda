@@ -245,6 +245,13 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20270319/nuit-incolore
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mastodon+ Monolord24.03.2027Unique date suisse — Docks
+DTSTART;VALUE=DATE:20270324
+UID:53a5f989-01fc-5855-9f2f-883cbc5293ee
+DESCRIPTION:https://www.docks.ch/evenement/concerts/20270324/mastodon/
+LOCATION:Docks\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:aupinard25.03.2027 — Docks
 DTSTART;VALUE=DATE:20270325
 UID:e67a03e2-b004-5b99-b1c1-a78619656931
@@ -603,6 +610,13 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Studio — Folklor
+DTSTART;VALUE=DATE:20261203
+UID:dc072fc4-09e4-5b6e-8c77-c994f72eede3
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Silvi Showcase — Folklor
 DTSTART;VALUE=DATE:20261204
 UID:9582448f-4bc9-5551-bc83-3d3d9e3ce29a
@@ -627,6 +641,13 @@ BEGIN:VEVENT
 SUMMARY:Bliss x 10 Years Folklor — Folklor
 DTSTART;VALUE=DATE:20261212
 UID:b17eee72-1287-5bbb-9eb3-03dafd389bc7
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Folklor Nation — Folklor
+DTSTART;VALUE=DATE:20261218
+UID:6e1bbd05-567c-5d10-9ca7-a27a86f98a6f
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
@@ -893,9 +914,10 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/17-12-26-ghostface-killah/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GET OUT : PLANÈTE ROUGE x LE REZ-USINE — Le Rez-Usine
+SUMMARY:GET OUT : FALLON (FR) x PLANÈTE ROUGE x LE REZ-USINE — Le Rez-U
+ sine
 DTSTART;VALUE=DATE:20261219
-UID:816703c9-569a-51f3-94d1-f6a6a075d2df
+UID:9022030f-f372-59b3-9086-be158e618721
 DESCRIPTION:https://rez-usine.ch/portfolio-item/19-12-26-get-out-planete-r
  ouge-x-le-rez-usine/
 LOCATION:Le Rez-Usine\, Genève
@@ -1041,6 +1063,20 @@ DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-ritmo-x-m
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DJ BABATR — La Gravière
+DTSTART;VALUE=DATE:20261204
+UID:96cff159-8b65-511d-83b3-bd166e74ea59
+DESCRIPTION:https://lagraviere.ch/evenement/dj-babatr/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DERESTRICT — La Gravière
+DTSTART;VALUE=DATE:20261218
+UID:1836162a-547a-50d1-8714-6b370ff3f1c7
+DESCRIPTION:https://lagraviere.ch/evenement/derestrict-7/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NATHALIE FROEHLICH [CH] Rap / Electro LUM [CH] Rap / Pop / Reggaet
  on x Les Créatives — Post Tenebras Rock
 DTSTART;VALUE=DATE:20261125
@@ -1148,6 +1184,13 @@ SUMMARY:Kalash Cri­mi­nel [FR] Rap hardcore / Trap / Drill x TCO Prod
 DTSTART;VALUE=DATE:20270403
 UID:138ce9bb-a4c7-5d12-8fd3-9a7d745e30b5
 DESCRIPTION:https://ptrnet.ch/evenement/kalash-criminel/
+LOCATION:Post Tenebras Rock (L'Usine)\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Yegros [AR] Nu-Cumbia — Post Tenebras Rock
+DTSTART;VALUE=DATE:20270514
+UID:10f81d5e-1b0a-5b29-bbfb-f31a3c5263e9
+DESCRIPTION:https://ptrnet.ch/evenement/la-yegros-2/
 LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
