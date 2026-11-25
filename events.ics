@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tori Kelly+ HILLARI24.11.2026Unique date suisse — Docks
-DTSTART;VALUE=DATE:20261124
-UID:6308a8a3-6221-5a4e-b95e-12d56eee8103
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261124/tori-kelly/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kid Francescoli+ Woody26.11.2026 — Docks
 DTSTART;VALUE=DATE:20261126
 UID:0a7051db-17fa-58e2-8bb4-6e0b63dd6b48
@@ -41,9 +34,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261128/zamdane/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lebanon Hanover04.12.2026 — Docks
+SUMMARY:Lebanon Hanover+ Karl Kave & Durian04.12.2026 — Docks
 DTSTART;VALUE=DATE:20261204
-UID:8dbe3c01-12c1-519a-9ccb-c01e22ea4a3f
+UID:b7cd30bc-1049-5598-9385-9f3df572f099
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261204/lebanon-hanov
  er-2/
 LOCATION:Docks\, Lausanne
@@ -64,9 +57,9 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20261208/cory-wong/
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BEN plg10.12.2026 - Complet — Docks
+SUMMARY:BEN plg+ Chien Bleu10.12.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20261210
-UID:556b9e30-b7f2-5a43-bede-f81e476b3142
+UID:1ca9cc2f-3820-50d0-859b-2ce59a12d5dc
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261210/ben-plg/
 LOCATION:Docks\, Lausanne
 END:VEVENT
@@ -696,9 +689,9 @@ DESCRIPTION:https://citronsmasques.ch/events/psarades/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JEWLY & Guest Heavy Rock blues — Les Citrons Masqués
+SUMMARY:JEWLY (F) Heavy Rock blues — Les Citrons Masqués
 DTSTART;VALUE=DATE:20261212
-UID:e3762bde-56cb-5584-94b7-ddc6cd9d2edb
+UID:d7afac1d-99c4-58b9-82e8-1b1b725d064b
 DESCRIPTION:https://citronsmasques.ch/events/jewly-f/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
@@ -767,13 +760,6 @@ DTSTART;VALUE=DATE:20270130
 UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
 DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drink&draw — Le Bout du Monde
-DTSTART;VALUE=DATE:20261124
-UID:0d6e2902-abd4-5c4d-bc0c-393284494fe9
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/drindraw/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cedric Blaser — Le Bout du Monde
@@ -973,13 +959,6 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:mardi 11 . 24  Hors-programme : impro Afterwork — La Brèche
-DTSTART;VALUE=DATE:20261124
-UID:b0e1d031-4f7e-5b77-933e-d74292349bbf
-DESCRIPTION:https://www.la-breche.fun/events/24-11-2026
-LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:jeudi 11 . 26  release party CC Fantasy nykolaes & Daniël Paul 
  — La Brèche
 DTSTART;VALUE=DATE:20261126
@@ -1029,6 +1008,13 @@ SUMMARY:mercredi 01 . 20  Ivy Knight TBC — La Brèche
 DTSTART;VALUE=DATE:20260120
 UID:1bd9cf44-bc95-5762-998e-0641a75ae3d1
 DESCRIPTION:https://www.la-breche.fun/events/20-01-2026
+LOCATION:La Brèche\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:jeudi 02 . 11  Abel Ghekiere Suzan Peeters — La Brèche
+DTSTART;VALUE=DATE:20270211
+UID:a6d0d976-6336-531a-a985-086d82295f08
+DESCRIPTION:https://www.la-breche.fun/events/11-02-27
 LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
