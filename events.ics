@@ -329,13 +329,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SUPERPOZE (FR) + LEONORE BRUNNER (CH) — Le Romandie
-DTSTART;VALUE=DATE:20261125
-UID:c1a20abe-8de6-5ffa-93b9-2da5a187bc34
-DESCRIPTION:https://www.leromandie.ch/event/superpoze-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:On Stage : Namir + Faustine — Le Romandie
 DTSTART;VALUE=DATE:20261126
 UID:3b935266-82bc-5cb4-89a1-16fef5e8e6cb
@@ -493,6 +486,13 @@ DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SUPERPOZE (FR) + LEONORE BRUNNER (CH) — Le Romandie
+DTSTART;VALUE=DATE:20261125
+UID:c1a20abe-8de6-5ffa-93b9-2da5a187bc34
+DESCRIPTION:https://www.leromandie.ch/event/superpoze-fr-support
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TIMELESS JOURNEY - "METAMORPHOSIS" (Season 1\, Chapter2) — Le Ro
  mandie
 DTSTART;VALUE=DATE:20261121
@@ -572,13 +572,6 @@ SUMMARY:ROMANDUB #2 — Le Romandie
 DTSTART;VALUE=DATE:20261024
 UID:379a37cf-04a8-56c4-bec3-8cad8616ea00
 DESCRIPTION:https://www.leromandie.ch/event/romandub-2
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEANNETO (FR) + EGGS AND TIARAS (CH) — Le Romandie
-DTSTART;VALUE=DATE:20261022
-UID:5861e2e1-8f7a-5912-b3d0-f4323ea5e634
-DESCRIPTION:https://www.leromandie.ch/event/jeanneto-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
@@ -762,6 +755,14 @@ DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
 LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chris Savourey (F) & NEVERFALL Hard rock/Power vintage Rock n'roll
+  — Les Citrons Masqués
+DTSTART;VALUE=DATE:20270205
+UID:60d0e76a-fd24-5be2-a4eb-c1074f4aa59f
+DESCRIPTION:https://citronsmasques.ch/events/chris-savourey-f-neverfall/
+LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cedric Blaser — Le Bout du Monde
 DTSTART;VALUE=DATE:20261126
 UID:2cb1a531-e317-551e-a315-27c0bc41976d
@@ -877,9 +878,9 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/04-12-26-le-grand-bal-guin
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CHARLÉLIE COUTURE — Le Rez-Usine
+SUMMARY:[ANNULÉ] CHARLÉLIE COUTURE — Le Rez-Usine
 DTSTART;VALUE=DATE:20261205
-UID:c98b9959-97ed-52f8-b35d-514aa3d4799f
+UID:5b077c5c-92f5-5f26-b6d3-60bf153cc060
 DESCRIPTION:https://rez-usine.ch/portfolio-item/05-12-26-charlelie-couture
  /
 LOCATION:Le Rez-Usine\, Genève
@@ -928,6 +929,13 @@ SUMMARY:ZED — Le Rez-Usine
 DTSTART;VALUE=DATE:20270205
 UID:88cd97b3-af42-5d64-a377-11031d04c3fb
 DESCRIPTION:https://rez-usine.ch/portfolio-item/05-02-27-zed/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RICHIE CAMPBELL — Le Rez-Usine
+DTSTART;VALUE=DATE:20270206
+UID:a458c4d3-ab76-5929-ae85-b4db0ffb8d83
+DESCRIPTION:https://rez-usine.ch/portfolio-item/06-02-27-richie-campbell/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
@@ -1061,14 +1069,6 @@ DTSTART;VALUE=DATE:20261218
 UID:1836162a-547a-50d1-8714-6b370ff3f1c7
 DESCRIPTION:https://lagraviere.ch/evenement/derestrict-7/
 LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NATHALIE FROEHLICH [CH] Rap / Electro LUM [CH] Rap / Pop / Reggaet
- on x Les Créatives — Post Tenebras Rock
-DTSTART;VALUE=DATE:20261125
-UID:0d9eb6c0-04ce-5852-bf22-6d89bda8a792
-DESCRIPTION:https://ptrnet.ch/evenement/nathalie-froehlich/
-LOCATION:Post Tenebras Rock (L'Usine)\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sacred Reich [US] Thrash metal The Ruins of Beverast [DE] Doom met
