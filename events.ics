@@ -11,14 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kid Francescoli+ Woody26.11.2026 — Docks
-DTSTART;VALUE=DATE:20261126
-UID:0a7051db-17fa-58e2-8bb4-6e0b63dd6b48
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261126/kid-francesco
- li-3/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sam Sauvage+ Paolo.27.11.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20261127
 UID:3fbd65e3-7c67-5378-a893-a1221d01ead8
@@ -79,9 +71,9 @@ DESCRIPTION:https://www.docks.ch/evenement/evenements/20261212/eluveitie-4
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sébastien Tellier13.12.2026 - Derniers billets — Docks
+SUMMARY:Sébastien Tellier13.12.2026 - Complet — Docks
 DTSTART;VALUE=DATE:20261213
-UID:2d035b97-a331-590b-a17f-09b45ef0b523
+UID:84520fe5-23ae-5792-980f-3adb5859d2e6
 DESCRIPTION:https://www.docks.ch/evenement/concerts/20261213/sebastien-tel
  lier-2/
 LOCATION:Docks\, Lausanne
@@ -329,13 +321,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On Stage : Namir + Faustine — Le Romandie
-DTSTART;VALUE=DATE:20261126
-UID:3b935266-82bc-5cb4-89a1-16fef5e8e6cb
-DESCRIPTION:https://www.leromandie.ch/event/on-stage-namir-faustine
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ASHEN (FR) + ALCHEMISTS (VERNISSAGE\, CH) + FALLEN SKIES (CH) — 
  Le Romandie
 DTSTART;VALUE=DATE:20261127
@@ -486,6 +471,13 @@ DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:On Stage : Namir + Faustine — Le Romandie
+DTSTART;VALUE=DATE:20261126
+UID:3b935266-82bc-5cb4-89a1-16fef5e8e6cb
+DESCRIPTION:https://www.leromandie.ch/event/on-stage-namir-faustine
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SUPERPOZE (FR) + LEONORE BRUNNER (CH) — Le Romandie
 DTSTART;VALUE=DATE:20261125
 UID:c1a20abe-8de6-5ffa-93b9-2da5a187bc34
@@ -568,20 +560,6 @@ DESCRIPTION:https://www.leromandie.ch/event/stanislas-fr-support
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROMANDUB #2 — Le Romandie
-DTSTART;VALUE=DATE:20261024
-UID:379a37cf-04a8-56c4-bec3-8cad8616ea00
-DESCRIPTION:https://www.leromandie.ch/event/romandub-2
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:unBOXing — Folklor
-DTSTART;VALUE=DATE:20261126
-UID:b0c20cd7-139d-553f-8c62-4a01ca449f9f
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Techno Rituals — Folklor
 DTSTART;VALUE=DATE:20261127
 UID:29f6c94f-f15d-53f0-aa61-a5fc0dca39f2
@@ -617,6 +595,13 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Le b2b de Vintage Franky — Folklor
+DTSTART;VALUE=DATE:20261210
+UID:f0a8e66d-1cfc-52fb-baf6-3b992b2f2136
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sight x Fantastic Friends — Folklor
 DTSTART;VALUE=DATE:20261211
 UID:f874886e-53bf-5f90-8455-e9630909c166
@@ -631,6 +616,13 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jam’N’Folklor x Le Bal de Noël — Folklor
+DTSTART;VALUE=DATE:20261217
+UID:bdcaef59-07ac-5252-b4c2-231cd4d7fb66
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Folklor Nation — Folklor
 DTSTART;VALUE=DATE:20261218
 UID:6e1bbd05-567c-5d10-9ca7-a27a86f98a6f
@@ -638,141 +630,30 @@ DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KWOON Post Rock — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261127
-UID:4679638a-6b5c-564e-acc1-853c691898f4
-DESCRIPTION:https://citronsmasques.ch/events/kwoon/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feel Floyd Tribute Pink Floyd — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261128
-UID:aa2aee34-9ebb-5291-bebe-7b5ea5723ec3
-DESCRIPTION:https://citronsmasques.ch/events/feel-floyd/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:l’Alchimie du Rire Comedy club Stand up — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261203
-UID:60ebe44c-cf58-54e8-8533-5152e23e060f
-DESCRIPTION:https://citronsmasques.ch/events/lalchimie-du-rire-comedy-club
- -stand-up/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brothers on the run//Verron Country folk rock — Les Citrons Masq
- ués
-DTSTART;VALUE=DATE:20261204
-UID:6e3f0805-c7d7-5fe7-b2f2-76cf7d05a0fc
-DESCRIPTION:https://citronsmasques.ch/events/brothers-on-the-run-verron/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zouk & Kompa Dance — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261205
-UID:11e35b9e-e56d-5110-8141-a6ceb60800e8
-DESCRIPTION:https://citronsmasques.ch/events/zouk-kompa-2/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Psarades Folk balkanique — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261211
-UID:c77b74da-86c8-5bae-a4a5-ad0f7175b549
-DESCRIPTION:https://citronsmasques.ch/events/psarades/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEWLY (F) Heavy Rock blues — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261212
-UID:d7afac1d-99c4-58b9-82e8-1b1b725d064b
-DESCRIPTION:https://citronsmasques.ch/events/jewly-f/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOVAJAM Jazz standars — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261218
-UID:f1626690-5b56-529e-869e-18cbe11e4b0d
-DESCRIPTION:https://citronsmasques.ch/events/novajam-2/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lord Bishop Rocks// DÏRT BÖUND Hendrixian Motör Funk — Les Ci
- trons Masqués
+SUMMARY:That’s all Folks x 10 Years Folklor — Folklor
 DTSTART;VALUE=DATE:20261219
-UID:b0ce27e4-02de-5271-a2f7-2a938df4c955
-DESCRIPTION:https://citronsmasques.ch/events/lord-bishop-rocks/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+UID:7a8e3e77-f2a0-561d-9834-a5c0c33e1a79
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portobello Citrons Market Fenêtre de l’avant Expo/brocante — 
- Les Citrons Masqués
-DTSTART;VALUE=DATE:20261222
-UID:587fa53b-83b8-5ebf-b391-f92fe6e21a3a
-DESCRIPTION:https://citronsmasques.ch/events/portobello-citrons-market/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+SUMMARY:After Lokal — Folklor
+DTSTART;VALUE=DATE:20261224
+UID:dcd70081-5a69-555e-9542-713d436e9192
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Portobello Citrons Market Brocante — Les Citrons Masqués
-DTSTART;VALUE=DATE:20261223
-UID:356c515b-595a-551c-a543-9b156f72fff0
-DESCRIPTION:https://citronsmasques.ch/events/portobello-citrons-market-2/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
+SUMMARY:Groove & Juicy — Folklor
+DTSTART;VALUE=DATE:20261226
+UID:7dfc55d8-3ce7-59c6-932d-966a08c2bfe8
+DESCRIPTION:https://www.folklor.club/events/
+LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sounds Of Queen Tribute Queen — Les Citrons Masqués
-DTSTART;VALUE=DATE:20270109
-UID:43e642bb-c32e-584b-8acf-e34da56a0f7a
-DESCRIPTION:https://citronsmasques.ch/events/lords-of-queen/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:B sharp(B#) & Sounds Like Rabbits Rock — Les Citrons Masqués
-DTSTART;VALUE=DATE:20270116
-UID:d7411ebc-d943-5859-bbad-76038ac2e005
-DESCRIPTION:https://citronsmasques.ch/events/b-sharpb-sounds-like-rabbits/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZOUK & KOMPA La mensuelle — Les Citrons Masqués
-DTSTART;VALUE=DATE:20270123
-UID:46f86d3e-3dc5-5937-bb3b-a129c67fe472
-DESCRIPTION:https://citronsmasques.ch/events/zouk-kompa/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech to Hard tech Techno / Hard techno — Les Citrons Masqués
-DTSTART;VALUE=DATE:20270129
-UID:da0965a1-a91a-5aff-86ec-9d782ea442b6
-DESCRIPTION:https://citronsmasques.ch/events/tech-to-hard-tech/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Karaoke « Djette’s Angel around Venus » — Les Citrons Masqu
- és
-DTSTART;VALUE=DATE:20270130
-UID:a36ee606-43bc-5bbc-b3d4-d7138bbe9c0d
-DESCRIPTION:https://citronsmasques.ch/events/apero-karaoke/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chris Savourey (F) & NEVERFALL Hard rock/Power vintage Rock n'roll
-  — Les Citrons Masqués
-DTSTART;VALUE=DATE:20270205
-UID:60d0e76a-fd24-5be2-a4eb-c1074f4aa59f
-DESCRIPTION:https://citronsmasques.ch/events/chris-savourey-f-neverfall/
-LOCATION:Les Citrons Masqués\, Yverdon-les-Bains
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cedric Blaser — Le Bout du Monde
-DTSTART;VALUE=DATE:20261126
-UID:2cb1a531-e317-551e-a315-27c0bc41976d
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/cedric-blaser/
-LOCATION:Le Bout du Monde\, Vevey
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Clamerie — Le Bout du Monde
+SUMMARY:Annulé! – La Clamerie – Annulé! — Le Bout du Monde
 DTSTART;VALUE=DATE:20261127
-UID:64eb2b0a-ece4-5080-aa7b-95b1eb7655f9
+UID:ceea2877-9934-5a30-9cf3-e3a9f53117ae
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-clamerie-5/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
@@ -798,9 +679,9 @@ DESCRIPTION:https://www.leboutdumonde.ch/evenements/gaouta/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: — Le Bout du Monde
+SUMMARY:Elliott Quiz — Le Bout du Monde
 DTSTART;VALUE=DATE:20261205
-UID:455acd12-cfd6-5459-886c-dde138973eaf
+UID:c2600814-b445-5eed-9b23-378da44730a1
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/2700/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
@@ -837,6 +718,14 @@ SUMMARY:Soirée impro — Le Bout du Monde
 DTSTART;VALUE=DATE:20261217
 UID:07acfbb5-fae6-545d-b98f-b520fefe5565
 DESCRIPTION:https://www.leboutdumonde.ch/evenements/soiree-impro-4/
+LOCATION:Le Bout du Monde\, Vevey
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soirée Lëon – Cochon Double — Le Bout du Monde
+DTSTART;VALUE=DATE:20261219
+UID:d1d8fa16-09b4-5e54-802c-ed4737c57baa
+DESCRIPTION:https://www.leboutdumonde.ch/evenements/soiree-leon-cochon-dou
+ ble-2/
 LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
@@ -917,6 +806,14 @@ DESCRIPTION:https://rez-usine.ch/portfolio-item/24-12-26-disco-de-noel/
 LOCATION:Le Rez-Usine\, Genève
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[REZ-ZOO-DOUZE] NYE: SIAMO 7U77I 2027 — Le Rez-Usine
+DTSTART;VALUE=DATE:20261231
+UID:711e559b-9da9-5622-a669-e3510f26d15e
+DESCRIPTION:https://rez-usine.ch/portfolio-item/31-12-26-rez-zoo-douze-nye
+ -siamo-7u77i-2027/
+LOCATION:Le Rez-Usine\, Genève
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GOULAMAS’K + 8°6 CREW + SKARFACE + SIXYKA — Le Rez-Usine
 DTSTART;VALUE=DATE:20270129
 UID:eee4ac25-c7f2-52bc-a726-594af4f98b4f
@@ -965,14 +862,6 @@ DTSTART;VALUE=DATE:20270416
 UID:f0b5a368-d11d-5402-9f04-d4ba1035cf22
 DESCRIPTION:https://rez-usine.ch/portfolio-item/16-04-27-luiza/
 LOCATION:Le Rez-Usine\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:jeudi 11 . 26  release party CC Fantasy nykolaes & Daniël Paul 
- — La Brèche
-DTSTART;VALUE=DATE:20261126
-UID:ff187975-f9c0-5375-8b94-687a0b281064
-DESCRIPTION:https://www.la-breche.fun/events/26-11-2026
-LOCATION:La Brèche\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:jeudi 12 . 03  Film 2 Swimming Pool — La Brèche
@@ -1061,6 +950,13 @@ SUMMARY:DJ BABATR — La Gravière
 DTSTART;VALUE=DATE:20261204
 UID:96cff159-8b65-511d-83b3-bd166e74ea59
 DESCRIPTION:https://lagraviere.ch/evenement/dj-babatr/
+LOCATION:La Gravière\, Genève
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA GRAVERIE — La Gravière
+DTSTART;VALUE=DATE:20261205
+UID:3561f2fc-8ab3-5f7c-ae56-97d0aaecbfe3
+DESCRIPTION:https://lagraviere.ch/evenement/la-graverie-14/
 LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
