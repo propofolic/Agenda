@@ -11,13 +11,6 @@ DESCRIPTION:https://www.docks.ch/evenement/expositions/20261104/exposition
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sam Sauvage+ Paolo.27.11.2026 - Complet — Docks
-DTSTART;VALUE=DATE:20261127
-UID:3fbd65e3-7c67-5378-a893-a1221d01ead8
-DESCRIPTION:https://www.docks.ch/evenement/concerts/20261127/sam-sauvage/
-LOCATION:Docks\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ZamdaneLe Spectacle RAHMA + ASed28.11.2026Unique date suisse — D
  ocks
 DTSTART;VALUE=DATE:20261128
@@ -321,15 +314,6 @@ DESCRIPTION:https://www.docks.ch/evenement/concerts/20271030/the-lottery-w
 LOCATION:Docks\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ASHEN (FR) + ALCHEMISTS (VERNISSAGE\, CH) + FALLEN SKIES (CH) — 
- Le Romandie
-DTSTART;VALUE=DATE:20261127
-UID:c10bf824-39fe-552a-9ae0-1a799897a0f2
-DESCRIPTION:https://www.leromandie.ch/event/ashen-fr-alchemists-vernissage
- -ch-fallen-skies-ch
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LE GRAND REMPLACEMENT — Le Romandie
 DTSTART;VALUE=DATE:20261128
 UID:b8bb4f82-2327-560b-9205-96511346d75d
@@ -471,6 +455,15 @@ DESCRIPTION:https://www.leromandie.ch/event/sunday-june-ch-citron-citron-c
 LOCATION:Le Romandie\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ASHEN (FR) + ALCHEMISTS (VERNISSAGE\, CH) + FALLEN SKIES (CH) — 
+ Le Romandie
+DTSTART;VALUE=DATE:20261127
+UID:c10bf824-39fe-552a-9ae0-1a799897a0f2
+DESCRIPTION:https://www.leromandie.ch/event/ashen-fr-alchemists-vernissage
+ -ch-fallen-skies-ch
+LOCATION:Le Romandie\, Lausanne
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:On Stage : Namir + Faustine — Le Romandie
 DTSTART;VALUE=DATE:20261126
 UID:3b935266-82bc-5cb4-89a1-16fef5e8e6cb
@@ -551,20 +544,6 @@ UID:c82c924e-ad3c-50fe-8db1-3bc94acf3551
 DESCRIPTION:https://www.leromandie.ch/event/y2k-night-avec-carton-jaune-ch
  armed-edition
 LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STANISLAS (FR) + LOHAN (CH) — Le Romandie
-DTSTART;VALUE=DATE:20261029
-UID:3b4c6a99-1fc1-583c-8e02-6a7c030a8fba
-DESCRIPTION:https://www.leromandie.ch/event/stanislas-fr-support
-LOCATION:Le Romandie\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Techno Rituals — Folklor
-DTSTART;VALUE=DATE:20261127
-UID:29f6c94f-f15d-53f0-aa61-a5fc0dca39f2
-DESCRIPTION:https://www.folklor.club/events/
-LOCATION:Folklor\, Lausanne
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Querelle — Folklor
@@ -649,13 +628,6 @@ DTSTART;VALUE=DATE:20261226
 UID:7dfc55d8-3ce7-59c6-932d-966a08c2bfe8
 DESCRIPTION:https://www.folklor.club/events/
 LOCATION:Folklor\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Annulé! – La Clamerie – Annulé! — Le Bout du Monde
-DTSTART;VALUE=DATE:20261127
-UID:ceea2877-9934-5a30-9cf3-e3a9f53117ae
-DESCRIPTION:https://www.leboutdumonde.ch/evenements/la-clamerie-5/
-LOCATION:Le Bout du Monde\, Vevey
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skasa Xkaladona — Le Bout du Monde
@@ -913,20 +885,6 @@ DTSTART;VALUE=DATE:20270211
 UID:a6d0d976-6336-531a-a985-086d82295f08
 DESCRIPTION:https://www.la-breche.fun/events/11-02-27
 LOCATION:La Brèche\, Lausanne
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LIVE! x LES CRÉATIVES — La Gravière
-DTSTART;VALUE=DATE:20261127
-UID:66e9ac0a-abb4-513d-b48d-af0d1b05b137
-DESCRIPTION:https://lagraviere.ch/evenement/live-x-les-creatives/
-LOCATION:La Gravière\, Genève
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LES CRÉATIVES CLUB x BIMINI — La Gravière
-DTSTART;VALUE=DATE:20261127
-UID:ede40fa4-9d4a-574d-aca9-28712d8328ae
-DESCRIPTION:https://lagraviere.ch/evenement/club-les-creatives-x-bimini/
-LOCATION:La Gravière\, Genève
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VSS ET DISCRIMINATIONS EN MILIEU FESTIF : OÙ EN EST-ON À GENÈVE
